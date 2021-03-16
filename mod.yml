@@ -1,6 +1,6 @@
-title: English language pack
+title: KHII Darkness translation
 originalAuthor: OpenKH open-source assets
-description: Generate English game files. This mod is mainly useful to translate your PlayStation 2 copy of Kingdom Hearts II from any language to English.
+description: This mod turns your PlayStation 2 copy of Kingdom Hearts II from any language into Darkness.
 assets:
   - name: msg/us/fontimage.bar
     method: copy
@@ -18,7 +18,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/sys.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: copy
@@ -32,7 +32,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/title.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: copy
@@ -46,7 +46,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/al.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -60,7 +60,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/bb.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -74,7 +74,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/ca.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -88,7 +88,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/dc.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -102,7 +102,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/di.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -116,7 +116,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/eh.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -130,7 +130,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/es.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -144,7 +144,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/gumi.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: copy
@@ -158,7 +158,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/hb.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -172,7 +172,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/he.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -186,7 +186,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/jm.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: copy
@@ -200,7 +200,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/lk.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -214,7 +214,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/lm.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -228,7 +228,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/mu.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -242,7 +242,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/nm.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -256,7 +256,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/po.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -270,7 +270,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/tr.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -284,7 +284,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/tt.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -298,7 +298,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/wi.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd
@@ -312,7 +312,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/wm.yml
-            language: en
+            language: drk
       - name: md_m
         type: imgd
         method: imgd

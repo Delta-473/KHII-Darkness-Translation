@@ -1,147 +1,147 @@
 ﻿- id: 6219
-  en: Treasure List
+  drk: Treasure List
 - id: 6220
-  en: Material/G
+  drk: Material/G
 - id: 6221
-  en: Aero/G
+  drk: Aero/G
 - id: 6222
-  en: Flat Helm/G
+  drk: Flat Helm/G
 - id: 6223
-  en: Bubble Helm/G
+  drk: Bubble Helm/G
 - id: 6224
-  en: Solid Helm/G
+  drk: Solid Helm/G
 - id: 6225
-  en: Sphere Helm/G
+  drk: Sphere Helm/G
 - id: 6226
-  en: Bridge/G
+  drk: Bridge/G
 - id: 6227
-  en: Big Bridge/G
+  drk: Big Bridge/G
 - id: 6228
-  en: Vernier/G
+  drk: Vernier/G
 - id: 6229
-  en: Booster/G
+  drk: Booster/G
 - id: 6230
-  en: Thruster/G
+  drk: Thruster/G
 - id: 6231
-  en: Mini-Propeller/G
+  drk: Mini-Propeller/G
 - id: 6232
-  en: Propeller/G
+  drk: Propeller/G
 - id: 6233
-  en: '{:width 95}Screw Propeller/G'
+  drk: '{:width 95}Screw Propeller/G'
 - id: 6234
-  en: Sonic Turbo/G
+  drk: Sonic Turbo/G
 - id: 6235
-  en: Rotor/G
+  drk: Rotor/G
 - id: 6236
-  en: Large Rotor/G
+  drk: Large Rotor/G
 - id: 6237
-  en: Tempest/G
+  drk: Tempest/G
 - id: 6238
-  en: Hurricane/G
+  drk: Hurricane/G
 - id: 6239
-  en: Typhoon/G
+  drk: Typhoon/G
 - id: 6240
-  en: Cyclone/G
+  drk: Cyclone/G
 - id: 6241
-  en: Vortex/G
+  drk: Vortex/G
 - id: 6242
-  en: Storm/G
+  drk: Storm/G
 - id: 6243
-  en: Angel/G
+  drk: Angel/G
 - id: 6244
-  en: Darkness/G
+  drk: Darkness/G
 - id: 6245
-  en: Shield/G
+  drk: Shield/G
 - id: 6246
-  en: Large Shield/G
+  drk: Large Shield/G
 - id: 6247
-  en: Shell/G
+  drk: Shell/G
 - id: 6248
-  en: Large Shell/G
+  drk: Large Shell/G
 - id: 6249
-  en: Fire/G
+  drk: Fire/G
 - id: 6250
-  en: Fira/G
+  drk: Fira/G
 - id: 6251
-  en: Firaga/G
+  drk: Firaga/G
 - id: 6252
-  en: Blizzard/G
+  drk: Blizzard/G
 - id: 6253
-  en: Blizzara/G
+  drk: Blizzara/G
 - id: 6254
-  en: Blizzaga/G
+  drk: Blizzaga/G
 - id: 6255
-  en: Gravity/G
+  drk: Gravity/G
 - id: 6256
-  en: Gravira/G
+  drk: Gravira/G
 - id: 6257
-  en: Graviga/G
+  drk: Graviga/G
 - id: 6258
-  en: Thunder/G
+  drk: Thunder/G
 - id: 6259
-  en: Thundara/G
+  drk: Thundara/G
 - id: 6260
-  en: Thundaga/G
+  drk: Thundaga/G
 - id: 6261
-  en: Comet/G
+  drk: Comet/G
 - id: 6262
-  en: Meteor/G
+  drk: Meteor/G
 - id: 6263
-  en: Ultima/G
+  drk: Ultima/G
 - id: 6264
-  en: Drill/G
+  drk: Drill/G
 - id: 6265
-  en: Saw/G
+  drk: Saw/G
 - id: 6266
-  en: Orichalcum/G
+  drk: Orichalcum/G
 - id: 6267
-  en: Masamune/G
+  drk: Masamune/G
 - id: 6268
-  en: Excalibur/G
+  drk: Excalibur/G
 - id: 6269
-  en: Infinity/G
+  drk: Infinity/G
 - id: 6270
-  en: Neon Orb/G
+  drk: Neon Orb/G
 - id: 6271
-  en: Neon Bar/G
+  drk: Neon Bar/G
 - id: 6272
-  en: Wheel/G
+  drk: Wheel/G
 - id: 6273
-  en: Parabola/G
+  drk: Parabola/G
 - id: 6274
-  en: Antenna/G
+  drk: Antenna/G
 - id: 6275
-  en: Radar/G
+  drk: Radar/G
 - id: 6276
-  en: Round Light/G
+  drk: Round Light/G
 - id: 6277
-  en: Square Light/G
+  drk: Square Light/G
 - id: 6278
-  en: Crown/G
+  drk: Crown/G
 - id: 6279
-  en: Shuriken/G
+  drk: Shuriken/G
 - id: 6280
-  en: Gungnir/G
+  drk: Gungnir/G
 - id: 6281
-  en: Boomerang/G
+  drk: Boomerang/G
 - id: 6282
-  en: Moon Ring/G
+  drk: Moon Ring/G
 - id: 6283
-  en: Strike/G
+  drk: Strike/G
 - id: 6284
-  en: Bomb/G
+  drk: Bomb/G
 - id: 6287
-  en: Drain/G
+  drk: Drain/G
 - id: 6303
-  en: Draw
+  drk: Draw
 - id: 6307
-  en: Heal Upgrade
+  drk: Heal Upgrade
 - id: 6311
-  en: Auto-Life
+  drk: Auto-Life
 - id: 6314
-  en: DUMMY
+  drk: DUMMY
 - id: 6315
-  en: >-
+  drk: >-
     Material Gummies can be modified
 
     to meet your design needs.
@@ -150,7 +150,7 @@
 
     Gummies to increase the Ship´s HP.
 - id: 6316
-  en: >-
+  drk: >-
     Material Gummies can be modified
 
     to meet your design needs.
@@ -159,499 +159,499 @@
 
     Ship´s mobility.
 - id: 6329
-  en: Cockpit Gummies
+  drk: Cockpit Gummies
 - id: 6330
-  en: Wing Gummies
+  drk: Wing Gummies
 - id: 6331
-  en: Engine Gummies
+  drk: Engine Gummies
 - id: 6332
-  en: '{:width 90}Projectile Gummies'
+  drk: '{:width 90}Projectile Gummies'
 - id: 6333
-  en: Slash Gummies
+  drk: Slash Gummies
 - id: 6334
-  en: Shield Gummies
+  drk: Shield Gummies
 - id: 6335
-  en: '{:width 92}Optional Gummies'
+  drk: '{:width 92}Optional Gummies'
 - id: 6336
-  en: Lock-on Gummies
+  drk: Lock-on Gummies
 - id: 6337
-  en: Assign Abilities
+  drk: Assign Abilities
 - id: 6339
-  en: Gummi Lumps
+  drk: Gummi Lumps
 - id: 6340
-  en: Shape
+  drk: Shape
 - id: 6341
-  en: Copy and Place
+  drk: Copy and Place
 - id: 6342
-  en: Edit
+  drk: Edit
 - id: 6343
-  en: Paint
+  drk: Paint
 - id: 6344
-  en: Undo
+  drk: Undo
 - id: 6345
-  en: Redo
+  drk: Redo
 - id: 6346
-  en: Change Mode
+  drk: Change Mode
 - id: 6349
-  en: Save Blueprint
+  drk: Save Blueprint
 - id: 6350
-  en: Exit
+  drk: Exit
 - id: 6351
-  en: Bevelled Gummies
+  drk: Bevelled Gummies
 - id: 6352
-  en: Curved Gummies
+  drk: Curved Gummies
 - id: 6353
-  en: Aero Gummies
+  drk: Aero Gummies
 - id: 6354
-  en: Place Gummies
+  drk: Place Gummies
 - id: 6355
-  en: Add Bevels
+  drk: Add Bevels
 - id: 6356
-  en: Add Curves
+  drk: Add Curves
 - id: 6357
-  en: Add a Point
+  drk: Add a Point
 - id: 6358
-  en: Copy Normal
+  drk: Copy Normal
 - id: 6359
-  en: Copy Mirrored
+  drk: Copy Mirrored
 - id: 6365
-  en: >-
+  drk: >-
     Change Material Gummies into various
 
     shapes before placing them.
 - id: 6366
-  en: >-
+  drk: >-
     Add bevels to a Material Gummi to
 
     increase the Ship´s HP.
 - id: 6367
-  en: >-
+  drk: >-
     Add curves to a Material Gummi to
 
     greatly increase the Ship´s HP.
 - id: 6368
-  en: >-
+  drk: >-
     Add aerodynamics to a Material Gummi
 
     to increase the Ship´s mobility.
 - id: 6369
-  en: >-
+  drk: >-
     Place multiple Material Gummies at
 
     once by lumping them together.
 - id: 6372
-  en: >-
+  drk: >-
     Change the shape of Gummies you´ve
 
     already placed.
 - id: 6373
-  en: >-
+  drk: >-
     Add Bevels to the selected Material
 
     Gummi.
 - id: 6374
-  en: >-
+  drk: >-
     Add Curves to the selected Material
 
     Gummi.
 - id: 6375
-  en: >-
+  drk: >-
     Taper the selected Material Gummi in
 
     a chosen direction.
 - id: 6376
-  en: >-
+  drk: >-
     Clone one or more Gummies you´ve
 
     placed and place the copy.
 - id: 6377
-  en: Copy the Gummi pattern as is.
+  drk: Copy the Gummi pattern as is.
 - id: 6378
-  en: >-
+  drk: >-
     Flip the Gummi pattern before
 
     copying it.
 - id: 6379
-  en: >-
+  drk: >-
     Move Gummi blocks you´ve placed or
 
     remove them from the assembly.
 - id: 6380
-  en: Apply color to Gummi blocks.
+  drk: Apply color to Gummi blocks.
 - id: 6381
-  en: >-
+  drk: >-
     Go back one step and restore the
 
     assembly to its previous condition.
 - id: 6382
-  en: >-
+  drk: >-
     Undo the last change and restore the
 
     assembly to its previous condition.
 - id: 6383
-  en: >-
+  drk: >-
     Switch to an Editor Mode designed for
 
     placing Deco-Gummies.
 - id: 6384
-  en: >-
+  drk: >-
     Customize the Editor to
 
     your own personal preferences.
 - id: 6386
-  en: >-
+  drk: >-
     Stop Gummi Ship assembly and exit
 
     the Editor.
 - id: 6387
-  en: They increase the Ship´s overall power.
+  drk: They increase the Ship´s overall power.
 - id: 6388
-  en: >-
+  drk: >-
     Place Deco-Gummies that increase the
 
     Gummi Ship´s mobility.
 - id: 6389
-  en: >-
+  drk: >-
     Place Deco-Gummies that boost the
 
     Gummi Ship´s speed.
 - id: 6390
-  en: >-
+  drk: >-
     Place Deco-Gummies that fire when
 
     {:icon button-cross} is pressed.
 - id: 6391
-  en: >-
+  drk: >-
     Place Deco-Gummies that slash nearby
 
     targets using {:icon button-triangle}.
 - id: 6392
-  en: >-
+  drk: >-
     Place Deco-Gummies that can block
 
     enemy fire.
 - id: 6393
-  en: >-
+  drk: >-
     Don´t forget to include rare and unique
 
     Deco-Gummies.
 - id: 6394
-  en: >-
+  drk: >-
     Place Deco-Gummies that lock-on and
 
     fire when {:icon button-cross} is held down.
 - id: 6395
-  en: Allocate Ability Units.
+  drk: Allocate Ability Units.
 - id: 6396
-  en: >-
+  drk: >-
     Switch to an Editor Mode designed for
 
     placing Material Gummies.
 - id: 6399
-  en: Start
+  drk: Start
 - id: 6400
-  en: Gummi Editor
+  drk: Gummi Editor
 - id: 6404
-  en: Select a Mission Level to fly.
+  drk: Select a Mission Level to fly.
 - id: 6415
-  en: Gummi Ships
+  drk: Gummi Ships
 - id: 6416
-  en: Teeny Ships
+  drk: Teeny Ships
 - id: 6422
-  en: World Map
+  drk: World Map
 - id: 6424
-  en: Offense
+  drk: Offense
 - id: 6425
-  en: Cost
+  drk: Cost
 - id: 6426
-  en: HP
+  drk: HP
 - id: 6427
-  en: Speed
+  drk: Speed
 - id: 6428
-  en: Mobility
+  drk: Mobility
 - id: 6429
-  en: '-'
+  drk: '-'
 - id: 8434
-  en: >-
+  drk: >-
     Attracts Orbs that are normally out
 
     of reach.
 - id: 8438
-  en: >-
+  drk: >-
     Increases the recovery effect of HP
 
     Orbs.
 - id: 8442
-  en: >-
+  drk: >-
     Restores HP after the first time
 
     it drops to 0.
 - id: 8450
-  en: Blast off and take the Gummi Route!
+  drk: Blast off and take the Gummi Route!
 - id: 8451
-  en: Assemble and upgrade Gummi Ships.
+  drk: Assemble and upgrade Gummi Ships.
 - id: 8466
-  en: '{:width 84}Build Ships with Gummi blocks you´ve collected.'
+  drk: '{:width 84}Build Ships with Gummi blocks you´ve collected.'
 - id: 8467
-  en: '{:width 84}Build Teeny Ships that will defend your Gummi Ship.'
+  drk: '{:width 84}Build Teeny Ships that will defend your Gummi Ship.'
 - id: 8473
-  en: Return to the World Map.
+  drk: Return to the World Map.
 - id: 13976
-  en: Formation Change
+  drk: Formation Change
 - id: 14075
-  en: Continue
+  drk: Continue
 - id: 14076
-  en: Retry
+  drk: Retry
 - id: 14077
-  en: Rapid Fire
+  drk: Rapid Fire
 - id: 14078
-  en: Semi-Auto
+  drk: Semi-Auto
 - id: 14079
-  en: Full Auto
+  drk: Full Auto
 - id: 14080
-  en: Y Axis
+  drk: Y Axis
 - id: 14081
-  en: Normal
+  drk: Normal
 - id: 14082
-  en: Reverse
+  drk: Reverse
 - id: 14083
-  en: Camera
+  drk: Camera
 - id: 14084
-  en: Normal
+  drk: Normal
 - id: 14085
-  en: Reverse
+  drk: Reverse
 - id: 14086
-  en: Gummi Menu
+  drk: Gummi Menu
 - id: 14087
-  en: World Map
+  drk: World Map
 - id: 14280
-  en: Settings
+  drk: Settings
 - id: 14281
-  en: Weapon Gummies
+  drk: Weapon Gummies
 - id: 14282
-  en: '{:width 90}Movement Gummies'
+  drk: '{:width 90}Movement Gummies'
 - id: 14283
-  en: '{:width 90}Auxiliary Gummies'
+  drk: '{:width 90}Auxiliary Gummies'
 - id: 14289
-  en: Continue
+  drk: Continue
 - id: 14290
-  en: Gummi Menu
+  drk: Gummi Menu
 - id: 14291
-  en: World Map
+  drk: World Map
 - id: 14648
-  en: >-
+  drk: >-
     Save the Gummi Ship you´ve built to a
 
     Blueprint.
 - id: 14649
-  en: >-
+  drk: >-
     Place Deco-Gummies designed for
 
     offense.
 - id: 14650
-  en: >-
+  drk: >-
     Place Deco-Gummies designed for
 
     movement.
 - id: 14651
-  en: >-
+  drk: >-
     Place Deco-Gummies designed for
 
     special applications.
 - id: 14681
-  en: Cannon Upgrade
+  drk: Cannon Upgrade
 - id: 14682
-  en: Laser Upgrade
+  drk: Laser Upgrade
 - id: 14683
-  en: Slash Upgrade
+  drk: Slash Upgrade
 - id: 14684
-  en: Medal Converter
+  drk: Medal Converter
 - id: 14685
-  en: Auto-Regen
+  drk: Auto-Regen
 - id: 14686
-  en: Auto-Counter
+  drk: Auto-Counter
 - id: 14687
-  en: Cost Converter
+  drk: Cost Converter
 - id: 14688
-  en: Active Formation
+  drk: Active Formation
 - id: 14689
-  en: '{:width 95}Patterned Skins A'
+  drk: '{:width 95}Patterned Skins A'
 - id: 14690
-  en: '{:width 95}Patterned Skins B'
+  drk: '{:width 95}Patterned Skins B'
 - id: 14691
-  en: Realistic Skins
+  drk: Realistic Skins
 - id: 14692
-  en: Decal Skins
+  drk: Decal Skins
 - id: 14693
-  en: Variety Skins A
+  drk: Variety Skins A
 - id: 14694
-  en: Variety Skins B
+  drk: Variety Skins B
 - id: 14695
-  en: Neon Skins A
+  drk: Neon Skins A
 - id: 14696
-  en: Neon Skins B
+  drk: Neon Skins B
 - id: 14697
-  en: Cost Limit Upgrade
+  drk: Cost Limit Upgrade
 - id: 14699
-  en: Teeny System
+  drk: Teeny System
 - id: 14700
-  en: AP Limit Upgrade
+  drk: AP Limit Upgrade
 - id: 14701
-  en: Mushroom Model
+  drk: Mushroom Model
 - id: 14702
-  en: Highwind α Model
+  drk: Highwind α Model
 - id: 14703
-  en: PuPu Model
+  drk: PuPu Model
 - id: 14704
-  en: Tonberry Model
+  drk: Tonberry Model
 - id: 14705
-  en: Moogle Model
+  drk: Moogle Model
 - id: 14706
-  en: '{:width 95}Mandragora {:width 100}Model'
+  drk: '{:width 95}Mandragora {:width 100}Model'
 - id: 14707
-  en: Chocobo Model
+  drk: Chocobo Model
 - id: 14708
-  en: Cactuar Model
+  drk: Cactuar Model
 - id: 14709
-  en: Cait Sith Model
+  drk: Cait Sith Model
 - id: 14710
-  en: Fenrir Model
+  drk: Fenrir Model
 - id: 14711
-  en: Kingdom Model
+  drk: Kingdom Model
 - id: 14712
-  en: Secret Model
+  drk: Secret Model
 - id: 15148
-  en: '{:width 95}Teeny Limit Upgrade'
+  drk: '{:width 95}Teeny Limit Upgrade'
 - id: 15181
-  en: >-
+  drk: >-
     Increases the damage dealt by cannon
 
     attacks.
 - id: 15182
-  en: >-
+  drk: >-
     Increases the damage dealt by laser
 
     attacks.
 - id: 15183
-  en: >-
+  drk: >-
     Increases the damage dealt by Slash
 
     Gummi attacks.
 - id: 15184
-  en: >-
+  drk: >-
     Causes Medal Orbs to appear more
 
     often than HP Orbs.
 - id: 15185
-  en: Restores HP automatically over time.
+  drk: Restores HP automatically over time.
 - id: 15186
-  en: >-
+  drk: >-
     Fires lasers automatically when hit by
 
     enemy attacks.
 - id: 15187
-  en: >-
+  drk: >-
     Allows you to leave one Teeny Ship
 
     behind and add its cost to
 
     the Gummi Ship.
 - id: 15188
-  en: >-
+  drk: >-
     Allows you to change the formation of
 
     Teeny Ships with {:icon button-l2} and {:icon button-r2}.
 - id: 15189
-  en: >-
+  drk: >-
     Allows you to power the Teeny Ship
 
     into an active formation with {:icon button-square}.
 - id: 15196
-  en: Material/G ₓ 5
+  drk: Material/G ₓ 5
 - id: 15197
-  en: Material/G ₓ 10
+  drk: Material/G ₓ 10
 - id: 15198
-  en: Material/G ₓ 20
+  drk: Material/G ₓ 20
 - id: 15420
-  en: Power
+  drk: Power
 - id: 15421
-  en: >-
+  drk: >-
     Fires two rounds straight ahead.
 
     Rapid fire-enabled.
 - id: 15422
-  en: >-
+  drk: >-
     Fires two heavy rounds straight
 
     ahead. Rapid fire-enabled.
 - id: 15423
-  en: >-
+  drk: >-
     Fires two powerful rounds straight
 
     ahead. Rapid fire-enabled.
 - id: 15424
-  en: >-
+  drk: >-
     Fires two, bi-directional rounds.
 
     Rapid fire-enabled.
 - id: 15425
-  en: >-
+  drk: >-
     Fires two, tri-directional rounds.
 
     Rapid fire-enabled.
 - id: 15426
-  en: >-
+  drk: >-
     Fires two, quad-directional rounds.
 
     Rapid fire-enabled.
 - id: 15427
-  en: >-
+  drk: >-
     Fires a round that scatters when
 
     it hits a target.
 - id: 15428
-  en: >-
+  drk: >-
     Fires a round that scatters wide
 
     when it hits a target.
 - id: 15429
-  en: >-
+  drk: >-
     Fires a powerful round that
 
     scatters wide when it hits a target.
 - id: 15430
-  en: >-
+  drk: >-
     Fires laser rounds that seek out
 
     locked targets. You can lock on
 
     two enemies at a time.
 - id: 15431
-  en: >-
+  drk: >-
     Fires laser rounds that seek out
 
     locked targets. You can lock on
 
     up to four enemies.
 - id: 15432
-  en: >-
+  drk: >-
     Fires laser rounds that seek out
 
     locked targets. You can lock on
 
     up to six enemies.
 - id: 15433
-  en: >-
+  drk: >-
     Auto-locks onto nearby targets
 
     and fires two laser rounds.
 - id: 15434
-  en: >-
+  drk: >-
     Auto-locks onto nearby targets
 
     and fires four laser rounds.
 - id: 15435
-  en: >-
+  drk: >-
     Fires laser rounds that seek out
 
     locked targets. You can aim for
@@ -660,17 +660,17 @@
 
     up to six times.
 - id: 15436
-  en: >-
+  drk: >-
     Damages enemies that collide with
 
     the gummi block.
 - id: 15437
-  en: >-
+  drk: >-
     Damages enemies that collide with
 
     the gummi block.
 - id: 15438
-  en: >
+  drk: >
     Uses the Slash Gauge to unleash
 
     a forward attack that cuts through
@@ -679,7 +679,7 @@
 
     Slash Gummies to set up combos.
 - id: 15439
-  en: >
+  drk: >
     Uses the Slash Gauge to unleash
 
     a vertical attack that cuts through
@@ -688,7 +688,7 @@
 
     Slash Gummies to set up combos.
 - id: 15440
-  en: >-
+  drk: >-
     Uses the Slash Gauge to unleash a
 
     horizontal attack that cuts through
@@ -697,7 +697,7 @@
 
     Slash Gummies to set up combos.
 - id: 15441
-  en: >-
+  drk: >-
     Uses the Slash Gauge to unleash a
 
     perimeter attack that cuts through
@@ -706,92 +706,92 @@
 
     Slash Gummies to set up combos.
 - id: 15442
-  en: >-
+  drk: >-
     Expends power, but increases the
 
     Gummi Ship´s speed.
 - id: 15443
-  en: >-
+  drk: >-
     Expends power, but increases the
 
     Gummi Ship´s speed.
 - id: 15444
-  en: >-
+  drk: >-
     Expends power, but increases the
 
     Gummi Ship´s speed.
 - id: 15445
-  en: >-
+  drk: >-
     Expends power, but increases the
 
     Gummi Ship´s speed.
 - id: 15446
-  en: >-
+  drk: >-
     Expends power, but increases the
 
     Gummi Ship´s speed.
 - id: 15447
-  en: >-
+  drk: >-
     Expends power, but increases the
 
     Gummi Ship´s speed.
 - id: 15448
-  en: >-
+  drk: >-
     Expends power, but increases the
 
     Gummi Ship´s speed.
 - id: 15449
-  en: >-
+  drk: >-
     Expends power, but increases the
 
     Gummi Ship´s speed.
 - id: 15450
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15451
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15452
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15453
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15454
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15455
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15456
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15457
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15458
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15459
-  en: >-
+  drk: >-
     Slows the Gummi Ship down, but
 
     boosts the Ship´s power and
@@ -800,7 +800,7 @@
 
     Weapon Gummies.
 - id: 15460
-  en: >-
+  drk: >-
     Slows the Gummi Ship down, but
 
     boosts the Ship´s power and
@@ -809,7 +809,7 @@
 
     Weapon Gummies.
 - id: 15461
-  en: >-
+  drk: >-
     Slows the Gummi Ship down, but
 
     boosts the Ship´s power and
@@ -818,7 +818,7 @@
 
     Weapon Gummies.
 - id: 15462
-  en: >-
+  drk: >-
     Slows the Gummi Ship down, but
 
     boosts the Ship´s power and
@@ -827,7 +827,7 @@
 
     Weapon Gummies.
 - id: 15463
-  en: >-
+  drk: >-
     Slows the Gummi Ship down, but
 
     boosts the Ship´s power and
@@ -836,7 +836,7 @@
 
     Weapon Gummies.
 - id: 15464
-  en: >-
+  drk: >-
     Slows the Gummi Ship down, but
 
     boosts the Ship´s power and
@@ -845,36 +845,36 @@
 
     Weapon Gummies.
 - id: 15465
-  en: >-
+  drk: >-
     Decreases the Gummi Ship's power,
 
     but blocks normal enemy fire.
 - id: 15466
-  en: >-
+  drk: >-
     Decreases the Gummi Ship's power,
 
     but blocks normal enemy fire.
 - id: 15467
-  en: >-
+  drk: >-
     Decreases the Gummi Ship's power,
 
     but blocks enemy lasers.
 - id: 15468
-  en: >-
+  drk: >-
     Decreases the Gummi Ship's power,
 
     but blocks enemy lasers.
 - id: 15469
-  en: Increases the Gummi Ship´s power.
+  drk: Increases the Gummi Ship´s power.
 - id: 15470
-  en: Increases the Gummi Ship´s power.
+  drk: Increases the Gummi Ship´s power.
 - id: 15471
-  en: >-
+  drk: >-
     Increases the Gummi Ship´s
 
     mobility.
 - id: 15472
-  en: >-
+  drk: >-
     Allows you to lock on more quickly,
 
     but sacrifices ship speed. Attaching
@@ -883,7 +883,7 @@
 
     lock-on response.
 - id: 15473
-  en: >-
+  drk: >-
     Allows you to lock on more quickly,
 
     but sacrifices ship speed. Attaching
@@ -892,7 +892,7 @@
 
     lock-on response.
 - id: 15474
-  en: >-
+  drk: >-
     Allows you to lock on more quickly,
 
     but sacrifices ship speed. Attaching
@@ -901,27 +901,27 @@
 
     lock-on response.
 - id: 15475
-  en: >-
+  drk: >-
     Expends power, but greatly
 
     increases the Gummi Ship´s HP.
 - id: 15476
-  en: >-
+  drk: >-
     Expends power, but greatly
 
     increases the Gummi Ship´s HP.
 - id: 15477
-  en: >-
+  drk: >-
     Reduces HP down to 1, but the Ship
 
     will start missions in Berserk Mode.
 - id: 15478
-  en: >-
+  drk: >-
     Damages enemies that collide with
 
     the gummi block.
 - id: 15479
-  en: >-
+  drk: >-
     Absorbs and redirects normal
 
     enemy fire. The more rounds
@@ -930,101 +930,101 @@
 
     the resulting shot will be.
 - id: 15679
-  en: '{:width 90}{:color #8080F080}{:icon button-select}{:reset}{:width 90}: Close'
+  drk: '{:width 90}{:color #8080F080}{:icon button-select}{:reset}{:width 90}: Close'
 - id: 15680
-  en: '{:icon button-cross}: Open Topic'
+  drk: '{:icon button-cross}: Open Topic'
 - id: 15681
-  en: '{:icon button-circle}: Back'
+  drk: '{:icon button-circle}: Back'
 - id: 15683
-  en: 'Material Gummies {:color #8080F080}▸{:reset}'
+  drk: 'Material Gummies {:color #8080F080}▸{:reset}'
 - id: 15684
-  en: 'Deco-Gummies {:color #8080F080}▸{:reset}'
+  drk: 'Deco-Gummies {:color #8080F080}▸{:reset}'
 - id: 15685
-  en: 'Placing Gummies {:color #8080F080}▸{:reset}'
+  drk: 'Placing Gummies {:color #8080F080}▸{:reset}'
 - id: 15686
-  en: 'Copy and Place {:color #8080F080}▸{:reset}'
+  drk: 'Copy and Place {:color #8080F080}▸{:reset}'
 - id: 15687
-  en: 'Shape {:color #8080F080}▸{:reset}'
+  drk: 'Shape {:color #8080F080}▸{:reset}'
 - id: 15697
-  en: 'Weapon Gummies {:color #8080F080}▸{:reset}'
+  drk: 'Weapon Gummies {:color #8080F080}▸{:reset}'
 - id: 15698
-  en: 'Movement Gummies {:color #8080F080}▸{:reset}'
+  drk: 'Movement Gummies {:color #8080F080}▸{:reset}'
 - id: 15699
-  en: 'Auxiliary Gummies {:color #8080F080}▸{:reset}'
+  drk: 'Auxiliary Gummies {:color #8080F080}▸{:reset}'
 - id: 15874
-  en: Before You Begin
+  drk: Before You Begin
 - id: 15875
-  en: Viewer Mode
+  drk: Viewer Mode
 - id: 15876
-  en: 'Let´s Get Building! {:color #8080F080}▸{:reset}'
+  drk: 'Let´s Get Building! {:color #8080F080}▸{:reset}'
 - id: 15877
-  en: 'Info Log {:color #8080F080}▸{:reset}'
+  drk: 'Info Log {:color #8080F080}▸{:reset}'
 - id: 15878
-  en: 1. Selection
+  drk: 1. Selection
 - id: 15879
-  en: 3. Rules
+  drk: 3. Rules
 - id: 15880
-  en: Button Guide
+  drk: Button Guide
 - id: 15881
-  en: 2. Select an Area
+  drk: 2. Select an Area
 - id: 15882
-  en: 1. Copy Normal
+  drk: 1. Copy Normal
 - id: 15883
-  en: 1. Modifications
+  drk: 1. Modifications
 - id: 15884
-  en: 3. Adding Points
+  drk: 3. Adding Points
 - id: 15885
-  en: 1. Selection
+  drk: 1. Selection
 - id: 15886
-  en: 3. Adding Colors
+  drk: 3. Adding Colors
 - id: 16440
-  en: Start
+  drk: Start
 - id: 16441
-  en: Abort
+  drk: Abort
 - id: 16582
-  en: Welcome to the Editor!
+  drk: Welcome to the Editor!
 - id: 16583
-  en: About Material Gummies
+  drk: About Material Gummies
 - id: 16584
-  en: About Deco-Gummies
+  drk: About Deco-Gummies
 - id: 16585
-  en: About Viewer Mode
+  drk: About Viewer Mode
 - id: 16586
-  en: How to Build Gummi Ships
+  drk: How to Build Gummi Ships
 - id: 16587
-  en: Information Log
+  drk: Information Log
 - id: 16588
-  en: Placing Material Gummies
+  drk: Placing Material Gummies
 - id: 16589
-  en: Copying Shapes and Placement
+  drk: Copying Shapes and Placement
 - id: 16590
-  en: Changing Gummi Shapes
+  drk: Changing Gummi Shapes
 - id: 16600
-  en: Offensive Gummies
+  drk: Offensive Gummies
 - id: 16601
-  en: Movement Gummies
+  drk: Movement Gummies
 - id: 16602
-  en: Special Deco-Gummies
+  drk: Special Deco-Gummies
 - id: 16612
-  en: Let´s Select Gummies!
+  drk: Let´s Select Gummies!
 - id: 16613
-  en: Rules of Gummi Placement
+  drk: Rules of Gummi Placement
 - id: 16614
-  en: The Button Guide
+  drk: The Button Guide
 - id: 16615
-  en: Selecting an Area
+  drk: Selecting an Area
 - id: 16616
-  en: How to Copy Normally
+  drk: How to Copy Normally
 - id: 16617
-  en: Bevels and Curves
+  drk: Bevels and Curves
 - id: 16618
-  en: How to Add Points
+  drk: How to Add Points
 - id: 16619
-  en: Setting the Colors of the Palette
+  drk: Setting the Colors of the Palette
 - id: 16620
-  en: Adding Color to Gummi Blocks
+  drk: Adding Color to Gummi Blocks
 - id: 16634
-  en: >-
+  drk: >-
     Gummi Ships are special vehicles built
 
     with {:color #8080F080}Gummi blocks{:reset}.
@@ -1049,7 +1049,7 @@
 
     for assistance.
 - id: 16635
-  en: >-
+  drk: >-
     Material Gummies are {:color #F0F00080}blocks that can be
 
     reshaped{:reset} to fit a wide variety of design
@@ -1076,7 +1076,7 @@
 
     Editing Mode{:reset}.
 - id: 16636
-  en: >-
+  drk: >-
     Deco-Gummies are blocks that have
 
     special functions and can´t be reshaped.
@@ -1105,7 +1105,7 @@
 
     Editing Mode{:reset}.
 - id: 16637
-  en: >-
+  drk: >-
     You can view the Gummi Ship while editing
 
     by pressing the {:color #8080F080}OPTIONS button{:reset} at the
@@ -1128,7 +1128,7 @@
 
     to return immediately to the Top Menu.
 - id: 16638
-  en: >-
+  drk: >-
     There are many types of Gummi blocks.
 
     Your Gummi Ship´s functionality is
@@ -1156,14 +1156,14 @@
 
     Press {:icon button-cross} to keep reading!
 - id: 16640
-  en: >-
+  drk: >-
     View {:color #8080F080}special items and functions{:reset} of
 
     your Gummi Ship that you have acquired
 
     so far.
 - id: 16641
-  en: >-
+  drk: >-
     Material Gummies are mainly used to
 
     create the body of a Gummi Ship. They
@@ -1194,7 +1194,7 @@
 
     together.{:reset}
 - id: 16642
-  en: >-
+  drk: >-
     Copy the shape of a Material Gummi that
 
     already exists to reshape a new Material
@@ -1223,7 +1223,7 @@
 
     placed if you don´t have enough.
 - id: 16643
-  en: >-
+  drk: >-
     You can reshape Material Gummies that
 
     have already been placed. By doing so,
@@ -1243,7 +1243,7 @@
       The selected Material Gummi will have a
       point in a specific direction.
 - id: 16644
-  en: >-
+  drk: >-
     You can add color to Gummi blocks. There
 
     are several ways to do this.
@@ -1263,7 +1263,7 @@
 
     well.
 - id: 16645
-  en: >-
+  drk: >-
     Ability units are parts that {:color #F0F00080}add certain
 
     functions{:reset} to the Gummi Ship. Unlike
@@ -1286,7 +1286,7 @@
 
     Gummi Ship{:reset} is full.
 - id: 16646
-  en: >-
+  drk: >-
     Change the settings of the Editor to make
 
     it user-friendly.
@@ -1307,7 +1307,7 @@
 
     chance.
 - id: 16647
-  en: >-
+  drk: >-
     A completed Gummi Ship must be saved as
 
     an {:color #8080F080}Original Blueprint{:reset} in {:color #8080F080}Save Blueprint{:reset} in
@@ -1334,7 +1334,7 @@
 
     selecting {:color #8080F080}Save Blueprint{:reset}.
 - id: 16648
-  en: >-
+  drk: >-
     Weapon Gummies are offensive Gummies.
 
     {:color #F0F00080}The higher the power, the more damage{:reset}
@@ -1354,7 +1354,7 @@
     {:color #8080F080}Impact Gummies{:reset} - Attack the enemy with
       Impact Gummies placed in your Ship.
 - id: 16649
-  en: >-
+  drk: >-
     Movement Gummies have the power to add
 
     movement to your Gummi Ship.
@@ -1380,7 +1380,7 @@
 
     attacks.
 - id: 16650
-  en: >-
+  drk: >-
     Auxiliary Gummies are special Gummi
 
     blocks. There are {:color #8080F080}Cockpit Gummies{:reset},
@@ -1407,7 +1407,7 @@
 
     Gummi Ship to {:color #F0F00080}exert its strength{:reset}.
 - id: 16651
-  en: >-
+  drk: >-
     You cannot build big Gummi Ships at first.
 
     Gummi blocks have certain {:color #8080F080}costs{:reset}. You may
@@ -1434,7 +1434,7 @@
 
     direction.
 - id: 16652
-  en: >-
+  drk: >-
     {:color #00F0F080}- Changing modes{:reset}
 
     {:color #8080F080}Change modes{:reset} with {:icon button-triangle}.
@@ -1458,7 +1458,7 @@
 
     with the {:color #8080F080}R3 button{:reset}.
 - id: 16654
-  en: >-
+  drk: >-
     Copy the selected area and place another
 
     Gummi.
@@ -1489,7 +1489,7 @@
 
     and press {:icon button-cross} again to copy.
 - id: 16656
-  en: >-
+  drk: >-
     First, select the Gummi you wish to
 
     place.
@@ -1521,7 +1521,7 @@
 
     Menu.
 - id: 16657
-  en: >-
+  drk: >-
     More than one Gummi can be handled at a
 
     time.
@@ -1542,7 +1542,7 @@
 
     confirm the area.
 - id: 16658
-  en: >-
+  drk: >-
     To {:color #8080F080}add bevels{:reset} and {:color #8080F080}curves{:reset}, a Material
 
     Gummi must be selected.
@@ -1570,7 +1570,7 @@
 
     buttons to use in case of mistakes.
 - id: 16659
-  en: >-
+  drk: >-
     Set the color you wish to use in the {:color #F0F00080}color
 
     palette{:reset}.
@@ -1601,25 +1601,25 @@
 
     color palette.
 - id: 16955
-  en: Clear
+  drk: Clear
 - id: 16956
-  en: Normal
+  drk: Normal
 - id: 16957
-  en: Solid
+  drk: Solid
 - id: 16958
-  en: Clear
+  drk: Clear
 - id: 16959
-  en: Normal
+  drk: Normal
 - id: 17083
-  en: Solid
+  drk: Solid
 - id: 17111
-  en: 1. Gummi Types
+  drk: 1. Gummi Types
 - id: 17119
-  en: 4. Save Blueprint
+  drk: 4. Save Blueprint
 - id: 17121
-  en: About Gummi Types
+  drk: About Gummi Types
 - id: 17131
-  en: >-
+  drk: >-
     The blocks that make up a Gummi Ship are
 
     {:color #8080F080}Material Gummies{:reset} and {:color #8080F080}Deco-Gummies{:reset}.
@@ -1648,114 +1648,114 @@
 
     {:color #8080F080}HP{:reset} or your Gummi Ship won´t last long.
 - id: 17321
-  en: Impact Gummies
+  drk: Impact Gummies
 - id: 17322
-  en: >-
+  drk: >-
     Place Gummi blocks that damage any
 
     target that collides with them.
 - id: 17579
-  en: >-
+  drk: >-
     When placing blocks in the Editor,
 
     Gummies already in place will appear
 
     mostly transparent.
 - id: 17580
-  en: >-
+  drk: >-
     When placing blocks in the Editor,
 
     Gummies already in place will appear
 
     slightly transparent.
 - id: 17581
-  en: >-
+  drk: >-
     When placing blocks in the Editor,
 
     Gummies already in place will appear
 
     solid.
 - id: 17582
-  en: >-
+  drk: >-
     Grid planes used to show depth in
 
     the Editor appear mostly transparent.
 - id: 17583
-  en: >-
+  drk: >-
     Grid planes used to show depth in
 
     the Editor appear slightly transparent.
 - id: 17584
-  en: >-
+  drk: >-
     Grid planes used to show depth in
 
     the Editor appear solid.
 - id: 17744
-  en: Slash Haste
+  drk: Slash Haste
 - id: 17746
-  en: Slash Precharge
+  drk: Slash Precharge
 - id: 17747
-  en: >-
+  drk: >-
     Increases the speed at which the Slash
 
     Gauge fills.
 - id: 17749
-  en: >-
+  drk: >-
     Charges the Slash Gauge so it can be
 
     used at the start of the course.
 - id: 17750
-  en: Lump/G
+  drk: Lump/G
 - id: 17751
-  en: >-
+  drk: >-
     You can use Gummi lumps to place
 
     lots of Material Gummies at once.
 - id: 18045
-  en: '{:icon gumi-block}'
+  drk: '{:icon gumi-block}'
 - id: 18046
-  en: '{:icon gumi-blueprint}'
+  drk: '{:icon gumi-blueprint}'
 - id: 18047
-  en: '{:icon gumi-brush}'
+  drk: '{:icon gumi-brush}'
 - id: 18048
-  en: '{:icon gumi-ship}'
+  drk: '{:icon gumi-ship}'
 - id: 18049
-  en: '{:icon gumi-gear}'
+  drk: '{:icon gumi-gear}'
 - id: 18319
-  en: Performance
+  drk: Performance
 - id: 18321
-  en: Ship
+  drk: Ship
 - id: 18322
-  en: Grid
+  drk: Grid
 - id: 18482
-  en: Mission Levels 1 and 2 unlocked!
+  drk: Mission Levels 1 and 2 unlocked!
 - id: 18483
-  en: Mission Level 3 unlocked!
+  drk: Mission Level 3 unlocked!
 - id: 18485
-  en: Crown Gummi obtained!
+  drk: Crown Gummi obtained!
 - id: 18486
-  en: '{:unk0d } obtained!'
+  drk: '{:unk0d } obtained!'
 - id: 18490
-  en: >-
+  drk: >-
     {:width 98}Level 1 missions are {:color #F0F00080}Medal hunts{:reset}.
 
     Gather the number of Medals indicated!
 - id: 18491
-  en: >-
+  drk: >-
     {:width 98}Level 2 missions are {:color #F0F00080}enemy strikes{:reset}.
 
     Destroy the number of ships indicated!
 - id: 18492
-  en: >-
+  drk: >-
     {:width 98}Level 3 missions are {:color #F0F00080}high score runs{:reset}.
 
     Use {:icon button-l1} and {:icon button-r1} to control the camera!
 - id: 18493
-  en: 'Editing Tools {:color #8080F080}▸{:reset}'
+  drk: 'Editing Tools {:color #8080F080}▸{:reset}'
 - id: 18494
-  en: About the Editing Tools
+  drk: About the Editing Tools
 - id: 18495
-  en: >-
+  drk: >-
     There are other tools besides the ones
 
     used to place Gummi blocks.
@@ -1780,56 +1780,56 @@
 
     {:color #8080F080}Undo{:reset} and {:icon button-r2} for {:color #8080F080}Redo{:reset}.
 - id: 18496
-  en: 'Paint {:color #8080F080}▸{:reset}'
+  drk: 'Paint {:color #8080F080}▸{:reset}'
 - id: 18497
-  en: 'Edit {:color #8080F080}▸{:reset}'
+  drk: 'Edit {:color #8080F080}▸{:reset}'
 - id: 18498
-  en: Assign Abilities
+  drk: Assign Abilities
 - id: 18500
-  en: Undo/Redo
+  drk: Undo/Redo
 - id: 18501
-  en: Settings
+  drk: Settings
 - id: 18502
-  en: Change Mode
+  drk: Change Mode
 - id: 18503
-  en: Save Blueprint
+  drk: Save Blueprint
 - id: 18504
-  en: Exit
+  drk: Exit
 - id: 18505
-  en: Color Gummies
+  drk: Color Gummies
 - id: 18506
-  en: Edit Gummi Ship
+  drk: Edit Gummi Ship
 - id: 18507
-  en: Ability Units and AP
+  drk: Ability Units and AP
 - id: 18509
-  en: Cancel and Undo
+  drk: Cancel and Undo
 - id: 18510
-  en: Edit Settings
+  drk: Edit Settings
 - id: 18511
-  en: Edit Mode Changes
+  drk: Edit Mode Changes
 - id: 18512
-  en: Save Gummi Ship
+  drk: Save Gummi Ship
 - id: 18513
-  en: Exit Editor
+  drk: Exit Editor
 - id: 18529
-  en: Gummi Guide
+  drk: Gummi Guide
 - id: 18533
-  en: >-
+  drk: >-
     {:icon button-cross}: Confirm  {:icon button-square}: Remove
 
     {:color #8080F080}Left stick{:reset}: Rotate Gummi  
 
     {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
 - id: 18534
-  en: 2. Placement
+  drk: 2. Placement
 - id: 18535
-  en: 4. Aero Gummies
+  drk: 4. Aero Gummies
 - id: 18536
-  en: Let´s Place the Gummies!
+  drk: Let´s Place the Gummies!
 - id: 18537
-  en: Placing Aero Gummies
+  drk: Placing Aero Gummies
 - id: 18538
-  en: >-
+  drk: >-
     Next, place the selected Gummi.
 
 
@@ -1861,7 +1861,7 @@
 
     press {:icon button-square}.
 - id: 18539
-  en: >-
+  drk: >-
     Aero Gummies and Wing Gummies have a
 
     slightly different way of placement.
@@ -1882,18 +1882,18 @@
 
     the position of Gummies.
 - id: 18540
-  en: >-
+  drk: >-
     {:icon button-cross}: Confirm   {:color #8080F080}L3 button{:reset}: Flip Gummi
 
     {:icon button-square}: Remove   After placing, use
 
     the {:color #8080F080}directional buttons{:reset} to set position
 - id: 18541
-  en: Parameters
+  drk: Parameters
 - id: 18542
-  en: Gummi Block Parameters
+  drk: Gummi Block Parameters
 - id: 18543
-  en: >-
+  drk: >-
     Gummi blocks have various parameters,
 
     which determine the functionality of
@@ -1912,25 +1912,25 @@
     {:color #8080F080}Mobility{:reset} - Increases the effectiveness of
       the Gummi Ship´s rolling maneuver.
 - id: 18544
-  en: >-
+  drk: >-
     {:width 90}{:icon button-cross}: Confirm & Execute {:icon button-triangle}: Select Area
 
     {:color #8080F080}Left stick{:reset}: Flip Gummies
 
     {:color #8080F080}Right stick{:reset}: Camera
 - id: 18576
-  en: >-
+  drk: >-
     {:icon button-triangle}: Select Area   {:icon button-cross}: Execute
 
     {:color #8080F080}Left stick{:reset}: Set direction
 
     {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
 - id: 18578
-  en: 4. Copy Mirrored
+  drk: 4. Copy Mirrored
 - id: 18579
-  en: How to Copy Mirrored
+  drk: How to Copy Mirrored
 - id: 18580
-  en: >-
+  drk: >-
     Copy the selected Gummi, then flip it and
 
     place it again.
@@ -1963,14 +1963,14 @@
 
     mirror copy.
 - id: 18582
-  en: >-
+  drk: >-
     {:icon button-cross}: Execute   {:icon button-triangle}: Select Area
 
     {:icon button-r1}: Undo   {:icon button-r2}: Redo
 
     {:color #8080F080}Right stick{:reset}: Camera
 - id: 18584
-  en: >-
+  drk: >-
     Select several Material Gummies and
 
     reshape them to have a point.
@@ -2003,11 +2003,11 @@
 
     reshape.
 - id: 18593
-  en: 4. Placing Wings
+  drk: 4. Placing Wings
 - id: 18594
-  en: Placing Wing Gummies
+  drk: Placing Wing Gummies
 - id: 18633
-  en: >-
+  drk: >-
     You can shift the position of Gummies
 
     that are already placed or remove them
@@ -2030,19 +2030,19 @@
 
     and redo{:reset}.
 - id: 18684
-  en: Advice Log
+  drk: Advice Log
 - id: 18685
-  en: Vibration
+  drk: Vibration
 - id: 18686
-  en: ON
+  drk: ON
 - id: 18687
-  en: OFF
+  drk: OFF
 - id: 18691
-  en: '{:icon button-dpad}: Flip pages {:icon button-circle}: Back'
+  drk: '{:icon button-dpad}: Flip pages {:icon button-circle}: Back'
 - id: 18694
-  en: No.
+  drk: No.
 - id: 18695
-  en: >-
+  drk: >-
     Palette color will be added to the
 
     Gummies.
@@ -2073,11 +2073,11 @@
 
     color in selected areas.
 - id: 18696
-  en: 2. Color Palettes
+  drk: 2. Color Palettes
 - id: 18697
-  en: About Color Palettes
+  drk: About Color Palettes
 - id: 18698
-  en: >-
+  drk: >-
     You can use {:color #F0F00080}up to 16 colors{:reset} for one Gummi
 
     Ship. The colors can be found in the color
@@ -2100,11 +2100,11 @@
 
     at any time.
 - id: 18700
-  en: 5. Design Packs
+  drk: 5. Design Packs
 - id: 18701
-  en: About Design Packs
+  drk: About Design Packs
 - id: 18702
-  en: >-
+  drk: >-
     Design Packs are colors that consist of
 
     patterns. {:color #F0F00080}Acquire Design Packs{:reset} to add
@@ -2127,25 +2127,25 @@
 
     sample.
 - id: 18703
-  en: 4. Select an Area
+  drk: 4. Select an Area
 - id: 18704
-  en: >-
+  drk: >-
     {:icon button-cross}: Execute  {:icon button-triangle}: Select Area
 
     {:color #8080F080}Right stick{:reset}: Camera  {:icon button-circle}: Back
 - id: 18718
-  en: >-
+  drk: >-
     {:icon button-cross}: Grab/Place   {:icon button-square}: Remove
 
     {:icon button-triangle}: Select Area
 
     {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
 - id: 18719
-  en: 1. Moving Gummies
+  drk: 1. Moving Gummies
 - id: 18720
-  en: Moving Gummi Blocks
+  drk: Moving Gummi Blocks
 - id: 18721
-  en: >-
+  drk: >-
     Gummies can be moved and removed.
 
 
@@ -2178,21 +2178,21 @@
 
     confirm.
 - id: 18752
-  en: >-
+  drk: >-
     {:icon button-cross}: Confirm  {:icon button-square}: Open Palette
 
     {:color #8080F080}Right stick{:reset}: Camera  {:icon button-circle}: Back
 - id: 18759
-  en: >-
+  drk: >-
     {:icon button-cross}: Confirm  {:icon button-l1}{:icon button-r1}: Change Color
 
     {:color #8080F080}Right stick{:reset}: Camera  {:icon button-circle}: Back
 - id: 18760
-  en: 'Other Commands {:color #8080F080}▸{:reset}'
+  drk: 'Other Commands {:color #8080F080}▸{:reset}'
 - id: 18761
-  en: Other Menu Commands
+  drk: Other Menu Commands
 - id: 18762
-  en: >-
+  drk: >-
     There are four commands that can help
 
     you when editing your Gummi Ship:
@@ -2221,7 +2221,7 @@
 
     by {:color #8080F080}changing modes{:reset} using {:icon button-triangle}.
 - id: 18763
-  en: >-
+  drk: >-
     You can undo an edit and return to the
 
     previous step. You can also return to the
@@ -2251,7 +2251,7 @@
 
     before making any edits.
 - id: 18765
-  en: >-
+  drk: >-
     Switch back and forth between editing
 
     {:color #8080F080}Material Gummies{:reset} and {:color #8080F080}Deco-Gummies{:reset}. The
@@ -2276,7 +2276,7 @@
 
     the Gummies that can be set.
 - id: 18766
-  en: >-
+  drk: >-
     Finish creating a Gummi Ship and exit the
 
     Gummi Ship Editor. Select {:color #8080F080}Save Blueprint{:reset}
@@ -2292,58 +2292,58 @@
 
     careful when selecting {:color #8080F080}Exit{:reset}.
 - id: 18775
-  en: 2. Parameters
+  drk: 2. Parameters
 - id: 18776
-  en: 3. Placing Gummies
+  drk: 3. Placing Gummies
 - id: 18777
-  en: Rules for Placing Gummies
+  drk: Rules for Placing Gummies
 - id: 18778
-  en: Complete
+  drk: Complete
 - id: 18779
-  en: Limit Upgrade
+  drk: Limit Upgrade
 - id: 18780
-  en: Limit Upgrade 2
+  drk: Limit Upgrade 2
 - id: 18781
-  en: Ability
+  drk: Ability
 - id: 18782
-  en: AP Upgrade
+  drk: AP Upgrade
 - id: 18783
-  en: AP Upgrade 2
+  drk: AP Upgrade 2
 - id: 18784
-  en: AP Upgrade 3
+  drk: AP Upgrade 3
 - id: 18785
-  en: Designs
+  drk: Designs
 - id: 18786
-  en: Teeny Ship
+  drk: Teeny Ship
 - id: 18787
-  en: Teeny Upgrade
+  drk: Teeny Upgrade
 - id: 18788
-  en: Item List Complete!
+  drk: Item List Complete!
 - id: 18789
-  en: Cost Limit Upgrade
+  drk: Cost Limit Upgrade
 - id: 18790
-  en: Cost Limit Upgrade 2
+  drk: Cost Limit Upgrade 2
 - id: 18791
-  en: Ability Unit
+  drk: Ability Unit
 - id: 18792
-  en: AP Limit Upgrade
+  drk: AP Limit Upgrade
 - id: 18793
-  en: AP Limit Upgrade 2
+  drk: AP Limit Upgrade 2
 - id: 18794
-  en: AP Limit Upgrade 3
+  drk: AP Limit Upgrade 3
 - id: 18795
-  en: Design Packs
+  drk: Design Packs
 - id: 18796
-  en: Teeny System
+  drk: Teeny System
 - id: 18797
-  en: Teeny Limit Upgrade
+  drk: Teeny Limit Upgrade
 - id: 18798
-  en: >-
+  drk: >-
     All {:color #8080F080}Gummi missions{:reset} complete and all
 
     {:color #8080F080}Gummi blocks{:reset} and {:color #8080F080}special items{:reset} acquired!
 - id: 18799
-  en: >-
+  drk: >-
     The {:color #8080F080}cost{:reset} limit of the Gummi Ship {:color #F0F00080}has
 
     increased by 100{:reset}!
@@ -2353,7 +2353,7 @@
 
     now increased {:color #8080F080}to 700{:reset}.
 - id: 18800
-  en: >-
+  drk: >-
     The {:color #8080F080}cost{:reset} limit of the Gummi Ship {:color #F0F00080}has
 
     increased by another 100{:reset}!
@@ -2363,7 +2363,7 @@
 
     now increased {:color #8080F080}to 800{:reset}.
 - id: 18801
-  en: >-
+  drk: >-
     Obtained {:color #F0F00080}Ability Unit{:reset}!
 
 
@@ -2394,7 +2394,7 @@
 
     Try searching for various Abilities!
 - id: 18802
-  en: >-
+  drk: >-
     The {:color #8080F080}AP{:reset} limit of the Gummi Ship {:color #F0F00080}has
 
     increased by 4{:reset}!
@@ -2404,7 +2404,7 @@
 
     {:color #8080F080}12 AP{:reset} worth of Abilities.
 - id: 18803
-  en: >-
+  drk: >-
     The {:color #8080F080}AP{:reset} limit of the Gummi Ship {:color #F0F00080}has
 
     increased by another 4{:reset}!
@@ -2414,7 +2414,7 @@
 
     {:color #8080F080}16 AP{:reset} worth of Abilities.
 - id: 18804
-  en: >-
+  drk: >-
     The {:color #8080F080}AP{:reset} limit of the Gummi Ship {:color #F0F00080}has
 
     increased by another 4{:reset}!
@@ -2424,7 +2424,7 @@
 
     {:color #8080F080}20 AP{:reset} worth of Abilities.
 - id: 18805
-  en: >-
+  drk: >-
     Obtained {:color #F0F00080}Design Pack{:reset}!
 
 
@@ -2435,7 +2435,7 @@
 
     Try searching for various Design Packs!
 - id: 18806
-  en: >-
+  drk: >-
     Obtained {:color #F0F00080}Teeny Ship{:reset}!
 
 
@@ -2468,7 +2468,7 @@
 
     into the body of the Gummi Ship.
 - id: 18807
-  en: >-
+  drk: >-
     The {:color #8080F080}cost{:reset} limit of the Teeny Ship {:color #F0F00080}has
 
     increased by 100{:reset}!
@@ -2478,344 +2478,344 @@
 
     a {:color #8080F080}cost of 200{:reset}.
 - id: 18923
-  en: >-
+  drk: >-
     {:icon question-mark}{:color #F0F00080} NOTE{:reset}
     	Save the Blueprint to the Gummi Ship
     	you´ve just built?
 - id: 18924
-  en: >-
+  drk: >-
     {:icon exclamation-mark}{:color #F0F00080} NOTE{:reset}
     	Lower the cost and remove blocks to
     	save this Blueprint.
 - id: 18925
-  en: Yes
+  drk: Yes
 - id: 18926
-  en: No
+  drk: No
 - id: 18927
-  en: OK
+  drk: OK
 - id: 18958
-  en: >-
+  drk: >-
     {:icon question-mark}{:color #F0F00080} NOTE{:reset}
     	Stop building the Gummi Ship
     	and close the Editor?
 - id: 19120
-  en: >-
+  drk: >-
     {:icon question-mark}{:color #F0F00080} NOTE{:reset}
     	Leave the Gummi Menu and
     	return to the World Map?
 - id: 19132
-  en: Retry
+  drk: Retry
 - id: 19133
-  en: Gummi Menu
+  drk: Gummi Menu
 - id: 19134
-  en: World Map
+  drk: World Map
 - id: 19397
-  en: '{:width 90}Original Gummi Ship Blueprint'
+  drk: '{:width 90}Original Gummi Ship Blueprint'
 - id: 19398
-  en: >-
+  drk: >-
     {:icon button-square}: Assemble a new
           Gummi Ship
 - id: 19399
-  en: >-
+  drk: >-
     {:icon exclamation-mark}{:color #F0F00080} NOTE{:reset}
     	You can´t save a Blueprint that
     	doesn´t use any blocks!
 - id: 19400
-  en: '{:icon button-square}: Erase this Blueprint'
+  drk: '{:icon button-square}: Erase this Blueprint'
 - id: 19401
-  en: >-
+  drk: >-
     {:icon exclamation-mark}{:color #F0F00080} NOTE{:reset}
     	Gummi blocks required for this
     	Blueprint are already assigned to a
     	previously selected Blueprint.
 - id: 19402
-  en: >-
+  drk: >-
     {:icon exclamation-mark}{:color #F0F00080} NOTE{:reset}
     	You don´t have enough Gummi
     	blocks or special items to create a
     	Ship based off of this Special Blueprint.
 - id: 19407
-  en: >-
+  drk: >-
     {:color #8080F080}Directional buttons{:reset}: Change Selection
 
     {:icon button-triangle}: Set Area
 
     {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
 - id: 19408
-  en: >-
+  drk: >-
     {:icon button-cross}: Execute   {:icon button-triangle}: Reselect area
 
     {:color #8080F080}Left stick{:reset}: Set direction
 
     {:icon button-circle}: Back
 - id: 19431
-  en: >-
+  drk: >-
     {:icon button-square}: Leave Teeny Ships
           behind
 - id: 19432
-  en: >-
+  drk: >-
     {:icon button-square}: Assemble a new
           Teeny Ship
 - id: 19433
-  en: >-
+  drk: >-
     {:icon question-mark}{:color #F0F00080} NOTE{:reset}
     	Once a Blueprint is deleted, it cannot
     	be restored. Are you sure you want
     	to delete your original Blueprint?
 - id: 19436
-  en: Highwind
+  drk: Highwind
 - id: 19437
-  en: Highwind Lv. 1 Blueprint
+  drk: Highwind Lv. 1 Blueprint
 - id: 19438
-  en: Highwind Lv. 2 Blueprint
+  drk: Highwind Lv. 2 Blueprint
 - id: 19439
-  en: Highwind Lv. 3 Blueprint
+  drk: Highwind Lv. 3 Blueprint
 - id: 19440
-  en: Highwind Lv. 4 Blueprint
+  drk: Highwind Lv. 4 Blueprint
 - id: 19441
-  en: Highwind Lv. 5 Blueprint
+  drk: Highwind Lv. 5 Blueprint
 - id: 19442
-  en: Highwind Lv. 6 Blueprint
+  drk: Highwind Lv. 6 Blueprint
 - id: 19443
-  en: Highwind Lv. 7 Blueprint
+  drk: Highwind Lv. 7 Blueprint
 - id: 19444
-  en: Highwind Lv. 8 Blueprint
+  drk: Highwind Lv. 8 Blueprint
 - id: 19445
-  en: Highwind Peak Blueprint
+  drk: Highwind Peak Blueprint
 - id: 19446
-  en: Falcon Lv. 1 Blueprint
+  drk: Falcon Lv. 1 Blueprint
 - id: 19447
-  en: Falcon Lv. 2 Blueprint
+  drk: Falcon Lv. 2 Blueprint
 - id: 19448
-  en: Falcon Lv. 3 Blueprint
+  drk: Falcon Lv. 3 Blueprint
 - id: 19449
-  en: Falcon Lv. 4 Blueprint
+  drk: Falcon Lv. 4 Blueprint
 - id: 19450
-  en: Falcon Lv. 5 Blueprint
+  drk: Falcon Lv. 5 Blueprint
 - id: 19451
-  en: Falcon Lv. 6 Blueprint
+  drk: Falcon Lv. 6 Blueprint
 - id: 19452
-  en: Falcon Lv. 7 Blueprint
+  drk: Falcon Lv. 7 Blueprint
 - id: 19453
-  en: Falcon Lv. 8 Blueprint
+  drk: Falcon Lv. 8 Blueprint
 - id: 19454
-  en: Falcon Peak Blueprint
+  drk: Falcon Peak Blueprint
 - id: 19456
-  en: Invincible Lv. 1 Blueprint
+  drk: Invincible Lv. 1 Blueprint
 - id: 19457
-  en: Invincible Lv. 2 Blueprint
+  drk: Invincible Lv. 2 Blueprint
 - id: 19458
-  en: Invincible Lv. 3 Blueprint
+  drk: Invincible Lv. 3 Blueprint
 - id: 19459
-  en: Invincible Lv. 4 Blueprint
+  drk: Invincible Lv. 4 Blueprint
 - id: 19460
-  en: Invincible Lv. 5 Blueprint
+  drk: Invincible Lv. 5 Blueprint
 - id: 19461
-  en: Invincible Lv. 6 Blueprint
+  drk: Invincible Lv. 6 Blueprint
 - id: 19462
-  en: Invincible Lv. 7 Blueprint
+  drk: Invincible Lv. 7 Blueprint
 - id: 19463
-  en: Invincible Lv. 8 Blueprint
+  drk: Invincible Lv. 8 Blueprint
 - id: 19464
-  en: Invincible Peak Blueprint
+  drk: Invincible Peak Blueprint
 - id: 19489
-  en: >-
+  drk: >-
     {:width 95}The Blueprint indicates this
 
     Ship is balanced offensively
 
     and defensively.
 - id: 19490
-  en: >-
+  drk: >-
     {:width 95}The Blueprint indicates this
 
     Ship is designed around
 
     Weapon Gummies.
 - id: 19491
-  en: >-
+  drk: >-
     {:width 95}The Blueprint indicates this
 
     Ship has strong defenses
 
     and is loaded with HP.
 - id: 19551
-  en: >-
+  drk: >-
     {:width 88}These are finished Gummi
 
     Ships, so you don´t need to add
 
     Gummi blocks to use them.
 - id: 19597
-  en: >-
+  drk: >-
     {:icon button-cross}: Confirm
 
     {:color #8080F080}Left stick{:reset}: Rotate Gummi
 
     {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
 - id: 20365
-  en: 'Fly a Gummi Ship with {:color #F0F00080}50 or more{:reset} {:color #8080F080}speed{:reset}!'
+  drk: 'Fly a Gummi Ship with {:color #F0F00080}50 or more{:reset} {:color #8080F080}speed{:reset}!'
 - id: 20366
-  en: >-
+  drk: >-
     Fly a Gummi Ship with {:color #F0F00080}100 or more{:reset}
 
     {:color #8080F080}power{:reset}!
 - id: 20367
-  en: >-
+  drk: >-
     Fly a Gummi Ship with {:color #F0F00080}250 or more{:reset}
 
     {:color #8080F080}power{:reset}!
 - id: 20368
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with {:color #F0F00080}12 or more{:reset}
 
     {:color #8080F080}Wing Gummies{:reset}!
 - id: 20369
-  en: >-
+  drk: >-
     Fly a Gummi Ship with only {:color #F0F00080}Projectile{:reset}
 
     {:color #F0F00080}Gummies{:reset} as {:color #8080F080}Weapon Gummies{:reset}!
 - id: 20370
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with {:color #F0F00080}20 or more{:reset}
 
     {:color #8080F080}Projectile Gummies{:reset}!
 - id: 20371
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with {:color #F0F00080}6 or more{:reset}
 
     {:color #8080F080}Shield Gummies{:reset}!
 - id: 20372
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with {:color #F0F00080}2 or more{:reset}
 
     {:color #8080F080}Slash Gummies{:reset}!
 - id: 20373
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with {:color #F0F00080}4 or more{:reset}
 
     {:color #8080F080}Slash Gummies{:reset}!
 - id: 20374
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with {:color #F0F00080}8 or more{:reset}
 
     {:color #8080F080}Wheel Gummies{:reset}!
 - id: 20375
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with {:color #F0F00080}8 or more{:reset}
 
     {:color #8080F080}Abilities{:reset}!
 - id: 20376
-  en: >-
+  drk: >-
     Fly a Gummi Ship and Teeny Ship with
 
     a combination of {:color #F0F00080}80 or more{:reset} {:color #8080F080}speed{:reset}!
 - id: 20377
-  en: >-
+  drk: >-
     Fly a {:color #F0F00080}Highwind model{:reset} from
 
     the sample blueprints!
 - id: 20378
-  en: 'Fly a Gummi Ship with {:color #F0F00080}50 or less{:reset} {:color #8080F080}HP{:reset}!'
+  drk: 'Fly a Gummi Ship with {:color #F0F00080}50 or less{:reset} {:color #8080F080}HP{:reset}!'
 - id: 20379
-  en: >-
+  drk: >-
     Fly a Gummi Ship and Teeny Ship with
 
     a combination of {:color #F0F00080}20 or less{:reset} {:color #8080F080}HP{:reset}!
 - id: 20380
-  en: >-
+  drk: >-
     Fly alongside a Teeny Ship set with
 
     {:color #F0F00080}4 or more{:reset} {:color #8080F080}Impact Gummies{:reset}!
 - id: 20381
-  en: >-
+  drk: >-
     Fly a {:color #F0F00080}Falcon model{:reset} from
 
     the sample blueprints!
 - id: 20382
-  en: >-
+  drk: >-
     Fly a Gummi Ship with a {:color #8080F080}cost{:reset} of {:color #F0F00080}400
 
     or less{:reset}!
 - id: 20383
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with
 
     the {:color #F0F00080}Formation Change{:reset} {:color #8080F080}Ability{:reset}!
 - id: 20384
-  en: >-
+  drk: >-
     Fly an {:color #F0F00080}Invincible model{:reset} from
 
     the sample blueprints!
 - id: 20385
-  en: >-
+  drk: >-
     Fly a Gummi Ship with no {:color #8080F080}Weapon{:reset}
 
     {:color #8080F080}Gummies{:reset}!
 - id: 20386
-  en: 'Fly a {:color #F0F00080}special model{:reset} Ship!'
+  drk: 'Fly a {:color #F0F00080}special model{:reset} Ship!'
 - id: 20387
-  en: >-
+  drk: >-
     Fly a Gummi Ship with {:color #F0F00080}4 or more{:reset}
 
     {:color #8080F080}Lock-on Gummies{:reset}!
 - id: 20388
-  en: 'Fly without any {:color #8080F080}Teeny Ships{:reset}!'
+  drk: 'Fly without any {:color #8080F080}Teeny Ships{:reset}!'
 - id: 20389
-  en: >-
+  drk: >-
     Fly a Gummi Ship set with {:color #F0F00080}2 or more{:reset}
 
     {:color #8080F080}Ultima Gummies{:reset}!
 - id: 20390
-  en: >-
+  drk: >-
     Fly a Gummi Ship with {:color #8080F080}dimensions{:reset} of
 
     {:color #F0F00080}3 x 3 x 3 or smaller{:reset}!
 - id: 20391
-  en: 'Fly a Gummi Ship set with a {:color #F0F00080}Drain Gummi{:reset}!'
+  drk: 'Fly a Gummi Ship set with a {:color #F0F00080}Drain Gummi{:reset}!'
 - id: 20500
-  en: EX Mission
+  drk: EX Mission
 - id: 20501
-  en: Normal Mission
+  drk: Normal Mission
 - id: 20505
-  en: You can take on the Lv. 1 EX Mission!
+  drk: You can take on the Lv. 1 EX Mission!
 - id: 20506
-  en: You can take on the Lv. 2 EX Mission!
+  drk: You can take on the Lv. 2 EX Mission!
 - id: 20507
-  en: You can take on the Lv. 3 EX Mission!
+  drk: You can take on the Lv. 3 EX Mission!
 - id: 20508
-  en: Mast/G
+  drk: Mast/G
 - id: 20509
-  en: Flag/G
+  drk: Flag/G
 - id: 20510
-  en: Caterpillar/G
+  drk: Caterpillar/G
 - id: 20511
-  en: Figure A/G
+  drk: Figure A/G
 - id: 20512
-  en: Figure B/G
+  drk: Figure B/G
 - id: 20513
-  en: Figure C/G
+  drk: Figure C/G
 - id: 20514
-  en: Figure D/G
+  drk: Figure D/G
 - id: 20515
-  en: >-
+  drk: >-
     Fires rounds in various directions.
 
     Rapid-fire enabled.
 - id: 20516
-  en: >-
+  drk: >-
     Spins and reflects shots in
 
     2 directions. Rapid-fire enabled.
 - id: 20517
-  en: >-
+  drk: >-
     Fires at locked-on targets in order.
 
     Can lock onto up to 6 targets at
 
     once.
 - id: 20518
-  en: >-
+  drk: >-
     Creates a large explosion when
 
     locked on 16 or more targets. Lock
@@ -2824,7 +2824,7 @@
 
     damage.
 - id: 20519
-  en: >-
+  drk: >-
     Uses the Slash Gauge to nullify
 
     attacks from all directions. You can
@@ -2833,144 +2833,144 @@
 
     combos.
 - id: 20520
-  en: Increase the Ship's speed.
+  drk: Increase the Ship's speed.
 - id: 20521
-  en: Increase the Ship's power.
+  drk: Increase the Ship's power.
 - id: 20522
-  en: Increase the Ship's mobility.
+  drk: Increase the Ship's mobility.
 - id: 20523
-  en: Increase the Ship's HP.
+  drk: Increase the Ship's HP.
 - id: 20524
-  en: Increase the Ship's HP.
+  drk: Increase the Ship's HP.
 - id: 20525
-  en: Increase the Ship's HP.
+  drk: Increase the Ship's HP.
 - id: 20526
-  en: Increase the Ship's HP.
+  drk: Increase the Ship's HP.
 - id: 20691
-  en: Pipe/G
+  drk: Pipe/G
 - id: 20692
-  en: >-
+  drk: >-
     Add pipes to a Material Gummi to
 
     greatly increase the Ship's HP.
 - id: 20719
-  en: Figure/G Set
+  drk: Figure/G Set
 - id: 21638
-  en: Falcon Peak
+  drk: Falcon Peak
 - id: 21639
-  en: Invincible Peak
+  drk: Invincible Peak
 - id: 21640
-  en: Highwind Peak
+  drk: Highwind Peak
 - id: 21641
-  en: Falcon Lv. 8
+  drk: Falcon Lv. 8
 - id: 21642
-  en: Invincible Lv. 8
+  drk: Invincible Lv. 8
 - id: 21643
-  en: Highwind Lv. 8
+  drk: Highwind Lv. 8
 - id: 21644
-  en: Falcon Lv. 7
+  drk: Falcon Lv. 7
 - id: 21645
-  en: Invincible Lv. 7
+  drk: Invincible Lv. 7
 - id: 21646
-  en: Highwind Lv. 7
+  drk: Highwind Lv. 7
 - id: 21647
-  en: Falcon Lv. 6
+  drk: Falcon Lv. 6
 - id: 21648
-  en: Invincible Lv. 6
+  drk: Invincible Lv. 6
 - id: 21649
-  en: Highwind Lv. 6
+  drk: Highwind Lv. 6
 - id: 21650
-  en: Falcon Lv. 5
+  drk: Falcon Lv. 5
 - id: 21651
-  en: Invincible Lv. 5
+  drk: Invincible Lv. 5
 - id: 21652
-  en: Highwind Lv. 5
+  drk: Highwind Lv. 5
 - id: 21653
-  en: Falcon Lv. 4
+  drk: Falcon Lv. 4
 - id: 21654
-  en: Invincible Lv. 4
+  drk: Invincible Lv. 4
 - id: 21655
-  en: Highwind Lv. 4
+  drk: Highwind Lv. 4
 - id: 21656
-  en: Falcon Lv. 3
+  drk: Falcon Lv. 3
 - id: 21657
-  en: Invincible Lv. 3
+  drk: Invincible Lv. 3
 - id: 21658
-  en: Highwind Lv. 3
+  drk: Highwind Lv. 3
 - id: 21659
-  en: Falcon Lv. 2
+  drk: Falcon Lv. 2
 - id: 21660
-  en: Invincible Lv. 2
+  drk: Invincible Lv. 2
 - id: 21661
-  en: Highwind Lv. 2
+  drk: Highwind Lv. 2
 - id: 21662
-  en: Falcon Lv. 1
+  drk: Falcon Lv. 1
 - id: 21663
-  en: Invincible Lv. 1
+  drk: Invincible Lv. 1
 - id: 21664
-  en: Highwind Lv. 1
+  drk: Highwind Lv. 1
 - id: 21665
-  en: Highwind
+  drk: Highwind
 - id: 21666
-  en: Mushroom
+  drk: Mushroom
 - id: 21667
-  en: Highwind α
+  drk: Highwind α
 - id: 21668
-  en: PuPu
+  drk: PuPu
 - id: 21669
-  en: Tonberry
+  drk: Tonberry
 - id: 21670
-  en: Moogle
+  drk: Moogle
 - id: 21671
-  en: Mandragora
+  drk: Mandragora
 - id: 21672
-  en: Chocobo
+  drk: Chocobo
 - id: 21673
-  en: Cactuar
+  drk: Cactuar
 - id: 21674
-  en: Cait Sith
+  drk: Cait Sith
 - id: 21675
-  en: Fenrir
+  drk: Fenrir
 - id: 21676
-  en: Kingdom
+  drk: Kingdom
 - id: 21677
-  en: Secret
+  drk: Secret
 - id: 21678
-  en: Durandal 2
+  drk: Durandal 2
 - id: 21679
-  en: Durandal 1
+  drk: Durandal 1
 - id: 21680
-  en: Ziedrich
+  drk: Ziedrich
 - id: 21681
-  en: Valkyrie 2
+  drk: Valkyrie 2
 - id: 21682
-  en: Valkyrie 1
+  drk: Valkyrie 1
 - id: 21683
-  en: Main Gauche 2
+  drk: Main Gauche 2
 - id: 21684
-  en: Main Gauche 1
+  drk: Main Gauche 1
 - id: 21685
-  en: Edincoat 2
+  drk: Edincoat 2
 - id: 21686
-  en: Edincoat 1
+  drk: Edincoat 1
 - id: 21687
-  en: Hawkeye 2
+  drk: Hawkeye 2
 - id: 21688
-  en: Hawkeye 1
+  drk: Hawkeye 1
 - id: 21689
-  en: Organics 2
+  drk: Organics 2
 - id: 21690
-  en: Organics 1
+  drk: Organics 1
 - id: 21691
-  en: Mystile 2
+  drk: Mystile 2
 - id: 21692
-  en: Mystile 1
+  drk: Mystile 1
 - id: 21693
-  en: Wingedge 2
+  drk: Wingedge 2
 - id: 21694
-  en: Wingedge 1
+  drk: Wingedge 1
 - id: 21695
-  en: >-
+  drk: >-
     {:icon question-mark}{:color #F0F00080}NOTE{:reset}
 
 
@@ -2978,7 +2978,7 @@
 
     combination.
 - id: 21696
-  en: >-
+  drk: >-
     {:icon question-mark}{:color #F0F00080}NOTE{:reset}
 
 
