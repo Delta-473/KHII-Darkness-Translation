@@ -1,17 +1,9 @@
 ﻿- id: 849
   drk: >-
-    We can get out by gathering the
-
-    door´s lock data and freezing it.{:clear }The problem is, we don´t have any
-
-    way to extract the data.
+    Darkness
 - id: 850
   drk: >-
-    Users are amazing!
-
-    I´ve never seen a program like this!{:clear }Now that I can use the solar sailer,
-
-    I can access the MCP!
+    Darkness
 - id: 855
   drk: Sora!
 - id: 856
@@ -34,28 +26,18 @@
   drk: A what system?
 - id: 865
   drk: >-
-    A computer system--for processing data.{:delay A2 00}{:clear }{:delay 3C 00}{:clear }This system is a copy of one created
-
-    by a corporation called ENCOM.{:delay E6 00}{:clear }{:delay 2A 00}{:clear }The original program
-
-    was destroyed.
+    Darkness
 - id: 866
   drk: But this copy was acquired by another User.
 - id: 867
   drk: >-
-    The new User updated and
-
-    customized the programs,{:delay 96 00}{:clear }renaming the system "Hollow Bastion OS."
+    Darkness
 - id: 868
   drk: >-
-    He used the system for
-
-    town maintenance,{:delay 78 00}{:clear }{:delay 1E 00}{:clear }and to advance his private research.
+    Darkness
 - id: 869
   drk: >-
-    My name is Tron.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }I´m a security program.{:delay 48 00}{:clear }{:delay 36 00}{:clear }But now I´m under arrest,
-
-    same as you.
+    Darkness
 - id: 870
   drk: Did you guys get any of that?
 - id: 871

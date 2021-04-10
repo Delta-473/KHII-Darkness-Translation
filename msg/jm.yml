@@ -15425,20 +15425,7 @@
 
     Notes:
 
-    Comet Rain is a finishing move that is
-
-    executed around Sora. Move in close
-
-    to the enemy to get in as many hits
-
-    as possible.
-
-
-    Sora can move freely during this limit,
-
-    so stay close to the enemy and attack
-
-    away!
+    Darkness
 - id: 19158
   drk: Donald/Flare Force
 - id: 19159
@@ -15450,31 +15437,7 @@
 
     Notes:
 
-    Duck Flare attacks enemies in front.
-
-    This magic attack cannot lock on to any
-
-    targets.
-
-
-    Rocket Flare unleashes rockets at the
-
-    enemy. Use this attack after collecting
-
-    plenty of rockets.
-
-
-    Unleash Megaduck Flare towards a group
-
-    of enemies, as it not only attacks the
-
-    main target, but surrounding enemies as
-
-    well. Sora can move freely during this
-
-    limit, so use him to get in many, many
-
-    hits!
+    Darkness
 - id: 19162
   drk: Goofy/Teamwork
 - id: 19163
@@ -15486,19 +15449,7 @@
 
     Notes:
 
-    Knocksmash has a short duration, so get
-
-    in as many attacks as possible.
-
-
-    Duo Raid deals successive damage
-
-    while bringing the enemy closer.
-
-
-    Execute the attacks quickly, or
-
-    the limit will be canceled!
+    Darkness
 - id: 19164
   drk: Beast/Howling Moon
 - id: 19165
@@ -15510,19 +15461,7 @@
 
     Notes:
 
-    Outcry hits successively, but has a
-
-    small range.
-
-
-    Stalwart Fang deals damage to nearby
-
-    enemies with a sonic wave.
-
-
-    Use both attacks appropriately,
-
-    depending on the situation.
+    Darkness
 - id: 19166
   drk: Auron/Overdrive
 - id: 19167
@@ -15534,16 +15473,7 @@
 
     Notes:
 
-    Alternate attacks between Auron and Sora.
-
-    After Auron attacks, Sora´s command will
-
-    change. Unleash it immediately!
-
-
-    Sora cannot move freely during this limit,
-
-    so concentrate on inputting commands.
+    Darkness
 - id: 19168
   drk: Mulan/Dragonblaze
 - id: 19169
@@ -15555,14 +15485,7 @@
 
     Notes:
 
-    Use Heat Lance, then follow it up with
-
-    Flametongue for a nice, clean combo.
-
-
-    Sora can fly freely during this limit.
-
-    Move up and down with the right stick.
+    Darkness
 - id: 19170
   drk: Aladdin/Trick Fantasy
 - id: 19171
@@ -15574,20 +15497,7 @@
 
     Notes:
 
-    Move close to as many enemies as
-
-    possible when dealing Speedster and
-
-    Trickster, as they hit all nearby
-
-    enemies.
-
-
-    Both Aladdin and Sora can use
-
-    Quickplay, so alternate this attack
-
-    for a quick end to the battle.
+    Darkness
 - id: 19172
   drk: Jack/Applause, Applause
 - id: 19173
@@ -15599,16 +15509,7 @@
 
     Notes:
 
-    Downbeat and Synchronization hit close
-
-    enemies in front, so move in when using
-
-    these attacks.
-
-
-    Sora can move freely during this limit,
-
-    making it easy to earn combo points!
+    Darkness
 - id: 19174
   drk: Jack Sparrow/Treasure Isle
 - id: 19175
@@ -15620,23 +15521,7 @@
 
     Notes:
 
-    Bluff lures enemies to one place, making
-
-    it useful against group battles.
-
-
-    After Jack executes Jackknife, Sora
-
-    can unleash Slasher for quick attacks.
-
-    The key to a winning battle is to
-
-    alternate Jack´s and Sora´s attacks.
-
-
-    Sora cannot move freely during this limit,
-
-    so concentrate on inputting commands.
+    Darkness
 - id: 19176
   drk: Simba/King´s Pride
 - id: 19177
@@ -15648,18 +15533,7 @@
 
     Notes:
 
-    High Fang and X-Claw are rapid attacks
-
-    that should be dealt in succession as soon
-
-    as the limit begins.
-
-
-    Keep unleashing these attacks until it´s
-
-    time to execute the finishing move--Proud
-
-    Roar.
+    Darkness
 - id: 19178
   drk: Tron/Complete Compilement
 - id: 19179
@@ -15671,24 +15545,7 @@
 
     Notes:
 
-    Use Burst Pulse on close enemies, and
-
-    Cluster Code on far enemies. Use
-
-    Cluster Code during Burst Pulse for
-
-    extra attack power.
-
-
-    Reprogram continues to search for
-
-    enemies after the limit is over.
-
-    Select Stop to cancel this attack.
-
-    Sora can move freely during this limit,
-
-    so use him to get in many, many hits!
+    Darkness
 - id: 19180
   drk: Riku/Eternal Session
 - id: 19181
@@ -15701,18 +15558,7 @@
 
     Notes:
 
-    Dark Cannon and Last Saber focus only
-
-    on one target. Defeat strong enemies
-
-    with this attack.
-
-
-    Master Hearts and {XIII} Blades can be dealt
-
-    while moving, so earn combo points by
-
-    grabbing nearby enemies!
+    Darkness
 - id: 19182
   drk: Sora/Trinity of Darkness
 - id: 19183
@@ -15724,26 +15570,7 @@
 
     Notes:
 
-    After selecting an attack, Begin Combo
-
-    will take the place of the chosen attack
-
-    on the command menu. Begin Combo
-
-    unleashes the total number of hits dealt
-
-    by the other three attacks. Save Begin
-
-    Combo until many hits have been dealt
-
-    by the other attacks!
-
-
-    This limit can be done when Sora is alone,
-
-    but his two friends will not come to help
-
-    him.
+    Darkness
 - id: 19184
   drk: Pan of Darkness/Never Land
 - id: 19185
@@ -15753,28 +15580,7 @@
 
     Notes:
 
-    Grab nearby enemies and fly around!
-
-
-    Tiny Fairy deals great damage and blows
-
-    the enemy away.
-
-
-    The Flying Boy deals less damage, but
-
-    continues to drag the enemy around,
-
-    dealing constant damage. Use the
-
-    appropriate attack in each situation.
-
-
-    Sora can fly freely during this limit.
-
-    Move up and down with the right
-
-    stick. Select Stop to cancel
+    Darkness
 
     the limit.
 - id: 19186
@@ -15856,25 +15662,7 @@
 
     Notes:
 
-    Whirling Darkness and Whirlinger Darkness unleash
-
-    many hits but have a small attack range.
-
-    Move in close to the enemy before
-
-    attacking.
-
-
-    Whirlingest Darkness can be executed
-
-    while moving, so make sure to grab
-
-    surrounding enemies as well.
-
-
-    Execute the attacks quickly, or the
-
-    limit will be canceled!
+    Darkness
 - id: 19196
   drk: There´s nothing yet!
 - id: 19197

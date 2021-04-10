@@ -1421,20 +1421,10 @@
     from the {:theme 0A}Oasis{:reset}.
 - id: 17074
   drk: >-
-    The {:theme 0A}Cave of Wonders{:reset} is over there,
-
-    where those sinister-looking clouds are.{:clear }It´s a dangerous place, but we should
-
-    be all right if we go together.
+    Darkness
 - id: 17075
   drk: >-
-    I bet we can find enough treasure 
-
-    at the {:theme 0A}Cave of Wonders {:reset}
-
-    to satisfy that peddler.{:clear }The question is, will there
-
-    be enough to satisfy me...?
+    Darkness
 - id: 17076
   drk: >-
     Something bothers me about
@@ -1503,46 +1493,24 @@
     if you didn´t go...
 - id: 17696
   drk: >-
-    Remember how you stopped Jafar
-
-    from taking over the palace last time?{:clear }This time, he´s not just trying
-
-    to take over the palace,{:clear }but he also wants his revenge
-
-    on you as well.
+    Darkness
 - id: 17697
   drk: >-
-    You know, it isn´t so bad trying
-
-    to be helpful after all.{:clear }I´ve always just tried to make
-
-    things difficult for people,{:clear }so this is totally new for me!
+    Darkness
 - id: 17698
   drk: >-
-    Say, why don´t we head back? No, no,
-
-    we can´t do that. Still we really should...
+    Darkness
 - id: 17727
   drk: Head towards Jafar´s shadow!
 - id: 18117
   drk: >-
-    Jafar? He´s likely out to capture
-
-    the {:theme 0A}palace{:reset}, or some such nonsense.{:clear }I´m not interested his schemes unless
-
-    there´s something in it for me.{:clear }I´ll leave him to you.
+    Darkness
 - id: 18118
   drk: >-
-    My new product´s selling like crazy!
-
-    Care to try it out for yourself?
+    Darkness
 - id: 18119
   drk: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Try it out?
-
-    {:chardelay 33 00}Not interested.
-
-    {:chardelay 52 00}Sure, if it won´t cost me anything.
+    Darkness
 - id: 18741
   drk: >-
     Defeat the Darkness!

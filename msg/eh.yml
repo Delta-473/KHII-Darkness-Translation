@@ -891,27 +891,19 @@
   drk: Ansem! The machine!
 - id: 16557
   drk: >-
-    All the more darkness that hearts
-
-    cannot be contained by data. {:delay EA 00}{:clear }Run, my friend! It's going to self-destruct,
-
-    and anything could happen!
+    Darkness
 - id: 16558
   drk: But...
 - id: 16559
   drk: Your Majesty!
 - id: 16560
   drk: >-
-    Sora, the rest is up to you...{:delay 96 00}{:clear }{:delay 3C 00}{:clear }And Roxas--
-
-    I doubt you can hear me--but...{:delay E6 00}{:clear }{:delay 18 00}{:clear }I am sorry.
+    Darkness
 - id: 16561
   drk: Ansem!
 - id: 16562
   drk: >-
-    My heart is telling me what I must do.
-
-    Please allow me to do what it says!
+    Darkness
 - id: 16563
   drk: No!
 - id: 16564
@@ -940,9 +932,7 @@
     happened without you.
 - id: 16570
   drk: >-
-    YOU are the source of all Darkness.{:delay C0 00}{:clear }{:delay 30 00}It was your research that inspired me
-
-    to go further than you ever dared.
+    Darkness
 - id: 16573
   drk: We've said enough!{:delay 5A 00}{:clear }{:delay 23 00}{:clear }Riku, you know what to do!{:delay AA 00}{:clear }{:delay 28 00}{:clear }King Mickey, my friend, forgive me!{:delay E6 00}{:clear }{:delay 28 00}{:clear }Farewell!
 - id: 16671
@@ -967,9 +957,7 @@
   drk: Kairi! Where are you?
 - id: 16681
   drk: >-
-    Shhh! Remember where we are!
-
-    This is their stronghold!
+    Darkness
 - id: 16682
   drk: Wait! Your Majesty!
 - id: 16683
@@ -988,9 +976,7 @@
   drk: I do. More than anything.{:delay 84 00}{:clear }{:delay 1C 00}But not with you around.
 - id: 16690
   drk: >-
-    If I had a heart, this would
-
-    be where I die of laughter.
+    Darkness
 - id: 16691
   drk: You...{:delay 41 00}{:clear } {:delay 32 00}{:clear }Didn´t Roxas take care of you?
 - id: 16692
@@ -1052,46 +1038,22 @@
   drk: It is magically locked.
 - id: 18437
   drk: >-
-    The King went on ahead again!
-
-    Can´t he ever wait up!?{:clear }Not that I´m nervous, but I´m glad
-
-    we can go back to Darkness Town anytime.
+    Darkness
 - id: 18438
   drk: >-
-    This town sure is dark. This is where
-
-    the Nobodies live, right?{:clear }C´mon. Let´s try to find a path to
-
-    the {:theme 0A}castle{:reset} Kairi´s being held at.
+    Darkness
 - id: 18439
   drk: >-
-    You can bet Organization {XIII} will be
-
-    waiting for you in that castle.{:clear }I don´t need to tell you how powerful
-
-    they are. Don´t let your guard down.
+    Darkness
 - id: 18440
   drk: >-
-    This sure is a strange world.
-
-    The moon even looks like a heart.{:clear }C´mon, now that we´ve opened the path
-
-    to the {:theme 0A}castle{:reset}, let´s go rescue Kairi!
+    Darkness
 - id: 18441
   drk: >-
-    That castle´s the enemy´s headquarters.
-
-    It´s probably swarming with Nobodies.{:clear }They´re tough opponents, but they all
-
-    have weaknesses. Try to find them out.
+    Darkness
 - id: 18442
   drk: >-
-    Wow! This place looked big from outside,
-
-    but the inside looks even bigger!{:clear }If this is going to be our last battle,
-
-    let´s show them what we´re made of!
+    Darkness
 - id: 18443
   drk: >-
     Golly, I feel darkness around

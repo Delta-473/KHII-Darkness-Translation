@@ -4,14 +4,10 @@
   drk: ''
 - id: 4663
   drk: >-
-    Hey, Pooh Bear! How you doing?
-
-    Finding enough honey lately?
+    Darkness
 - id: 4664
   drk: >-
-    Oh, yes.{:delay 5A 00}{:clear }In fact, I was just about to do
-
-    my stoutness exercises.{:delay FA 00}{:clear }Would you like to join me, Sora?
+    Darkness
 - id: 4665
   drk: Sure, I´m game!
 - id: 4666
@@ -22,11 +18,7 @@
   drk: I´m so glad you´re okay, Pooh.
 - id: 4669
   drk: >-
-    And I´m glad you came to visit.{:delay A0 00}{:clear }But you see, I was just about to
-
-    begin my stoutness exercises.{:delay DC 00}{:clear }Perhaps we could visit a bit later...
-
-    Somebody-I-Don´t-Know.
+    Darkness
 - id: 4670
   drk: Oh...sure.
 - id: 4671
@@ -44,11 +36,7 @@
   drk: Hey! Pooh?
 - id: 4675
   drk: >-
-    Something very weird is
-
-    happening here.{:delay 78 00}{:clear }Maybe I´d better go back and
-
-    ask Merlin about this.
+    Darkness
 - id: 4676
   drk: Say, what´s wrong, sonny?
 - id: 4677
@@ -102,55 +90,37 @@
   drk: '{:unk13 2C 01 50 00}{:unk06 00}{:unk08 01 00 05}There you go!'
 - id: 4691
   drk: >-
-    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Whew!
-
-    Thank you, Sora.
+    Darkness
 - id: 4692
   drk: >-
-    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Oh, here comes
-
-    Pooh Bear.
+    Darkness
 - id: 4693
   drk: '{:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}Pooh! You´re all right!'
 - id: 4694
   drk: >-
-    {:unk13 4A 01 3C 00}{:unk06 00}{:unk08 01 01 05}Why, hello.
-
-    It´s nice to meet you.{:clear }{:delay 1E 00}Happy Windsday.
+    Darkness
 - id: 4695
   drk: >-
-    {:unk13 B2 00 03 01}{:unk06 02}{:unk08 01 01 06}Nice to m-meet you?
-
-    But, Pooh. It´s me, Piglet.{:clear }{:delay 1E 00}Don´t you remember me?
+    Darkness
 - id: 4696
   drk: '{:unk13 53 01 65 00}{:unk06 00}{:unk08 01 00 05}And me, too? We´re friends!'
 - id: 4697
   drk: >-
-    {:unk13 4A 01 46 00}{:unk06 00}{:unk08 01 01 05}We are? Hmm...
-
-    It seems I can´t remember.
+    Darkness
 - id: 4698
   drk: >-
-    {:unk13 94 00 A8 00}{:unk06 00}{:unk08 01 00 06}Oh, Pooh...
-
-    That´s v-v-very sad!
+    Darkness
 - id: 4699
   drk: >-
-    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Good-bye, Sora!
-
-    Good-bye, Pooh!
+    Darkness
 - id: 4700
   drk: '{:unk13 2C 01 C8 00}{:unk06 00}{:unk08 01 00 04}Piglet...'
 - id: 4701
   drk: >-
-    {:unk13 5E 01 E6 00}{:unk06 00}{:unk08 01 00 05}Oh my. That looks
-
-    rather fun, doesn´t it?
+    Darkness
 - id: 4702
   drk: >-
-    {:unk13 52 01 BD 00}{:unk06 00}{:unk08 01 00 05}I say, it seems we have a
-
-    rather serious predicament!
+    Darkness
 - id: 4703
   drk: >-
     Jump down, Piglet!

@@ -10,11 +10,7 @@
     sure is easier to catch food now!
 - id: 4908
   drk: >-
-    He may be living in the {:theme 0A}king´s den{:reset},
-
-    but he isn´t doing a king´s job.{:clear }Oh... I wonder if Rafiki has anything
-
-    in mind...
+    Darkness
 - id: 4909
   drk: >-
     So Scar fled to the king´s den, hm?
@@ -31,11 +27,7 @@
     Simba needs.
 - id: 4911
   drk: >-
-    Simba´s in the {:theme 0A}king´s den{:reset},
-
-    but you´ve seen the ghost, too.{:clear }Please go to him. Seeing you may
-
-    cheer him up.
+    Darkness
 - id: 4912
   drk: >-
     The hyenas should be in
@@ -59,25 +51,13 @@
     no worries, no cares! Live for today!
 - id: 4915
   drk: >-
-    So, you´re returning
-
-    to the {:theme 0A}The Darkness Lands{:reset}...{:clear }You can prepare for your journey
-
-    here. Whatever you do, don´t get hurt.
+    Darkness
 - id: 4916
   drk: >-
-    Nala wants to be left alone.
-
-    Why don´t you go cheer up Simba?{:clear }hakuna matata...
-
-    You understand, don´t you, guys?
+    Darkness
 - id: 4917
   drk: >-
-    You can run fast like lions,
-
-    right?{:clear }I wish I could do that, too. It´d be
-
-    useful when running away...
+    Darkness
 - id: 4918
   drk: >-
     A bird and a turtle.

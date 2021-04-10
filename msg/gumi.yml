@@ -524,48 +524,30 @@
   drk: '{:width 95}Teeny Limit Upgrade'
 - id: 15181
   drk: >-
-    Increases the damage dealt by cannon
-
-    attacks.
+    Darkness
 - id: 15182
   drk: >-
-    Increases the damage dealt by laser
-
-    attacks.
+    Darkness
 - id: 15183
   drk: >-
-    Increases the damage dealt by Slash
-
-    Gummi attacks.
+    Darkness
 - id: 15184
   drk: >-
-    Causes Medal Orbs to appear more
-
-    often than HP Orbs.
+    Darkness
 - id: 15185
   drk: Restores HP automatically over time.
 - id: 15186
   drk: >-
-    Fires lasers automatically when hit by
-
-    enemy attacks.
+    Darkness
 - id: 15187
   drk: >-
-    Allows you to leave one Teeny Ship
-
-    behind and add its cost to
-
-    the Gummi Ship.
+    Darkness
 - id: 15188
   drk: >-
-    Allows you to change the formation of
-
-    Teeny Ships with {:icon button-l2} and {:icon button-r2}.
+    Darkness
 - id: 15189
   drk: >-
-    Allows you to power the Teeny Ship
-
-    into an active formation with {:icon button-square}.
+    Darkness
 - id: 15196
   drk: Material/G ₓ 5
 - id: 15197
@@ -591,34 +573,22 @@
     ahead. Rapid fire-enabled.
 - id: 15424
   drk: >-
-    Fires two, bi-directional rounds.
-
-    Rapid fire-enabled.
+    Darkness
 - id: 15425
   drk: >-
-    Fires two, tri-directional rounds.
-
-    Rapid fire-enabled.
+    Darkness
 - id: 15426
   drk: >-
-    Fires two, quad-directional rounds.
-
-    Rapid fire-enabled.
+    Darkness
 - id: 15427
   drk: >-
-    Fires a round that scatters when
-
-    it hits a target.
+    Darkness
 - id: 15428
   drk: >-
-    Fires a round that scatters wide
-
-    when it hits a target.
+    Darkness
 - id: 15429
   drk: >-
-    Fires a powerful round that
-
-    scatters wide when it hits a target.
+    Darkness
 - id: 15430
   drk: >-
     Fires laser rounds that seek out
@@ -671,13 +641,7 @@
     the gummi block.
 - id: 15438
   drk: >
-    Uses the Slash Gauge to unleash
-
-    a forward attack that cuts through
-
-    enemy defenses. You can add more
-
-    Slash Gummies to set up combos.
+    Darkness
 - id: 15439
   drk: >
     Uses the Slash Gauge to unleash

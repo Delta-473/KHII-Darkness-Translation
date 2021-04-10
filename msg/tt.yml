@@ -6180,61 +6180,41 @@
   drk: >-
     Forget it!
 
-    There´s no way you´re taking Kairi´s heart!
+    There´s no way you´re taking Kairi´s Darkness!
 - id: 19717
   drk: Kairi.
 - id: 19718
   drk: >-
-    We may never meet again,
-
-    but we´ll never forget each other.
+    Darkness
 - id: 19719
   drk: >-
-    No matter where we are,
-
-    our hearts will bring us together again.
+    Darkness
 - id: 19720
   drk: >-
-    Take this.{:delay 4B 00}{:clear }It´s my lucky charm.
-
-    Be sure to bring it back to me.
+    Darkness
 - id: 19721
   drk: Don´t worry. I will.
 - id: 19722
   drk: Promise?
 - id: 19723
   drk: >-
-    Gawrsh, is that all that´s left of
-
-    the worlds taken by the Darkness?
+    Darkness
 - id: 19724
   drk: >-
-    Those worlds will be restored
-
-    if we beat Ansem, right?{:delay A8 00}{:clear }But, if we do beat him and all these worlds
-
-    become restored and disconnected,{:delay 55 01}{:clear }what´s gonna happen to this place? And to us?
+    Darkness
 - id: 19725
   drk: >-
-    All worlds begin in darkness,{:delay AE 00}{:clear }and all so end.{:delay 84 00}{:clear }The heart is no different. {:delay 9F 00}{:clear }You see, darkness is
-
-    the heart´s true essence.
+    Darkness
 - id: 19726
   drk: >-
-    That´s not true!{:delay 34 00}{:clear }The heart may be weak.
-
-    And sometimes it may even give in.{:delay 2C 01}{:clear }But I´ve learned that deep down,
-
-    there´s a light that never goes out!
+    Darkness
 - id: 19727
   drk: Kingdom Hearts!{:delay 8C 00}{:clear }Fill me with the power of darkness!
 - id: 19728
   drk: You´re wrong.{:delay 5E 00}{:clear }I know now,{:delay 4C 00}{:clear }without a doubt.{:delay 6B 00}{:clear }Kingdom Hearts is light!
 - id: 19729
   drk: >-
-    Now, Sora!
-
-    Let´s close this door for good!
+    Darkness
 - id: 19730
   drk: Take care of her.
 - id: 19731
@@ -6251,9 +6231,7 @@
   drk: We´ve gotta find Riku and King Mickey.
 - id: 19737
   drk: >-
-    But, uh, where do we start lookin´
-
-    for that there door to the light?
+    Darkness
 - id: 19738
   drk: Pluto?
 - id: 19739
@@ -6319,41 +6297,25 @@
   drk: Axel...
 - id: 19913
   drk: >-
-    Or, maybe I have it wrong.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Might be time to sleep.{:delay 82 00}{:clear }Soon, we won't be able to
-
-    talk like this anymore.
+    Darkness
 - id: 19914
   drk: >-
-    Does that mean...{:delay 7D 00}{:clear }it's time for me to go back
-
-    to where I belong?
+    Darkness
 - id: 19915
   drk: >-
-    You know, I've been thinking about
-
-    something Naminé said.{:delay 0E 01}{:clear } {:delay 32 00}{:clear }Roxas, are you really sure that
-
-    you don't have a heart?{:delay 68 01}{:clear }Is it possible that we ALL have one?
-
-    You, me, her...{:delay 40 01}{:clear }Or is that just wishful thinking?
+    Darkness
 - id: 19916
   drk: I dunno.{:delay A9 00}{:clear }I can't...just look inside.
 - id: 19919
   drk: C'mon, don't leave me hanging.
 - id: 19920
   drk: >-
-    Sora will find the answer we're
-
-    looking for. I know he will.{:delay 1D 01}{:clear }Because he's me.
+    Darkness
 - id: 19921
   drk: True enough.
 - id: 19922
   drk: >-
-    Man, I miss the old times.
-
-    Still got it memorized?{:delay E3 00}{:clear }The day we met, when you got your
-
-    new name, you and I sat right here{:delay 2B 01}{:clear }and watched the sun set.
+    Darkness
 - id: 19923
   drk: Yeah. This place is home.{:delay C8 00}{:clear } {:delay 64 00}{:clear }Me, Hayner, Pence, Olette...{:delay 39 01}{:clear }We've shared a lot of adventures.
 - id: 19924
@@ -6370,36 +6332,18 @@
   drk: Yeah, I guess not.
 - id: 20172
   drk: >-
-    {:unk08 02 00 06}It's some Tainted Darkness, a shadowy presence
-
-    within an emblem.
-
-    {:chardelay 33 00}Who cares?
-
-    {:chardelay A1 00}Let's check it out!
+    Darkness
 - id: 20188
   drk: >-
-    But I figure, if there is something
-
-    in there--inside us--{:delay 13 01}{:clear } {:delay 0F 00}{:clear }
-
-    then we'd feel it, wouldn't we?
+    Darkness
 - id: 20189
   drk: And if so...{:delay 82 00}{:clear } {:delay 19 00}{:clear }No, never mind.
 - id: 20539
   drk: >-
-    An image of you obtaining old powers
-
-    flows into your mind.
+    Darkness
 - id: 20540
   drk: >-
-    You have obtained a puzzle piece!
-
-    Puzzle pieces are scattered all over the world.{:clear }Some can only be accessed after learning
-
-    a certain ability. You can view collected
-
-    pieces in Jiminy's Journal.
+    Darkness
 - id: 20594
   drk: Press {:icon button-triangle} to begin the duel! Defeat the enemies that appear before you!
 - id: 20596

@@ -9,39 +9,23 @@
   drk: '{:unk13 A4 00 3C 00}{:unk08 01 01 05}Well, uh...'
 - id: 2938
   drk: >-
-    {:unk13 B9 00 3C 00}{:unk08 01 01 05}There´s a...world
-
-    inside this computer,{:clear }where these, um...
-
-    programs live, and...
+    Darkness
 - id: 2939
   drk: >-
-    {:unk13 91 00 50 00}{:unk08 01 01 07}So in other words...{:clear }Ansem´s research data
-
-    is off-limits unless we
-
-    know the password.
+    Darkness
 - id: 2940
   drk: '{:unk13 87 00 73 00}{:unk08 01 01 06}I think that´s right.'
 - id: 2941
   drk: >-
-    {:unk13 A6 00 43 00}{:unk08 01 01 06}But you´ve already
-
-    defeated Ansem...
+    Darkness
 - id: 2942
   drk: >-
-    {:unk13 6D 01 A1 00}{:unk08 01 00 05}Gawrsh, maybe
-
-    we´ll never
-
-    find the password.
+    Darkness
 - id: 2943
   drk: '{:unk13 C8 00 32 00}{:unk08 01 01 06}That means...'
 - id: 2944
   drk: >-
-    {:unk13 82 00 46 00}{:unk08 01 01 07}...this is all a
-
-    wild goose chase.
+    Darkness
 - id: 2947
   drk: '{:unk13 54 01 B4 00}{:unk08 01 00 05}She just won´t give up...'
 - id: 2948
@@ -306,19 +290,13 @@
     Leon, anyway...
 - id: 8164
   drk: >-
-    He went on over to Ansem´s study to find
-
-    out what all the ruckus was about.
+    Darkness
 - id: 8165
   drk: >-
-    Turns out the MCP is using
-
-    the data in that computer{:delay B4 00}{:clear }to crank out Darkness.
+    Darkness
 - id: 8166
   drk: >-
-    The MCP´s been messin´ around with
-
-    the town´s control system, too.
+    Darkness
 - id: 8167
   drk: ''
 - id: 8168
@@ -328,52 +306,30 @@
     when to quit, does it?
 - id: 8169
   drk: >-
-    {:unk13 80 00 43 00}{:unk08 01 01 06}That´s a computer
-
-    program for ya.
+    Darkness
 - id: 8170
-  drk: '{:unk13 FA 00 91 00}{:unk08 01 00 05}How´s Tron doing?'
+  drk: Darkness
 - id: 8171
   drk: >-
-    {:unk13 2C 01 55 00}{:unk08 01 01 06}We can´t reach him.{:clear }We figure he must have been
-
-    forced onto the game grid.
+    Darkness
 - id: 8172
   drk: >-
-    {:unk13 09 01 41 00}{:unk08 01 00 05}And it don´t sound
-
-    like a particularly
-
-    fun game, either.
+    Darkness
 - id: 8175
   drk: >-
-    {:unk13 AF 00 37 00}{:unk08 01 01 06}Thanks, kid.{:clear }We´re puttin´ together an
-
-    MCP Eradication program.{:clear }I got a hunch it´s
-
-    almost finished, too.
+    Darkness
 - id: 8176
   drk: >-
-    {:unk13 F0 00 50 00}{:unk08 01 00 05}Well, I hope your hunch
-
-    is right for once!
+    Darkness
 - id: 8177
   drk: >-
-    {:unk13 04 01 41 00}{:unk08 01 01 06}Listen, we´re gonna need
-
-    Tron´s help when that
-
-    Eradicator´s completed...
+    Darkness
 - id: 8178
   drk: >-
-    {:unk13 FA 00 8C 00}{:unk08 01 00 05}Don´t sweat it.{:clear }We´ll make sure
-
-    to tell Tron!
+    Darkness
 - id: 8179
   drk: >-
-    {:unk13 50 01 3A 00}{:unk08 01 00 04}Remember, boys--we´re
-
-    counting on you.
+    Darkness
 - id: 8180
   drk: '{:unk13 F5 00 AF 00}{:unk08 01 00 05}Roger!'
 - id: 8181

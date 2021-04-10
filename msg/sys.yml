@@ -2396,101 +2396,61 @@
     during a combo with {:icon button-square}.
 - id: 7998
   drk: >-
-    Roxas:
-
-    Not this way!
+    Darkness
 - id: 7999
   drk: >-
-    Roxas:
-
-    This isn´t the right way.
+    Darkness
 - id: 8000
   drk: >-
-    Roxas:
-
-    Not over here...
+    Darkness
 - id: 8001
   drk: >-
-    Roxas:
-
-    Wait, this isn´t right.
+    Darkness
 - id: 8002
   drk: >-
-    Roxas:
-
-    Looks like it goes through,
-
-    but I can´t use it now.
+    Darkness
 - id: 8003
   drk: >-
-    Roxas:
-
-    We better not run away!
+    Darkness
 - id: 8004
   drk: >-
-    Roxas:
-
-    We better stand up for ourselves.
+    Darkness
 - id: 8005
   drk: >-
-    Roxas:
-
-    No running away, now!
+    Darkness
 - id: 8006
   drk: >-
-    Roxas:
-
-    Gotta follow him!
+    Darkness
 - id: 8007
   drk: >-
-    Roxas:
-
-    I don´t think I can go there yet.
+    Darkness
 - id: 8008
   drk: >-
-    Roxas:
-
-    There aren´t any jobs this way.
+    Darkness
 - id: 8009
   drk: >-
-    Roxas:
-
-    I´ve got a job to do!
+    Darkness
 - id: 8010
   drk: >-
-    Roxas:
-
-    I need to make some munny...
+    Darkness
 - id: 8011
   drk: >-
-    Roxas:
-
-    They sell tickets inside the station.
+    Darkness
 - id: 8012
   drk: >-
-    Roxas:
-
-    We could get on if we had tickets.
+    Darkness
 - id: 8013
   drk: >-
-    Sora:
-
-    Doesn´t look like it´s ready yet.
+    Darkness
 - id: 8014
   drk: >-
-    Sora:
-
-    I can´t just barge in.
+    Darkness
 - id: 8015
   drk: >-
-    Sora:
-
-    This doesn´t feel right...
+    Darkness
 - id: 8016
   drk: >-
-    Sora:
-
-    Something´s not letting us leave.
+    Darkness
 - id: 8051
   drk: Sight of Darkness
 - id: 8052
@@ -7097,58 +7057,28 @@
     Form, 1 point of experience is gained.
 - id: 17800
   drk: >-
-    Experience necessary to level up.
-
-    The Level cap depends on the number of
-
-    Forms obtained.
+    Darkness
 - id: 17801
   drk: >-
-    The Form gauge for Wisdom of Darkness.
-
-    The longer the gauge, the longer
-
-    the time spent transformed.
+    Darkness
 - id: 17802
   drk: >-
-    {:width 80}Each small drive orb gives 1 point of experience,
-
-    and one big drive orb gives 3 points of experience
-
-    for each drive prize obtained in Master of Darkness.
+    Darkness
 - id: 17803
   drk: >-
-    Experience necessary to level up.
-
-    The Level cap depends on the number of
-
-    Forms obtained.
+    Darkness
 - id: 17804
   drk: >-
-    The Form gauge for Master of Darkness.
-
-    The longer the gauge, the longer
-
-    the time spent transformed.
+    Darkness
 - id: 17805
   drk: >-
-    For each Shell of Darkness defeated in Darkness of Darkness,
-
-    1 point of experience is gained.
+    Darkness
 - id: 17806
   drk: >-
-    Experience necessary to level up.
-
-    The Level cap depends on the number of
-
-    forms obtained.
+    Darkness
 - id: 17807
   drk: >-
-    The Form gauge for Darkness of Darkness.
-
-    The longer the gauge, the longer
-
-    the time spent transformed.
+    Darkness
 - id: 17808
   drk: Summon Gauge
 - id: 17809
@@ -7161,49 +7091,25 @@
   drk: Darkness Little
 - id: 17813
   drk: >-
-    While summoning, 1 experience is gained
-
-    for every 1 point consumed by
-
-    the Summon Gauge.
+    Darkness
 - id: 17814
   drk: >-
-    Experience necessary to level up.
-
-    The Level cap depends on the number of
-
-    Summons obtained.
+    Darkness
 - id: 17815
   drk: >-
-    Your current Summon Gauge.
-
-    The longer the gauge, the longer
-
-    the summon stays active.
+    Darkness
 - id: 17816
   drk: >-
-    Darkness 626 will parry most enemy attacks.
-
-    A wise summon to use for defense.
+    Darkness
 - id: 17817
   drk: >-
-    Wishes of Darkness has many Limit attacks and
-
-    can transform into various Forms.
+    Darkness
 - id: 17818
   drk: >-
-    {:width 85}Pan of Darkness will help Sora fight against enemies.
-
-    If Sora falls during battle, Tinker Bell will be
-
-    able to revive him one time.
+    Darkness
 - id: 17819
   drk: >-
-    Darkness Little can stop enemy
-
-    movements and bring distant enemies in
-
-    close to attack!
+    Darkness
 - id: 17834
   drk: Valor LV
 - id: 17835
@@ -8351,48 +8257,26 @@
   drk: Hurricane Period
 - id: 20122
   drk: >-
-    Unleashes a powerful finishing combo
-
-    move consisting of an aerial barrage.
+    Darkness
 - id: 20123
   drk: Limit LV
 - id: 20124
   drk: >-
-    For each limit command finishing move
-
-    unleashed in Limit of Darkness, 1 point of
-
-    experience is gained.
+    Darkness
 - id: 20125
   drk: >-
-    Experience necessary to level up.
-
-    The Level cap depends on the number of
-
-    Forms obtained.
+    Darkness
 - id: 20126
   drk: >-
-    The Form gauge for Limit of Darkness.
-
-    The longer the gauge, the longer
-
-    the time spent transformed.
+    Darkness
 - id: 20127
   drk: Darkness L
 - id: 20128
   drk: >-
-    Limit of Darkness Status.
-
-    A form specializing in Limit attacks.
-
-    {:color #F0F00080}Cost: 4{:reset}
+    Darkness
 - id: 20129
   drk: >-
-    Limit of Darkness Level. Time spent
-
-    transformed becomes longer, and
-
-    Abilities become stronger by leveling up.
+    Darkness
 - id: 20159
   drk: '{:icon button-cross}: Save   {:icon button-circle}: End Game'
 - id: 20168
@@ -8401,100 +8285,62 @@
   drk: Quick Slide
 - id: 20170
   drk: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
-
-
-    Save game data. Loading this save data
-
-    will place you before the last battle.
+    Darkness
 - id: 20171
   drk: >-
-    {:icon question-mark}{:color #FF000080}QUESTION{:reset}
-
-
-    Would you like to return to the title screen
-
-    without saving completed game data?
+    Darkness
 - id: 20190
   drk: Merge
 - id: 20191
   drk: '{:width 85}Remembrance Shard'
 - id: 20192
   drk: >-
-    A gem shard filled with remembrance.
-
-    A very common ingredient of item
-
-    synthesis.
+    Darkness
 - id: 20193
   drk: '{:width 85}Remembrance Stone'
 - id: 20194
   drk: >-
-    A stone filled with remembrance.
-
-    A common ingredient of item synthesis.
+    Darkness
 - id: 20195
   drk: '{:width 90}Remembrance Gem'
 - id: 20196
   drk: >-
-    A gem abundant with remembrance.
-
-    A rare ingredient of item synthesis.
+    Darkness
 - id: 20197
   drk: '{:width 80}Remembrance Crystal'
 - id: 20198
   drk: >-
-    A mysterious crystal abundant with
-
-    remembrance. A very rare ingredient
-
-    of item synthesis.
+    Darkness
 - id: 20199
   drk: Tranquility Shard
 - id: 20200
   drk: >-
-    A gem shard filled with tranquility.
-
-    A very common ingredient of item
-
-    synthesis.
+    Darkness
 - id: 20201
   drk: Tranquility Stone
 - id: 20202
   drk: >-
-    A stone filled with tranquility.
-
-    A common ingredient of item synthesis.
+    Darkness
 - id: 20203
   drk: Tranquility Gem
 - id: 20204
   drk: >-
-    A gem abundant with tranquility.
-
-    A rare ingredient of item synthesis.
+    Darkness
 - id: 20205
   drk: Tranquility Crystal
 - id: 20206
   drk: >-
-    A mysterious crystal abundant with
-
-    tranquility. A very rare ingredient of
-
-    item synthesis.
+    Darkness
 - id: 20207
   drk: Lost Illusion
 - id: 20208
   drk: >-
-    A magical ore.
-
-    An ingredient of item synthesis.
+    Darkness
 - id: 20209
   drk: Manifest Illusion
 - id: 20210
   drk: >-
-    A possibly magical ore.
-
-    An ingredient of item synthesis.
+    Darkness
 - id: 20211
   drk: Dark Remembrance Map
 - id: 20212
@@ -8551,23 +8397,17 @@
   drk: Zantetsu Counter
 - id: 20326
   drk: >-
-    Unleashes Zantetsuken by selecting
-
-    Attack while guarding.
+    Darkness
 - id: 20327
   drk: Dark Return Combo
 - id: 20328
   drk: >-
-    Blocks enemy attacks with Guard
-
-    by pressing {:icon button-square} during a combo.
+    Darkness
 - id: 20329
   drk: HP Gain
 - id: 20330
   drk: >-
-    Restores Sora's HP when
-
-    a Limit Command lands.
+    Darkness
 - id: 20338
   drk: Depths of Remembrance Map
 - id: 20339
@@ -8592,27 +8432,17 @@
   drk: Lonely Darkness
 - id: 20398
   drk: >-
-    Proof of winning the battle in
-
-    the portal at Disney Darkness.
-
-    Perhaps it has changed Sora.
+    Darkness
 - id: 20399
   drk: '{:width 90}Empty Darkness'
 - id: 20400
   drk: >-
-    Proof of defeating all of Organization {XIII}'s
-
-    replica data in the Garden of Assemblage.
-
-    Perhaps it has changed Sora.
+    Darkness
 - id: 20401
   drk: Warring Darkness
 - id: 20402
   drk: >-
-    Proof of appeasing the Mushroom {XIII}.
-
-    Perhaps it has changed Sora.
+    Darkness
 - id: 20403
   drk: Illude
 - id: 20404

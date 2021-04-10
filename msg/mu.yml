@@ -2,63 +2,31 @@
   drk: What is it? Giving up on the mission?
 - id: 4106
   drk: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Should I reject it?
-
-    {:chardelay 33 00}No sir!
-
-    {:chardelay 0A 00}I need more rest.
+    Darkness
 - id: 4107
   drk: >-
-    Your mission is to secure the path over
-
-    the summit so our company can pass.{:clear }I´ve authorized you to be let through
-
-    to the summit. Don´t let me down!
+    Darkness
 - id: 4108
   drk: >-
-    On the way to the mountain, you´ll come to a
-
-    checkpoint. Beyond that is the mountain trail.{:clear }The whole place is swarming with
-
-    enemies. For what it´s worth, be careful.
+    Darkness
 - id: 4109
   drk: >-
-    A whirlwind came and blew me to
-
-    the top of the turret.{:clear }If it did that to me, imagine what
-
-    it could do to the others.
+    Darkness
 - id: 4110
   drk: >-
-    There are explosives inside
-
-    the tent, so be careful.{:clear }If you mess around too much next to
-
-    the tent...KA-BOOM!!! Got the picture?
+    Darkness
 - id: 4111
   drk: >-
-    All´s quiet here. You´d better take
-
-    your mission seriously.{:clear }If you don´t do it quickly, Captain
-
-    Shang´s going to have your hide.
+    Darkness
 - id: 4113
   drk: >-
-    We don´t know where the enemy
-
-    is, or what traps they´ve set.{:clear }Be prepared for anything.
+    Darkness
 - id: 4114
   drk: >-
-    You can reach the summit by
-
-    climbing up here.{:clear }I don´t see why anyone would want to
-
-    go there, though, unless they had to.
+    Darkness
 - id: 4115
   drk: >-
-    It´s so quiet around here
-
-    that it makes me hungry...
+    Darkness
 - id: 4116
   drk: >-
     See that cave back there?{:clear }It looks pretty creepy, kinda like

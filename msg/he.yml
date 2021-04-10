@@ -2540,32 +2540,20 @@
     The title is Tainted Darkness.
 - id: 20167
   drk: >-
-    {:unk08 02 00 06}It's some Tainted Darkness, a shadowy presence
-
-    within an emblem.
-
-    {:chardelay 33 00}Who cares?
-
-    {:chardelay A1 00}Let's check it out!
+    Darkness
 - id: 20604
   drk: Press {:icon button-triangle} to begin the duel! Quickly defeat the enemies that appear!
 - id: 21392
   drk: "{:unk13 AA 00 D2 00}{:unk06 00}{:unk08 01 00 06}What's the deal with this book?"
 - id: 21393
   drk: >-
-    {:unk13 F0 00 5E 01}{:unk06 00}{:unk08 01 00 02}It looks like it's called
-
-    Absent Silhouettes.
+    Darkness
 - id: 21394
   drk: >-
-    {:unk13 68 01 68 01}{:unk06 00}{:unk08 01 00 02}Are you sure you want to touch that?{:clear }You can't be too careful
-
-    in the Underworld.
+    Darkness
 - id: 21395
   drk: >-
-    {:unk13 E6 00 5E 01}{:unk06 00}{:unk08 01 00 02}You're right.
-
-    It might be a trap of some sort.
+    Darkness
 - id: 21396
   drk: '{:unk13 A0 00 5A 00}{:unk06 00}{:unk08 01 00 06}Huh?'
 - id: 21397
@@ -2584,24 +2572,16 @@
     presences of those who were slain.
 - id: 21400
   drk: >-
-    {:unk13 68 01 78 00}{:unk06 00}{:unk08 01 01 06}Absent Silhouette?
-
-    Like the title of that book!
+    Darkness
 - id: 21401
   drk: >-
-    {:unk13 A0 00 78 00}{:unk06 00}{:unk08 01 00 05}Exactly, though they come in
-
-    all different shapes and sizes.
+    Darkness
 - id: 21402
   drk: >-
-    {:unk13 AA 00 73 00}{:unk06 00}{:unk08 01 00 05}The item belongs to its owner, who is now
-
-    nothing more than a shadowy presence.
+    Darkness
 - id: 21403
   drk: >-
-    {:unk13 8C 00 8C 00}{:unk06 00}{:unk08 01 01 05}But you can still fight them, of course.{:clear }And as you do, it'll slowly awaken
-
-    the real you.
+    Darkness
 - id: 21404
   drk: '{:unk13 A0 00 32 00}{:unk06 00}{:unk08 01 01 06}What are you talking about?'
 - id: 21405
@@ -2616,9 +2596,7 @@
     An Absent Silhouette.
 - id: 21407
   drk: >-
-    {:unk13 7C 01 C3 00}{:unk06 02}{:unk08 03 01 05}You'll have to save that for later!
-
-    First, we have to rescue Megara!
+    Darkness
 - id: 21408
   drk: "{:unk13 AA 00 41 00}{:unk06 02}{:unk08 03 01 06}Let's go!"
 - id: 21499

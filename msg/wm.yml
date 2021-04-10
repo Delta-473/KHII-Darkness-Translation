@@ -427,18 +427,12 @@
   drk: '{:width 90}Proceed through Assault of the Dreadnought'
 - id: 19329
   drk: >-
-    {:unk08 01 00 05}I guess sometimes help comes
-
-    from unexpected places.
+    Darkness
 - id: 19330
   drk: '{:unk08 01 01 06}Sure does!'
 - id: 19331
   drk: >-
-    {:unk08 01 00 05}A photo and some ice cream? Hmm.
-
-    Wonder if they're some sorta clue.
-
-    And who woulda left 'em for us, anyway?
+    Darkness
 - id: 19332
   drk: '{:unk08 01 01 06}Riku?'
 - id: 19333
@@ -449,25 +443,15 @@
   drk: '{:unk08 01 01 06}Look! We´re almost there!'
 - id: 19336
   drk: >-
-    {:unk08 01 01 06}Hey, what if the Darkness are back again?
-
-    I can´t use the Keyblade--that would
-
-    only help the Organization.
+    Darkness
 - id: 19337
   drk: >-
-    {:unk08 01 00 05}But Sora, I think ya have to use it.
-
-    If we don´t fight ´em, the Darkness´ll
-
-    keep on hurtin´ folks.
+    Darkness
 - id: 19382
   drk: '{:unk08 01 01 06}Uh-oh. Looks like a no go.'
 - id: 19383
   drk: >-
-    {:unk08 01 00 05}Gawrsh, maybe the gate got
-
-    stuck or somethin´.
+    Darkness
 - id: 19384
   drk: '{:unk08 01 00 05}Huh? You want to go back to Darkness Town?'
 - id: 19385
