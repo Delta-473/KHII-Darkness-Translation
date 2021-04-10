@@ -1,41 +1,41 @@
 ﻿- id: 479
-  drk: '-'
+  drk: 'Darkness'
 - id: 480
-  drk: Attack
+  drk: Darkness A
 - id: 481
-  drk: Magic
+  drk: Darkness M
 - id: 482
-  drk: Items
+  drk: Darkness I
 - id: 483
-  drk: Drive
+  drk: Darkness D
 - id: 484
-  drk: Revert
+  drk: Darkness R
 - id: 485
-  drk: Valor Form
+  drk: Valor of Darkness
 - id: 486
-  drk: Wisdom Form
+  drk: Wisdom of Darkness
 - id: 487
-  drk: Master Form
+  drk: Master of Darkness
 - id: 488
-  drk: Final Form
+  drk: Darkness of Darkness
 - id: 489
   drk: Antiform
 - id: 490
-  drk: Talk
+  drk: Darkness
 - id: 491
-  drk: Examine
+  drk: Darkness
 - id: 492
-  drk: Reversal
+  drk: Darkness
 - id: 493
-  drk: Full Swing
+  drk: Darkness
 - id: 494
-  drk: Tackle
+  drk: Darkness
 - id: 495
-  drk: Snag
+  drk: Darkness
 - id: 496
-  drk: Sparkle Ray
+  drk: Darkness
 - id: 497
-  drk: Open
+  drk: Darkness
 - id: 498
   drk: Agrabah
 - id: 499
@@ -101,7 +101,7 @@
 - id: 530
   drk: End of Sea
 - id: 531
-  drk: Twilight Town
+  drk: Darkness Town
 - id: 532
   drk: Destiny Islands
 - id: 533
@@ -109,21 +109,21 @@
 - id: 534
   drk: Beast´s Castle
 - id: 535
-  drk: Olympus Coliseum
+  drk: Darkness Coliseum
 - id: 536
   drk: Agrabah
 - id: 537
   drk: The Land of Dragons
 - id: 538
-  drk: 100 Acre Wood
+  drk: 100 Acres of Darkness
 - id: 539
-  drk: Pride Lands
+  drk: The Darkness Lands
 - id: 540
-  drk: Atlantica
+  drk: Singing Darkness
 - id: 541
-  drk: Disney Castle
+  drk: Disney Darkness
 - id: 542
-  drk: Timeless River
+  drk: Timeless Darkness
 - id: 543
   drk: Halloween Town
 - id: 544
@@ -133,7 +133,7 @@
 - id: 546
   drk: Space Paranoids
 - id: 547
-  drk: The World That Never Was
+  drk: The World of Eternal Darkness
 - id: 548
   drk: Asteroid Sweep
 - id: 549
@@ -624,15 +624,15 @@
 - id: 1117
   drk: Valor
 - id: 1118
-  drk: Change Sub-Weapon used in Valor Form.
+  drk: Change Sub-Weapon used in Valor of Darkness.
 - id: 1119
   drk: Master
 - id: 1120
-  drk: Change Sub-Weapon used in Master Form.
+  drk: Change Sub-Weapon used in Master of Darkness.
 - id: 1121
   drk: Final
 - id: 1122
-  drk: Change Sub-Weapon used in Final Form.
+  drk: Change Sub-Weapon used in Darkness of Darkness.
 - id: 1123
   drk: Armor
 - id: 1124
@@ -749,11 +749,11 @@
 - id: 1175
   drk: Red Meteor
 - id: 1176
-  drk: Whirli-Goof
+  drk: Whirling Darkness
 - id: 1177
-  drk: Whirli-Goofra
+  drk: Whirlinger Darkness
 - id: 1178
-  drk: Whirli-Goofga
+  drk: Whirlingest Darkness
 - id: 1179
   drk: Ride the Wind
 - id: 1180
@@ -919,53 +919,53 @@
 - id: 1283
   drk: '?'
 - id: 1284
-  drk: Summon
+  drk: Darkness S
 - id: 1285
-  drk: Party
+  drk: Darkness P
 - id: 1286
-  drk: Save
+  drk: Darkness
 - id: 1287
   drk: Limit
 - id: 1288
-  drk: Fire
+  drk: Dark Flame
 - id: 1289
-  drk: Fira
+  drk: Darker Flame
 - id: 1290
-  drk: Firaga
+  drk: Darkest Flame
 - id: 1291
-  drk: Thunder
+  drk: Dark Bolt
 - id: 1292
-  drk: Thundara
+  drk: Darker Bolt
 - id: 1293
-  drk: Thundaga
+  drk: Darkest Bolt
 - id: 1294
-  drk: Blizzard
+  drk: Dark Frost
 - id: 1295
-  drk: Blizzara
+  drk: Darker Frost
 - id: 1296
-  drk: Blizzaga
+  drk: Darkest Frost
 - id: 1297
-  drk: Cure
+  drk: Dark Heal
 - id: 1298
-  drk: Cura
+  drk: Darker Heal
 - id: 1299
-  drk: Curaga
+  drk: Darkest Heal
 - id: 1300
-  drk: Magnet
+  drk: Dark Pulse
 - id: 1301
-  drk: Magnera
+  drk: Darker Pulse
 - id: 1302
-  drk: Magnega
+  drk: Darkest Pulse
 - id: 1303
-  drk: Reflect
+  drk: Dark Return
 - id: 1304
-  drk: Reflera
+  drk: Darker Return
 - id: 1305
-  drk: Reflega
+  drk: Darkest Return
 - id: 1308
-  drk: Stitch
+  drk: Darkness 626
 - id: 1309
-  drk: Genie
+  drk: Wishes of Darkness
 - id: 1311
   drk: Sora
 - id: 1312
@@ -1472,7 +1472,7 @@
 - id: 1561
   drk: A map of the area.
 - id: 1562
-  drk: Disney Castle Map
+  drk: Disney Darkness Map
 - id: 1563
   drk: A map of the area.
 - id: 1564
@@ -1496,7 +1496,7 @@
 - id: 1573
   drk: A map of the area.
 - id: 1574
-  drk: 100 Acre Wood Map
+  drk: 100 Acres of Darkness Map
 - id: 1575
   drk: A map of the area.
 - id: 1576
@@ -1516,42 +1516,42 @@
 - id: 1583
   drk: A map of the area.
 - id: 1588
-  drk: Fire Element
+  drk: Dark Flame E.
 - id: 1589
   drk: >-
     Flames appear and revolve around you.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 12{:reset}
 - id: 1590
-  drk: Blizzard Element
+  drk: Dark Frost E
 - id: 1591
   drk: >-
     Unleashes ice crystals at the target.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 15{:reset}
 - id: 1592
-  drk: Thunder Element
+  drk: Dark Bolt Element
 - id: 1593
   drk: >-
     Drops lightning bolts on the target.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 18{:reset}
 - id: 1594
-  drk: Cure Element
+  drk: Dark Heal E.
 - id: 1595
   drk: >-
     Restores HP.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} All{:reset}
 - id: 1596
-  drk: Magnet Element
+  drk: Dark Pulse Element
 - id: 1597
   drk: >-
     Emits a power that draws in the enemy.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 30{:reset}
 - id: 1598
-  drk: Reflect Element
+  drk: Dark Return Element
 - id: 1599
   drk: >-
     Fends and shoots back enemy attacks.
@@ -1565,34 +1565,34 @@
 
     the Summon Command to call forth
 
-    Stitch for a helping hand.
+    Darkness 626 for a helping hand.
 - id: 1602
-  drk: Valor Form
+  drk: Valor of Darkness
 - id: 1603
   drk: >-
     With Goofy´s help, use the Drive
 
-    Command to change into Valor Form.
+    Command to change into Valor of Darkness.
 - id: 1604
-  drk: Wisdom Form
+  drk: Wisdom of Darkness
 - id: 1605
   drk: >-
     With Donald´s help, use
 
     the Drive Command to change
 
-    into Wisdom Form.
+    into Wisdom of Darkness.
 - id: 1606
-  drk: Master Form
+  drk: Master of Darkness
 - id: 1607
   drk: >-
     With the help of two friends, use
 
     the Drive Command to change
 
-    into Master Form.
+    into Master of Darkness.
 - id: 1608
-  drk: Final Form
+  drk: Darkness of Darkness
 - id: 1609
   drk: Dummy
 - id: 1610
@@ -1775,7 +1775,7 @@
 - id: 2612
   drk: Naught´s Skyway
 - id: 2613
-  drk: Proof of Existence
+  drk: Empty Darkness
 - id: 2614
   drk: Havoc´s Divide
 - id: 2615
@@ -1799,7 +1799,7 @@
 - id: 2624
   drk: Corridors
 - id: 2625
-  drk: Heartless Manufactory
+  drk: Darkness Manufactory
 - id: 2626
   drk: Merlin´s House
 - id: 2627
@@ -2285,7 +2285,7 @@
 - id: 7670
   drk: Launch
 - id: 7671
-  drk: Remove Shortcut settings.
+  drk: Remove Darkness settings.
 - id: 7672
   drk: '{:icon magic}MP Charge'
 - id: 7673
@@ -2492,7 +2492,7 @@
 
     Something´s not letting us leave.
 - id: 8051
-  drk: Scan
+  drk: Sight of Darkness
 - id: 8052
   drk: Inspects the target´s current HP.
 - id: 8058
@@ -2574,7 +2574,7 @@
 
     by {:color #F0F00080}25%{:reset} when all MP is consumed.
 - id: 8323
-  drk: Nobody Guard
+  drk: Shell of Darkness Guard
 - id: 8324
   drk: >-
     {:width 95}A shield with great strength. Restores MP
@@ -2599,7 +2599,7 @@
 
     magic. Increases damage done with
 
-    thunder-based attacks by {:color #F0F00080}20%{:reset}.
+    Dark Bolt-based attacks by {:color #F0F00080}20%{:reset}.
 - id: 8853
   drk: Comet Staff
 - id: 8854
@@ -2629,7 +2629,7 @@
 
     attacks by {:color #F0F00080}20%{:reset}.
 - id: 8861
-  drk: Nobody Lance
+  drk: Shell of Darkness Lance
 - id: 8862
   drk: >-
     A lance with great strength and magic.
@@ -2692,7 +2692,7 @@
 
     knocked down.
 - id: 10330
-  drk: Peter Pan
+  drk: Pan of Darkness
 - id: 10331
   drk: Lamp Charm
 - id: 10332
@@ -2701,7 +2701,7 @@
 
     the Summon Command to call forth
 
-    Genie for a helping hand.
+    Wishes of Darkness for a helping hand.
 - id: 10333
   drk: Feather Charm
 - id: 10334
@@ -2710,7 +2710,7 @@
 
     the Summon Command to call forth
 
-    Peter Pan for a helping hand.
+    Pan of Darkness for a helping hand.
 - id: 10335
   drk: Pinball
 - id: 10337
@@ -2816,7 +2816,7 @@
 
     Equip more to enable more combos.
 - id: 12133
-  drk: Air Combo Plus
+  drk: Air Darkness +
 - id: 12134
   drk: >-
     Increases maximum combo by 1 when
@@ -2864,28 +2864,28 @@
 - id: 13040
   drk: Support
 - id: 13043
-  drk: Donald Fire
+  drk: Donald Dark Flame
 - id: 13044
   drk: >-
     Unleashes a firestorm that attacks
 
     nearby enemies. {:color #F0F00080}MP Cost: 10{:reset}
 - id: 13045
-  drk: Donald Blizzard
+  drk: Donald Dark Frost
 - id: 13046
   drk: >-
     Unleashes a barrage of ice at
 
     the enemy. {:color #F0F00080}MP Cost: 10{:reset}
 - id: 13047
-  drk: Donald Thunder
+  drk: Donald Dark Bolt
 - id: 13048
   drk: >-
     Call down a bombardment of lightning
 
     bolts on your target! {:color #F0F00080}MP Cost: 10{:reset}
 - id: 13049
-  drk: Donald Cure
+  drk: Donald Dark Heal
 - id: 13050
   drk: >-
     Cures Party Member´s HP.
@@ -2905,7 +2905,7 @@
 
     enraged shouts. {:color #F0F00080}MP Cost: 10{:reset}
 - id: 13086
-  drk: Cure Potion
+  drk: Dark Heal Potion
 - id: 13087
   drk: >-
     Restores the Party´s HP.
@@ -2922,7 +2922,7 @@
 - id: 13103
   drk: (Delete)
 - id: 13109
-  drk: Trinity Limit
+  drk: Trinity of Darkness
 - id: 13110
   drk: >-
     A Limit Command that uses teamwork
@@ -2954,7 +2954,7 @@
   drk: >-
     A Limit Command that unleashes Goofy´s
 
-    spinning attack, Whirli-Goof.
+    spinning attack, Whirling Darkness.
 
     Consumes all of Sora´s MP.
 - id: 13117
@@ -3062,7 +3062,7 @@
 - id: 13850
   drk: '{:icon button-l2}{:icon button-r2}Switch'
 - id: 13861
-  drk: Pulsing Thunder
+  drk: Pulsing Dark Bolt
 - id: 13862
   drk: >-
     Releases electricity to attack
@@ -3613,7 +3613,7 @@
 - id: 14640
   drk: A map of the area.
 - id: 14641
-  drk: Twilight Town Map
+  drk: Darkness Town Map
 - id: 14642
   drk: A map of the area.
 - id: 14643
@@ -3697,7 +3697,7 @@
 
     guard.
 - id: 14739
-  drk: Explosion
+  drk: Darkness Bomb
 - id: 14740
   drk: >-
     Unleashes a finishing combo move
@@ -4121,7 +4121,7 @@
   drk: >-
     Greatly increases defense as well as
 
-    thunder and dark resistance.
+    Dark Bolt and dark resistance.
 - id: 14939
   drk: Cosmic Belt
 - id: 14940
@@ -4130,18 +4130,18 @@
   drk: Shock Charm
 - id: 14942
   drk: >-
-    Extremely increases thunder resistance
+    Extremely increases Dark Bolt resistance
 
     and defense.
 - id: 14943
   drk: Shock Charm+
 - id: 14944
   drk: >-
-    Extremely increases thunder resistance
+    Extremely increases Dark Bolt resistance
 
     and defense, and also increases damage
 
-    done by thunder-based attacks by {:color #F0F00080}20%{:reset}.
+    done by Dark Bolt-based attacks by {:color #F0F00080}20%{:reset}.
 - id: 14945
   drk: Grand Ribbon
 - id: 14946
@@ -4150,21 +4150,21 @@
 
     extremely increases defense.
 - id: 14951
-  drk: Fire Bangle
+  drk: Dark Flame Bangle
 - id: 14952
   drk: >-
     Increases fire resistance and
 
     slightly increases defense.
 - id: 14953
-  drk: Fira Bangle
+  drk: Darker Flame Bangle
 - id: 14954
   drk: >-
     Increases fire resistance and
 
     increases defense.
 - id: 14955
-  drk: Firaga Bangle
+  drk: Darkest Flame Bangle
 - id: 14956
   drk: >-
     Increases fire resistance and
@@ -4178,59 +4178,59 @@
 
     greatly increases defense.
 - id: 14961
-  drk: Blizzard Armlet
+  drk: Dark Frost Armlet
 - id: 14962
   drk: >-
-    Increases blizzard resistance and
+    Increases Dark Frost resistance and
 
     slightly increases defense.
 - id: 14963
-  drk: Blizzara Armlet
+  drk: Darker Frost Armlet
 - id: 14964
   drk: >-
-    Increases blizzard resistance and
+    Increases Dark Frost resistance and
 
     increases defense.
 - id: 14965
-  drk: Blizzaga Armlet
+  drk: Darkest Frost Armlet
 - id: 14966
   drk: >-
-    Increases blizzard resistance and
+    Increases Dark Frost resistance and
 
     greatly increases defense.
 - id: 14967
   drk: Blizzagun Armlet
 - id: 14968
   drk: >-
-    Highly increases blizzard resistance
+    Highly increases Dark Frost resistance
 
     and greatly increases defense.
 - id: 14971
-  drk: Thunder Trinket
+  drk: Dark Bolt Trinket
 - id: 14972
   drk: >-
-    Increases thunder resistance and
+    Increases Dark Bolt resistance and
 
     slightly increases defense.
 - id: 14973
-  drk: Thundara Trinket
+  drk: Darker Bolt Trinket
 - id: 14974
   drk: >-
-    Increases thunder resistance and
+    Increases Dark Bolt resistance and
 
     increases defense.
 - id: 14975
-  drk: Thundaga Trinket
+  drk: Darkest Bolt Trinket
 - id: 14976
   drk: >-
-    Increases thunder resistance and
+    Increases Dark Bolt resistance and
 
     greatly increases defense.
 - id: 14977
   drk: Thundagun Trinket
 - id: 14978
   drk: >-
-    Highly increases thunder resistance
+    Highly increases Dark Bolt resistance
 
     and greatly increases defense.
 - id: 14981
@@ -4265,7 +4265,7 @@
   drk: Abas Chain
 - id: 14992
   drk: >-
-    Increases fire, blizzard, and thunder
+    Increases fire, Dark Frost, and Dark Bolt
 
     resistance and slightly increases
 
@@ -4274,14 +4274,14 @@
   drk: Aegis Chain
 - id: 14994
   drk: >-
-    Increases fire, blizzard, and thunder
+    Increases fire, Dark Frost, and Dark Bolt
 
     resistance and increases defense.
 - id: 14995
   drk: Acrisius
 - id: 14996
   drk: >-
-    Increases fire, blizzard, and thunder
+    Increases fire, Dark Frost, and Dark Bolt
 
     resistance and greatly increases
 
@@ -4297,7 +4297,7 @@
   drk: Champion Belt
 - id: 15000
   drk: >-
-    Increases fire, blizzard, and thunder
+    Increases fire, Dark Frost, and Dark Bolt
 
     resistance.
 - id: 15001
@@ -4311,18 +4311,18 @@
   drk: Acrisius+
 - id: 15004
   drk: >-
-    Highly increases fire, blizzard, and
+    Highly increases fire, Dark Frost, and
 
-    thunder resistance and greatly
+    Dark Bolt resistance and greatly
 
     increases defense.
 - id: 15005
   drk: Cosmic Chain
 - id: 15006
   drk: >-
-    Greatly increases fire, blizzard, and
+    Greatly increases fire, Dark Frost, and
 
-    thunder resistance and greatly
+    Dark Bolt resistance and greatly
 
     increases defense.
 - id: 15023
@@ -4696,7 +4696,7 @@
 
     It is used for advertisement by
 
-    the folk of Twilight Town.
+    the folk of Darkness Town.
 - id: 15123
   drk: Letter
 - id: 15124
@@ -4778,7 +4778,7 @@
 
     It shows Hayner and the gang in front
 
-    of the old mansion in Twilight Town.
+    of the old mansion in Darkness Town.
 - id: 15143
   drk: Orichalcum
 - id: 15144
@@ -4808,7 +4808,7 @@
   drk: >-
     Sora:
 
-    But what about the Heartless?
+    But what about the Darkness?
 - id: 15195
   drk: ''
 - id: 15199
@@ -4867,7 +4867,7 @@
 - id: 15220
   drk: Hinder
 - id: 15225
-  drk: Chicken Little
+  drk: Darkness Little
 - id: 15226
   drk: Baseball Charm
 - id: 15227
@@ -4876,11 +4876,11 @@
 
     the Summon Command to call forth
 
-    Chicken Little for a helping hand.
+    Darkness Little for a helping hand.
 - id: 15228
   drk: The World of Nothing
 - id: 15235
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 15236
   drk: Defeat all of the Nobodies!
 - id: 15237
@@ -4901,7 +4901,7 @@
   drk: There are no Party Members to switch.
 - id: 15241
   drk: >-
-    Select settings for shortcut commands
+    Select settings for darkness commands
 
     and other various functions.
 - id: 15242
@@ -4977,7 +4977,7 @@
 
     Command to Valor in a pinch, if
 
-    Valor Form is usable.
+    Valor of Darkness is usable.
 - id: 15308
   drk: Auto Wisdom
 - id: 15309
@@ -4986,7 +4986,7 @@
 
     Command to Wisdom in a pinch, if
 
-    Wisdom Form is usable.
+    Wisdom of Darkness is usable.
 - id: 15310
   drk: Auto Master
 - id: 15311
@@ -4995,7 +4995,7 @@
 
     Command to Master in a pinch, if
 
-    Master Form is usable.
+    Master of Darkness is usable.
 - id: 15312
   drk: Auto Final
 - id: 15313
@@ -5004,7 +5004,7 @@
 
     Command to Final in a pinch, if
 
-    Final Form is usable.
+    Darkness of Darkness is usable.
 - id: 15314
   drk: Auto Summon
 - id: 15315
@@ -5049,7 +5049,7 @@
 
     after combos.
 - id: 15324
-  drk: Negative Combo
+  drk: Negative Darkness
 - id: 15325
   drk: >-
     Decreases maximum combo on
@@ -5129,11 +5129,9 @@
   drk: >-
     Automatically locks on to a target when
 
-    casting Fire, Blizzard, Thunder, or
-
-    Magnet.
+    casting darkness.
 - id: 15344
-  drk: No Experience
+  drk: Darkness Exp
 - id: 15345
   drk: Disables the gaining of experience.
 - id: 15346
@@ -5153,7 +5151,7 @@
 
     further increase the drop rate.
 - id: 15350
-  drk: Lucky Lucky
+  drk: Darkness Darkness
 - id: 15351
   drk: >-
     Will bring luck by increasing the drop
@@ -5162,7 +5160,7 @@
 
     to further increase the drop rate.
 - id: 15352
-  drk: Fire Boost
+  drk: Dark Flame Boost
 - id: 15353
   drk: >-
     Increases damage done with fire-based
@@ -5171,19 +5169,19 @@
 
     Equip more to increase the effect.
 - id: 15354
-  drk: Blizzard Boost
+  drk: Dark Frost Boost
 - id: 15355
   drk: >-
-    Increases damage done with blizzard-
+    Increases damage done with Dark Frost-
 
     based attacks by {:color #F0F00080}20%{:reset}.
 
     Equip more to increase the effect.
 - id: 15356
-  drk: Thunder Boost
+  drk: Dark Bolt Boost
 - id: 15357
   drk: >-
-    Increases damage done with thunder-
+    Increases damage done with Dark Bolt-
 
     based attacks by {:color #F0F00080}20%{:reset}.
 
@@ -5223,14 +5221,14 @@
 
     Equip more to increase the effect.
 - id: 15366
-  drk: Second Chance
+  drk: Second Darkness
 - id: 15367
   drk: >-
     Ensures 1 HP remains after taking
 
     massive damage.
 - id: 15368
-  drk: Once More
+  drk: More Darkness
 - id: 15369
   drk: >-
     Ensures 1 HP remains after taking
@@ -5664,7 +5662,7 @@
 
     special materials.
 - id: 15652
-  drk: Cloaked Thunder
+  drk: Cloaked Dark Bolt
 - id: 15653
   drk: >-
     A synthesis recipe that requires
@@ -5860,7 +5858,7 @@
   drk: Photon Debugger
 - id: 15927
   drk: >-
-    Increases damage done with thunder-
+    Increases damage done with Dark Bolt-
 
     based attacks by {:color #F0F00080}20%{:reset}.
 - id: 15928
@@ -5932,7 +5930,7 @@
   drk: >-
     Enhances magic to increase damage
 
-    dealt with blizzard-based attacks by {:color #F0F00080}20%{:reset}.
+    dealt with Dark Frost-based attacks by {:color #F0F00080}20%{:reset}.
 - id: 15944
   drk: Fatal Crest
 - id: 15945
@@ -6542,13 +6540,13 @@
 
     the monument.
 - id: 17078
-  drk: '"Valor" Genie'
+  drk: '"Valor" Wishes of Darkness'
 - id: 17079
-  drk: '"Wisdom" Genie'
+  drk: '"Wisdom" Wishes of Darkness'
 - id: 17080
-  drk: '"Master" Genie'
+  drk: '"Master" Wishes of Darkness'
 - id: 17081
-  drk: '"Final" Genie'
+  drk: '"Final" Wishes of Darkness'
 - id: 17088
   drk: >-
     Sora:
@@ -6932,9 +6930,9 @@
 - id: 17763
   drk: Fire {:width 80}Resistance
 - id: 17764
-  drk: '{:width 90}Blizzard {:width 80}Resistance'
+  drk: '{:width 90}Dark Frost {:width 80}Resistance'
 - id: 17765
-  drk: '{:width 90}Thunder {:width 80}Resistance'
+  drk: '{:width 90}Dark Bolt {:width 80}Resistance'
 - id: 17766
   drk: Dark {:width 80}Resistance
 - id: 17767
@@ -7008,14 +7006,14 @@
     is taken from these attacks.
 - id: 17785
   drk: >-
-    {:width 95}Resistance against blizzard-based
+    {:width 95}Resistance against Dark Frost-based
 
     attacks. The higher the number, the
 
     less damage is taken from these attacks.
 - id: 17786
   drk: >-
-    {:width 95}Resistance against thunder-based
+    {:width 95}Resistance against Dark Bolt-based
 
     attacks. The higher the number, the
 
@@ -7043,28 +7041,28 @@
     increase by leveling up.
 - id: 17790
   drk: >-
-    Valor Form Level. Time spent
+    Valor of Darkness Level. Time spent
 
     transformed becomes longer, and
 
     Abilities become stronger by leveling up.
 - id: 17791
   drk: >-
-    Wisdom Form Level. Time spent
+    Wisdom of Darkness Level. Time spent
 
     transformed becomes longer, and
 
     Abilities become stronger by leveling up.
 - id: 17792
   drk: >-
-    Master Form Level. Time spent
+    Master of Darkness Level. Time spent
 
     transformed becomes longer, and
 
     Abilities become stronger by leveling up.
 - id: 17793
   drk: >-
-    Final Form Level. Time spent
+    Darkness of Darkness Level. Time spent
 
     transformed becomes longer, and
 
@@ -7075,7 +7073,7 @@
   drk: >-
     For each attack dealt to the enemy
 
-    in Valor Form, 1 point of experience
+    in Valor of Darkness, 1 point of experience
 
     is gained.
 - id: 17797
@@ -7087,14 +7085,14 @@
     Forms obtained.
 - id: 17798
   drk: >-
-    The Form gauge for Valor Form.
+    The Form gauge for Valor of Darkness.
 
     The longer the gauge, the longer
 
     the time spent transformed.
 - id: 17799
   drk: >-
-    For each Heartless defeated in Wisdom
+    For each Darkness defeated in Wisdom
 
     Form, 1 point of experience is gained.
 - id: 17800
@@ -7106,7 +7104,7 @@
     Forms obtained.
 - id: 17801
   drk: >-
-    The Form gauge for Wisdom Form.
+    The Form gauge for Wisdom of Darkness.
 
     The longer the gauge, the longer
 
@@ -7117,7 +7115,7 @@
 
     and one big drive orb gives 3 points of experience
 
-    for each drive prize obtained in Master Form.
+    for each drive prize obtained in Master of Darkness.
 - id: 17803
   drk: >-
     Experience necessary to level up.
@@ -7127,14 +7125,14 @@
     Forms obtained.
 - id: 17804
   drk: >-
-    The Form gauge for Master Form.
+    The Form gauge for Master of Darkness.
 
     The longer the gauge, the longer
 
     the time spent transformed.
 - id: 17805
   drk: >-
-    For each Nobody defeated in Final Form,
+    For each Shell of Darkness defeated in Darkness of Darkness,
 
     1 point of experience is gained.
 - id: 17806
@@ -7146,7 +7144,7 @@
     forms obtained.
 - id: 17807
   drk: >-
-    The Form gauge for Final Form.
+    The Form gauge for Darkness of Darkness.
 
     The longer the gauge, the longer
 
@@ -7154,13 +7152,13 @@
 - id: 17808
   drk: Summon Gauge
 - id: 17809
-  drk: Stitch
+  drk: Darkness 626
 - id: 17810
-  drk: Genie
+  drk: Wishes of Darkness
 - id: 17811
-  drk: Peter Pan
+  drk: Pan of Darkness
 - id: 17812
-  drk: Chicken Little
+  drk: Darkness Little
 - id: 17813
   drk: >-
     While summoning, 1 experience is gained
@@ -7184,24 +7182,24 @@
     the summon stays active.
 - id: 17816
   drk: >-
-    Stitch will parry most enemy attacks.
+    Darkness 626 will parry most enemy attacks.
 
     A wise summon to use for defense.
 - id: 17817
   drk: >-
-    Genie has many Limit attacks and
+    Wishes of Darkness has many Limit attacks and
 
     can transform into various Forms.
 - id: 17818
   drk: >-
-    {:width 85}Peter Pan will help Sora fight against enemies.
+    {:width 85}Pan of Darkness will help Sora fight against enemies.
 
     If Sora falls during battle, Tinker Bell will be
 
     able to revive him one time.
 - id: 17819
   drk: >-
-    Chicken Little can stop enemy
+    Darkness Little can stop enemy
 
     movements and bring distant enemies in
 
@@ -7226,7 +7224,7 @@
 
     {:color #F0F00080}Drive points consumed: 3{:reset}
 - id: 17841
-  drk: Summon
+  drk: Darkness S
 - id: 17847
   drk: >
     Sora:
@@ -7287,17 +7285,17 @@
 - id: 17997
   drk: Fire {:width 80}Resistance
 - id: 17998
-  drk: '{:width 90}Blizzard {:width 80}Resistance'
+  drk: '{:width 90}Dark Frost {:width 80}Resistance'
 - id: 17999
-  drk: '{:width 90}Thunder {:width 80}Resistance'
+  drk: '{:width 90}Dark Bolt {:width 80}Resistance'
 - id: 18000
   drk: Dark {:width 80}Resistance
 - id: 18001
   drk: Fire
 - id: 18002
-  drk: Blizzard
+  drk: Dark Frost
 - id: 18003
-  drk: Thunder
+  drk: Dark Bolt
 - id: 18004
   drk: Dark
 - id: 18007
@@ -7560,7 +7558,7 @@
 
     We´ve got to get rid of
 
-    these Heartless!
+    these Darkness!
 - id: 18575
   drk: There are no items.
 - id: 18585
@@ -7801,28 +7799,28 @@
   drk: Unequip accessories.
 - id: 19343
   drk: >-
-    Valor Form Status.
+    Valor of Darkness Status.
 
     A Form specializing in physical attacks.
 
     {:color #F0F00080}Drive points consumed: 3{:reset}
 - id: 19344
   drk: >-
-    Wisdom Form Status.
+    Wisdom of Darkness Status.
 
     A Form specializing in magic attacks.
 
     {:color #F0F00080}Drive points consumed: 3{:reset}
 - id: 19345
   drk: >-
-    Master Form Status. A Form that 
+    Master of Darkness Status. A Form that 
 
     handles both the Keyblade and magic.
 
     {:color #F0F00080}Drive points consumed: 4{:reset}
 - id: 19346
   drk: >-
-    Final Form Status. A Form that 
+    Darkness of Darkness Status. A Form that 
 
     unleashes the Keyblade´s true power.
 
@@ -7844,9 +7842,9 @@
 - id: 19363
   drk: Rescue
 - id: 19370
-  drk: Reflect
+  drk: Dark Return
 - id: 19371
-  drk: Reflect
+  drk: Dark Return
 - id: 19375
   drk: Megalaser
 - id: 19376
@@ -7857,7 +7855,7 @@
 - id: 19381
   drk: Touch It
 - id: 19406
-  drk: There´s a rare Heartless!
+  drk: There´s a rare Darkness!
 - id: 19416
   drk: 'PAGE '
 - id: 19417
@@ -8091,7 +8089,7 @@
 
     that has a special effect.
 - id: 20023
-  drk: Winner's Proof
+  drk: Winner's Darkness
 - id: 20024
   drk: >-
     A weapon of extraordinary magic
@@ -8218,7 +8216,7 @@
 
     on distant targets.
 - id: 20086
-  drk: Magnet Burst
+  drk: Dark Pulse Burst
 - id: 20087
   drk: >-
     Draws enemies in to unleash a finishing
@@ -8240,14 +8238,14 @@
 - id: 20094
   drk: The End
 - id: 20095
-  drk: Limit Form
+  drk: Limit of Darkness
 - id: 20096
   drk: Limit
 - id: 20097
-  drk: Limit Form
+  drk: Limit of Darkness
 - id: 20098
   drk: >-
-    Access Limit Form alone with the help
+    Access Limit of Darkness alone with the help
 
     of friends faraway.
 - id: 20099
@@ -8294,7 +8292,7 @@
 
     Command to Limit in a pinch, if
 
-    Limit Form is usable.
+    Limit of Darkness is usable.
 - id: 20109
   drk: Sonic Rave
 - id: 20110
@@ -8362,7 +8360,7 @@
   drk: >-
     For each limit command finishing move
 
-    unleashed in Limit Form, 1 point of
+    unleashed in Limit of Darkness, 1 point of
 
     experience is gained.
 - id: 20125
@@ -8374,23 +8372,23 @@
     Forms obtained.
 - id: 20126
   drk: >-
-    The Form gauge for Limit Form.
+    The Form gauge for Limit of Darkness.
 
     The longer the gauge, the longer
 
     the time spent transformed.
 - id: 20127
-  drk: Limit
+  drk: Darkness L
 - id: 20128
   drk: >-
-    Limit Form Status.
+    Limit of Darkness Status.
 
     A form specializing in Limit attacks.
 
     {:color #F0F00080}Cost: 4{:reset}
 - id: 20129
   drk: >-
-    Limit Form Level. Time spent
+    Limit of Darkness Level. Time spent
 
     transformed becomes longer, and
 
@@ -8557,7 +8555,7 @@
 
     Attack while guarding.
 - id: 20327
-  drk: Reflect Combo
+  drk: Dark Return Combo
 - id: 20328
   drk: >-
     Blocks enemy attacks with Guard
@@ -8591,16 +8589,16 @@
 - id: 20396
   drk: '{:width 95}Awakening Puzzle Piece'
 - id: 20397
-  drk: Proof of Connection
+  drk: Lonely Darkness
 - id: 20398
   drk: >-
     Proof of winning the battle in
 
-    the portal at Disney Castle.
+    the portal at Disney Darkness.
 
     Perhaps it has changed Sora.
 - id: 20399
-  drk: '{:width 90}Proof of Nonexistence'
+  drk: '{:width 90}Empty Darkness'
 - id: 20400
   drk: >-
     Proof of defeating all of Organization {XIII}'s
@@ -8609,7 +8607,7 @@
 
     Perhaps it has changed Sora.
 - id: 20401
-  drk: Proof of Peace
+  drk: Warring Darkness
 - id: 20402
   drk: >-
     Proof of appeasing the Mushroom {XIII}.

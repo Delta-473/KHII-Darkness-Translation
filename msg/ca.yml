@@ -215,10 +215,10 @@
 
     Using magic will make the battle easier!
 - id: 8121
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 8122
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Using reaction commands with {:icon button-triangle}
 
@@ -251,7 +251,7 @@
   drk: >-
     Get rid of the burning barrels!
 
-    A Heartless attack can cause
+    A Darkness attack can cause
 
     them to explode!
 - id: 8129
@@ -262,26 +262,26 @@
 
     Using magic will make the battle easier!
 - id: 8131
-  drk: Retrieve the medallion from the Nobody!
+  drk: Retrieve the medallion from the Shell of Darkness!
 - id: 8132
   drk: >-
-    Defeat the Nobody and
+    Defeat the Shell of Darkness and
 
     retrieve the medallion!
 - id: 9927
-  drk: A Heartless is trying to blow up a barrel!
+  drk: A Darkness is trying to blow up a barrel!
 - id: 9935
-  drk: Retrieve the medallion before the Nobody escapes!
+  drk: Retrieve the medallion before the Shell of Darkness escapes!
 - id: 9936
-  drk: Retrieve the medallion from the Nobody in hiding!
+  drk: Retrieve the medallion from the Shell of Darkness in hiding!
 - id: 9937
-  drk: The Nobody will appear once all the pirates have been defeated!
+  drk: The Shell of Darkness will appear once all the pirates have been defeated!
 - id: 9938
-  drk: Find the Nobody hiding in the dark and retrieve the medallion!
+  drk: Find the Shell of Darkness hiding in the dark and retrieve the medallion!
 - id: 9939
-  drk: Retrieve the medallion before the Nobody escapes!
+  drk: Retrieve the medallion before the Shell of Darkness escapes!
 - id: 9940
-  drk: Retrieve the medallion before the Nobody escapes!
+  drk: Retrieve the medallion before the Shell of Darkness escapes!
 - id: 9946
   drk: Wow!
 - id: 9947
@@ -293,7 +293,7 @@
 - id: 9950
   drk: Organization {XIII}?
 - id: 9951
-  drk: Or the Heartless!
+  drk: Or the Darkness!
 - id: 9952
   drk: Only one way to find out.
 - id: 9953
@@ -318,7 +318,7 @@
 
     brat holdin´ a Keyblade, steer clear. {:delay 72 01}{:clear }They got a kinda magic that don´t
 
-    belong in this world, see?{:delay F6 00}{:clear }And nobody knows what
+    belong in this world, see?{:delay F6 00}{:clear }And Shell of Darkness knows what
 
     it´d do to ya.{:delay C6 00}{:clear }´Specially when the moon´s
 
@@ -383,7 +383,7 @@
   drk: >-
     {:unk13 45 01 C6 00}{:unk08 01 00 01}Man, I´d hate to see him
 
-    turn into a Heartless.
+    turn into a Darkness.
 - id: 9980
   drk: '{:unk13 C8 00 AF 00}{:unk08 01 00 05}Well, we ARE here...'
 - id: 9981
@@ -410,7 +410,7 @@
 - id: 9987
   drk: What are they?
 - id: 9988
-  drk: It´s the Heartless! Watch out!
+  drk: It´s the Darkness! Watch out!
 - id: 9989
   drk: We´ll deal with them!
 - id: 9990
@@ -705,9 +705,9 @@
   drk: >-
     {:unk13 4D 01 39 00}{:unk08 01 00 04}If Pete´s hanging around, there
 
-    must be Heartless here, too.{:clear }And Jack and Will aren´t used
+    must be Darkness here, too.{:clear }And Jack and Will aren´t used
 
-    to fighting Heartless...
+    to fighting Darkness...
 - id: 10058
   drk: '{:unk13 D6 00 2C 00}{:unk08 01 00 05}Let´s go see.'
 - id: 10059
@@ -907,7 +907,7 @@
 - id: 10122
   drk: Agreed. Leave we shall...
 - id: 10123
-  drk: but the Heartless stay!
+  drk: but the Darkness stay!
 - id: 10125
   drk: No fair!
 - id: 10126
@@ -1197,7 +1197,7 @@
   drk: >-
     The darkness of men´s hearts--drawn
 
-    to these cursed medallions;{:delay 13 01}{:clear }and this Heartless--a veritable maelstrom
+    to these cursed medallions;{:delay 13 01}{:clear }and this Darkness--a veritable maelstrom
 
     of avarice: {:delay 1C 01}{:clear }I wonder, are they worthy to serve
 
@@ -1255,7 +1255,7 @@
 - id: 10236
   drk: Sora! Donald! Goofy! He´s yours!
 - id: 10237
-  drk: Fire!
+  drk: Darkness!
 - id: 10238
   drk: You stole a medallion again!?
 - id: 10239
@@ -1443,9 +1443,9 @@
   drk: >-
     He´s part of an Organization that´s
 
-    collecting hearts.{:delay C0 00}{:clear }First they release Heartless
+    collecting hearts.{:delay C0 00}{:clear }First they release Darkness
 
-    into different worlds.{:delay B4 00}{:clear }We defeat those Heartless.{:delay 72 00}{:clear }Then they get the hearts.{:delay 8A 00}{:clear }We´re never gonna stop ´em like this.
+    into different worlds.{:delay B4 00}{:clear }We defeat those Darkness.{:delay 72 00}{:clear }Then they get the hearts.{:delay 8A 00}{:clear }We´re never gonna stop ´em like this.
 - id: 10297
   drk: What´s the plan, then?
 - id: 10298
@@ -1470,7 +1470,7 @@
   drk: >-
     It´s certain we don´t need the likes of that
 
-    hooded fellow and the Heartless about.{:delay 12 01}{:clear }They´ll ruin the market for us true pirates.
+    hooded fellow and the Darkness about.{:delay 12 01}{:clear }They´ll ruin the market for us true pirates.
 - id: 10305
   drk: >-
     So that´s why you went to Port Royal.{:delay 82 00}{:clear }And we thought you actually
@@ -1558,7 +1558,7 @@
   drk: >-
     Defeat Barbossa with the help of Jack!
 
-    Defeat the Heartless creating darkness,
+    Defeat the Darkness creating darkness,
 
     then fight Barbossa!
 
@@ -1568,25 +1568,25 @@
 - id: 15192
   drk: Two more medallions to go! Search for Nobodies in other areas!
 - id: 15193
-  drk: The Nobody has escaped!
+  drk: The Shell of Darkness has escaped!
 - id: 15229
   drk: >-
-    Defeat the Nobody and retrieve the medallion
+    Defeat the Shell of Darkness and retrieve the medallion
 
     before it escapes!
 - id: 15230
   drk: >-
-    Find the Nobody hiding in the dark
+    Find the Shell of Darkness hiding in the dark
 
     and retrieve the medallion!
 - id: 15231
   drk: >-
-    Find the Nobody in hiding
+    Find the Shell of Darkness in hiding
 
     and retrieve the medallion!
 - id: 15232
   drk: >-
-    The Nobody will appear once all
+    The Shell of Darkness will appear once all
 
     the pirates have been defeated!
 
@@ -1595,12 +1595,12 @@
     the battle easier!
 - id: 15233
   drk: >-
-    Defeat the Nobody and retrieve the medallion
+    Defeat the Shell of Darkness and retrieve the medallion
 
     before it escapes!
 - id: 15234
   drk: >-
-    Defeat the Nobody and retrieve the medallion
+    Defeat the Shell of Darkness and retrieve the medallion
 
     before it escapes!
 - id: 15851
@@ -1624,7 +1624,7 @@
     though, so let´s {:theme 0A}return to Port Royal{:reset}.
 - id: 15855
   drk: >-
-    Teaming up with Heartless...
+    Teaming up with Darkness...
 
     that´s sinking pretty low even for pirates!{:clear }It looks like we have no choice now but to
 
@@ -1666,7 +1666,7 @@
   drk: >-
     We were knocked from the Black Pearl over
 
-    to the Interceptor by that Heartless.{:clear }If the Interceptor wasn´t so sturdy, we
+    to the Interceptor by that Darkness.{:clear }If the Interceptor wasn´t so sturdy, we
 
     would have sunk before winding up here.
 - id: 15862
@@ -1678,7 +1678,7 @@
     condition to use. {:theme 0A}Let´s go look.{:reset}
 - id: 15863
   drk: >-
-    I´ll bet those Heartless from before
+    I´ll bet those Darkness from before
 
     are waiting for us in town!{:clear }They´re using the power of the Aztec gold,
 
@@ -1928,16 +1928,16 @@
   drk: >-
     Use magical and physical attacks to
 
-    defeat the Heartless!
+    defeat the Darkness!
 - id: 18711
   drk: >-
     Collect the medallions from
 
-    the Heartless with the use of magic!
+    the Darkness with the use of magic!
 
     Return them to the chest to help
 
-    defeat the Heartless!
+    defeat the Darkness!
 - id: 18918
   drk: >-
     I found something strange. It´s a board
@@ -1975,11 +1975,11 @@
 
     Barbossa´s hostile intentions.
 - id: 19347
-  drk: Return the medallions to the chest by using magic to collect them from the Heartless!
+  drk: Return the medallions to the chest by using magic to collect them from the Darkness!
 - id: 19348
-  drk: The Heartless Boss is stealing the medallions! Stop him!
+  drk: The Darkness Boss is stealing the medallions! Stop him!
 - id: 19619
-  drk: Defeat the Heartless that is creating darkness!
+  drk: Defeat the Darkness that is creating darkness!
 - id: 19745
   drk: ''
 - id: 19877
@@ -1994,7 +1994,7 @@
   drk: ''
 - id: 20187
   drk: >-
-    {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
+    {:unk08 02 00 06}It's some Tainted Darkness, a shadowy presence
 
     within an emblem.
 

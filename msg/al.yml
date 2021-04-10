@@ -124,7 +124,7 @@
   drk: All in a day´s work.
 - id: 81
   drk: >-
-    But uh...it looks like the Heartless 
+    But uh...it looks like the Darkness 
 
     are up to no good again.
 - id: 82
@@ -139,7 +139,7 @@
 - id: 85
   drk: He...hasn´t been himself lately.
 - id: 86
-  drk: Is it because of the Heartless?
+  drk: Is it because of the Darkness?
 - id: 87
   drk: I´m not sure.
 - id: 88
@@ -217,9 +217,9 @@
     foolin´ Jasmine, huh?
 - id: 124
   drk: >-
-    {:unk13 BA 00 39 00}{:unk08 01 01 07}See, Genie and Carpet
+    {:unk13 BA 00 39 00}{:unk08 01 01 07}See, Wishes of Darkness and Carpet
 
-    took off to see the world.{:clear }It´s what Genie
+    took off to see the world.{:clear }It´s what Wishes of Darkness
 
     always wanted,{:clear }so I wished him
 
@@ -230,7 +230,7 @@
   drk: >-
     {:unk13 CC 00 3C 00}{:unk08 01 00 06}Man,{:clear }things must be REALLY
 
-    quiet with Genie gone.
+    quiet with Wishes of Darkness gone.
 - id: 129
   drk: >-
     {:unk13 FA 00 64 00}Yeah.{:clear }That´s why I come here.
@@ -448,7 +448,7 @@
   drk: >-
     Just wait till Jafar´s free!{:delay 78 00}{:clear }He´s gonna make one
 
-    beauty of a Heartless!
+    beauty of a Darkness!
 - id: 192
   drk: I´m HOME!
 - id: 193
@@ -464,9 +464,9 @@
   drk: >-
     To think I left you forlorn and
 
-    Genie-less... Oh, the HUMANITY!
+    Wishes of Darkness-less... Oh, the HUMANITY!
 - id: 199
-  drk: Genie?
+  drk: Wishes of Darkness?
 - id: 200
   drk: Hey, Al, you´ve been puttin´ on weight?
 - id: 201
@@ -489,7 +489,7 @@
 
     I´m just so glad to SEE you!
 - id: 209
-  drk: Genie!
+  drk: Wishes of Darkness!
 - id: 210
   drk: ''
 - id: 211
@@ -774,7 +774,7 @@
   drk: Al, ol´ buddy, ol´ pal!
 - id: 287
   drk: >-
-    This is what having a genie
+    This is what having a Wishes of Darkness
 
     for a best friend is all about!
 - id: 288
@@ -788,7 +788,7 @@
 
     What do ya say, kid?
 - id: 291
-  drk: Hey, Genie!
+  drk: Hey, Wishes of Darkness!
 - id: 292
   drk: Sora!
 - id: 293
@@ -799,7 +799,7 @@
 - id: 294
   drk: Uh-huh!
 - id: 295
-  drk: Take it away, Genie!
+  drk: Take it away, Wishes of Darkness!
 - id: 296
   drk: >-
     You know? One lousy sandstorm
@@ -920,11 +920,11 @@
 
     and you didn´t invite me, Al?
 - id: 337
-  drk: Sorry, Genie. Things happened kinda fast.
+  drk: Sorry, Wishes of Darkness. Things happened kinda fast.
 - id: 338
   drk: And I had some new moves to show off, too...
 - id: 339
-  drk: But, Genie, we still need your help!
+  drk: But, Wishes of Darkness, we still need your help!
 - id: 341
   drk: Who´s gonna fix Agrabah?
 - id: 342
@@ -955,7 +955,7 @@
   drk: >-
     I most definitely got it!
 
-    No more lookin´ out for number one.{:delay E7 00}{:clear }I´m reformed!{:delay 4E 00}{:clear }I wanna be a good friend, like Genie,
+    No more lookin´ out for number one.{:delay E7 00}{:clear }I´m reformed!{:delay 4E 00}{:clear }I wanna be a good friend, like Wishes of Darkness,
 
     but I can´t do anything to help you.{:delay 1A 01}{:clear }What kind of a friend is that?
 - id: 357
@@ -995,7 +995,7 @@
   drk: >-
     Everything´s fine. Don´t panic...
 
-    Genie!
+    Wishes of Darkness!
 - id: 371
   drk: But I can´t hold it any longer!
 - id: 372
@@ -1096,7 +1096,7 @@
 
     Jafar after turning him
 
-    into a..."Heartless."{:clear }So there was no need
+    into a..."Darkness."{:clear }So there was no need
 
     to upset Agrabah.
 - id: 398
@@ -1203,21 +1203,21 @@
 
     treasure he finds with me.
 - id: 8059
-  drk: Defeat the Heartless!
+  drk: Defeat the Darkness!
 - id: 8061
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 8062
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Remember, using Limits and Drives
 
     will make the battle easier!
 - id: 8063
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 8064
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Using reaction commands with {:icon button-triangle}
 
@@ -1226,7 +1226,7 @@
   drk: Examine the monument!
 - id: 8066
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Using reaction commands with {:icon button-triangle}
 
@@ -1242,7 +1242,7 @@
   drk: Defeat all of the enemies!
 - id: 14143
   drk: >-
-    The Heartless will continue to appear
+    The Darkness will continue to appear
 
     until you have defeated them all.
 
@@ -1545,9 +1545,9 @@
     {:chardelay 52 00}Sure, if it won´t cost me anything.
 - id: 18741
   drk: >-
-    Defeat the Heartless!
+    Defeat the Darkness!
 
-    The Heartless are vulnerable to certain
+    The Darkness are vulnerable to certain
 
     types of magic. Find the right type of
 
@@ -1586,7 +1586,7 @@
   drk: >-
     It seems Aladdin´s at the {:theme 0A}palace{:reset}.
 
-    I hope everyone´s okay.{:clear }I´d like to see Genie again, now
+    I hope everyone´s okay.{:clear }I´d like to see Wishes of Darkness again, now
 
     that he´s free from the lamp.
 - id: 18904
@@ -1658,7 +1658,7 @@
     {:chardelay 09 00}Press it!
 - id: 19351
   drk: >-
-    So Aladdin´s just been missing Genie!
+    So Aladdin´s just been missing Wishes of Darkness!
 
     That´s a relief!{:clear }I guess you can´t keep friends apart!
 - id: 19585
@@ -1676,7 +1676,7 @@
   drk: ''
 - id: 20154
   drk: >-
-    {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
+    {:unk08 02 00 06}It's some Tainted Darkness, a shadowy presence
 
     within an emblem.
 

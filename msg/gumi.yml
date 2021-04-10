@@ -65,11 +65,11 @@
 - id: 6251
   drk: Firaga/G
 - id: 6252
-  drk: Blizzard/G
+  drk: Dark Frost/G
 - id: 6253
-  drk: Blizzara/G
+  drk: Darker Frost/G
 - id: 6254
-  drk: Blizzaga/G
+  drk: Darkest Frost/G
 - id: 6255
   drk: Gravity/G
 - id: 6256
@@ -77,11 +77,11 @@
 - id: 6257
   drk: Graviga/G
 - id: 6258
-  drk: Thunder/G
+  drk: Dark Bolt/G
 - id: 6259
-  drk: Thundara/G
+  drk: Darker Bolt/G
 - id: 6260
-  drk: Thundaga/G
+  drk: Darkest Bolt/G
 - id: 6261
   drk: Comet/G
 - id: 6262
@@ -2804,7 +2804,7 @@
     Rapid-fire enabled.
 - id: 20516
   drk: >-
-    Spins and reflects shots in
+    Spins and Dark Returns shots in
 
     2 directions. Rapid-fire enabled.
 - id: 20517

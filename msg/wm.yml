@@ -11,7 +11,7 @@
   drk: >-
     {:width 95}I wonder if Hollow Bastion is peaceful
 
-    now without the Heartless...
+    now without the Darkness...
 - id: 7684
   drk: Old Friends
 - id: 7685
@@ -94,12 +94,12 @@
 
     made up...
 - id: 7708
-  drk: Olympus Coliseum
+  drk: Darkness Coliseum
 - id: 7709
   drk: >-
     Let´s test our skills at
 
-    the Olympus Coliseum!
+    the Darkness Coliseum!
 - id: 7710
   drk: I wonder how the hero's doing.
 - id: 7711
@@ -110,11 +110,11 @@
 - id: 7712
   drk: Save the kingdom!
 - id: 7713
-  drk: Disney Castle´s in danger!?
+  drk: Disney Darkness´s in danger!?
 - id: 7714
   drk: To the kingdom under the sea!
 - id: 7715
-  drk: Let´s swim in the Atlantica ocean!
+  drk: Let´s swim in the Singing Darkness ocean!
 - id: 7716
   drk: We should try to move the statue!
 - id: 7717
@@ -167,7 +167,7 @@
   drk: Let´s check out Agrabah!
 - id: 7735
   drk: >-
-    I wonder how Aladdin and Genie
+    I wonder how Aladdin and Wishes of Darkness
 
     are doing...
 - id: 7736
@@ -176,14 +176,14 @@
   drk: >-
     Let´s visit the wilderness
 
-    of the Pride Lands!
+    of the The Darkness Lands!
 - id: 7738
   drk: Why don´t we go see Simba, the king?
 - id: 7739
   drk: >-
     I wonder how Simba´s doing
 
-    as king of the Pride Lands...
+    as king of the The Darkness Lands...
 - id: 7740
   drk: To the final battle!
 - id: 7741
@@ -194,11 +194,11 @@
 - id: 7840
   drk: '{:unk08 01 01 06}Howdy, Sora! How ya doin´?'
 - id: 7841
-  drk: '{:unk08 01 00 05}Hey! What happened to Twilight Town?'
+  drk: '{:unk08 01 00 05}Hey! What happened to Darkness Town?'
 - id: 7850
   drk: '{:unk08 01 00 05}Huh?'
 - id: 7859
-  drk: '{:unk08 01 00 05}Looky there! Twilight Town!'
+  drk: '{:unk08 01 00 05}Looky there! Darkness Town!'
 - id: 7862
   drk: >-
     {:unk08 01 01 06}The King, Riku--and now
@@ -271,7 +271,7 @@
 - id: 18546
   drk: Land in End of Sea
 - id: 18547
-  drk: Land in Twilight Town
+  drk: Land in Darkness Town
 - id: 18548
   drk: Land in Destiny Islands
 - id: 18549
@@ -279,21 +279,21 @@
 - id: 18550
   drk: Land in Beast´s Castle
 - id: 18551
-  drk: Land in Olympus Coliseum
+  drk: Land in Darkness Coliseum
 - id: 18552
   drk: Land in Agrabah
 - id: 18553
   drk: Land in the Land of Dragons
 - id: 18554
-  drk: Land in 100 Acre Wood
+  drk: Land in 100 Acres of Darkness
 - id: 18555
-  drk: Land in Pride Lands
+  drk: Land in The Darkness Lands
 - id: 18556
-  drk: Land in Atlantica
+  drk: Land in Singing Darkness
 - id: 18557
-  drk: Land in Disney Castle
+  drk: Land in Disney Darkness
 - id: 18558
-  drk: Land in Timeless River
+  drk: Land in Timeless Darkness
 - id: 18559
   drk: Land in Halloween Town
 - id: 18560
@@ -303,7 +303,7 @@
 - id: 18562
   drk: Land in Space Paranoids
 - id: 18563
-  drk: Land in the World that Never Was
+  drk: Land in The World of Eternal Darkness
 - id: 18564
   drk: Maybe later...
 - id: 18817
@@ -352,7 +352,7 @@
   drk: >-
     {:unk08 01 00 05}And there´s something funny about
 
-    Twilight Town. I´m seeing two of ´em!
+    Darkness Town. I´m seeing two of ´em!
 - id: 18835
   drk: >-
     {:unk08 01 01 06}Look! It´s another huge energy reading!
@@ -406,7 +406,7 @@
 
     sure looks like there´s some big trouble
 
-    brewing around Twilight Town!
+    brewing around Darkness Town!
 - id: 19021
   drk: Proceed through Asteroid Sweep
 - id: 19022
@@ -449,7 +449,7 @@
   drk: '{:unk08 01 01 06}Look! We´re almost there!'
 - id: 19336
   drk: >-
-    {:unk08 01 01 06}Hey, what if the Heartless are back again?
+    {:unk08 01 01 06}Hey, what if the Darkness are back again?
 
     I can´t use the Keyblade--that would
 
@@ -458,7 +458,7 @@
   drk: >-
     {:unk08 01 00 05}But Sora, I think ya have to use it.
 
-    If we don´t fight ´em, the Heartless´ll
+    If we don´t fight ´em, the Darkness´ll
 
     keep on hurtin´ folks.
 - id: 19382
@@ -469,7 +469,7 @@
 
     stuck or somethin´.
 - id: 19384
-  drk: '{:unk08 01 00 05}Huh? You want to go back to Twilight Town?'
+  drk: '{:unk08 01 00 05}Huh? You want to go back to Darkness Town?'
 - id: 19385
   drk: '{:unk08 01 01 06}C´mon! We gotta get movin´ ahead!'
 - id: 19386
@@ -494,7 +494,7 @@
   drk: Episode list
 - id: 19498
   drk: >-
-    You need "Magnet" magic
+    You need "Dark Pulse" magic
 
     to move the statue.
 - id: 19499
@@ -504,12 +504,12 @@
     the Drive Gauge to be 5 or more.
 - id: 19500
   drk: >-
-    You need "Magnera" magic
+    You need "Darker Pulse" magic
 
     to retrieve the lost item.
 - id: 19501
   drk: >-
-    You need "Thundaga" magic to
+    You need "Darkest Bolt" magic to
 
     carry out Sebastian´s idea.
 - id: 19504
@@ -535,16 +535,16 @@
 - id: 19514
   drk: A new episode was added!
 - id: 19515
-  drk: Twilight Town
+  drk: Darkness Town
 - id: 19516
-  drk: Let´s go visit Twilight Town!
+  drk: Let´s go visit Darkness Town!
 - id: 19517
   drk: The twilight mystery!
 - id: 19518
   drk: >-
     Let´s solve the mystery of
 
-    Twilight Town!
+    Darkness Town!
 - id: 19519
   drk: What happened in Hollow Bastion!?
 - id: 19520
@@ -641,6 +641,6 @@
   drk: There may be a new development!
 - id: 20534
   drk: >-
-    Head to Disney Castle and find out
+    Head to Disney Darkness and find out
 
     what's going on!

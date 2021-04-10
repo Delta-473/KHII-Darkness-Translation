@@ -120,11 +120,11 @@
   drk: So, do you know where he is?
 - id: 5394
   drk: >-
-    Your Majesty, what are Heartless
+    Your Majesty, what are Darkness
 
     doing in your castle?
 - id: 5395
-  drk: Oh my... So those are the Heartless.
+  drk: Oh my... So those are the Darkness.
 - id: 5396
   drk: Don´t worry, we´ll take care of ´em!
 - id: 5397
@@ -283,7 +283,7 @@
 - id: 5453
   drk: Yeah. Let´s go!
 - id: 5454
-  drk: There's Heartless in every part of the castle...
+  drk: There's Darkness in every part of the castle...
 - id: 5455
   drk: The Queen is in danger!
 - id: 5456
@@ -559,7 +559,7 @@
   drk: You see a letter to someone.
 - id: 16974
   drk: >-
-    "Disney Castle is protected by
+    "Disney Darkness is protected by
 
     magical power."
 - id: 16975
@@ -655,7 +655,7 @@
 
     Can you overcome his power?
 - id: 21409
-  drk: Aqua... Ven...
+  drk: Hello Darkness...my old Friend
 - id: 21410
   drk: A Keyblade?{:delay 73 00}{:clear }Who are you?
 - id: 21411

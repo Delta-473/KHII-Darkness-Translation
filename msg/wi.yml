@@ -92,7 +92,7 @@
   drk: >-
     I´m starting to think the same thing.
 
-    He hasn´t even called any Heartless.
+    He hasn´t even called any Darkness.
 - id: 5548
   drk: Sorry we attacked ya like that, Capt´n Pete.
 - id: 5549
@@ -153,7 +153,7 @@
   drk: '{:unk13 E1 00 C2 00}{:unk06 00}{:unk08 01 01 05}What was that?'
 - id: 5568
   drk: >-
-    {:unk13 8E 01 82 00}{:unk06 00}{:unk08 01 01 05}Heartless,
+    {:unk13 8E 01 82 00}{:unk06 00}{:unk08 01 01 05}Darkness,
 
     goin´ out...
 - id: 5569
@@ -163,7 +163,7 @@
 - id: 5571
   drk: '{:unk13 B3 01 85 00}{:unk06 00}{:unk08 01 00 05}Huh?'
 - id: 5572
-  drk: '{:unk13 3B 01 40 00}{:unk06 00}{:unk08 01 01 06}Let´s get rid of those Heartless!'
+  drk: '{:unk13 3B 01 40 00}{:unk06 00}{:unk08 01 01 06}Let´s get rid of those Darkness!'
 - id: 5573
   drk: '{:unk13 9D 00 6D 00}{:unk06 00}{:unk08 01 01 06}Then what´ll we do?'
 - id: 5574
@@ -215,7 +215,7 @@
 - id: 5597
   drk: What do you think he´s trying to tell us?
 - id: 5598
-  drk: Hey! There´re Heartless!
+  drk: Hey! There´re Darkness!
 - id: 5599
   drk: ''
 - id: 5600
@@ -229,7 +229,7 @@
 - id: 5604
   drk: What´s he saying?
 - id: 5605
-  drk: Hey! There´re Heartless!
+  drk: Hey! There´re Darkness!
 - id: 5606
   drk: Man, that was weird!
 - id: 5607
@@ -241,7 +241,7 @@
 - id: 5610
   drk: Look out!
 - id: 5611
-  drk: Heartless! I knew it!
+  drk: Darkness! I knew it!
 - id: 5612
   drk: The King!
 - id: 5613
@@ -249,7 +249,7 @@
 - id: 5614
   drk: You really saved the day!
 - id: 5615
-  drk: Now, let´s get those Heartless!
+  drk: Now, let´s get those Darkness!
 - id: 5616
   drk: What´re they building?
 - id: 5617
@@ -257,11 +257,11 @@
 - id: 5618
   drk: Look out!
 - id: 5619
-  drk: Heartless! I knew it!
+  drk: Darkness! I knew it!
 - id: 5620
   drk: Thanks, Your Majesty!
 - id: 5621
-  drk: Now, let´s get those Heartless!
+  drk: Now, let´s get those Darkness!
 - id: 5622
   drk: How do you like that!
 - id: 5623
@@ -394,7 +394,7 @@
   drk: >-
     {:unk13 49 01 63 00}{:unk06 00}{:unk08 01 00 07}Let´s just try to clear
 
-    out the Heartless first.{:clear }This place is okay, but we´ve
+    out the Darkness first.{:clear }This place is okay, but we´ve
 
     got three more spots to check.
 - id: 5661
@@ -667,10 +667,10 @@
 - id: 5765
   drk: ₓₓₓₓ４
 - id: 8097
-  drk: Defeat all of the Heartless while defending the furniture!
+  drk: Defeat all of the Darkness while defending the furniture!
 - id: 8098
   drk: >-
-    Defeat all of the Heartless
+    Defeat all of the Darkness
 
     while defending the furniture!
 
@@ -678,26 +678,26 @@
 
     will make the battle easier!
 - id: 8099
-  drk: Defeat all of the Heartless while protecting the building from catching on fire!
+  drk: Defeat all of the Darkness while protecting the building from catching on fire!
 - id: 8100
   drk: >-
-    Defeat all of the Heartless while protecting
+    Defeat all of the Darkness while protecting
 
     the building from catching on fire!
 - id: 8101
-  drk: Defeat all of the Heartless while protecting the town!
+  drk: Defeat all of the Darkness while protecting the town!
 - id: 8102
   drk: >-
-    Defeat all of the Heartless
+    Defeat all of the Darkness
 
     while protecting the town!
 
     Use the cannon for added firepower!
 - id: 8103
-  drk: Defeat all of the Heartless before the scaffolding falls!
+  drk: Defeat all of the Darkness before the scaffolding falls!
 - id: 8104
   drk: >-
-    Defeat all of the Heartless
+    Defeat all of the Darkness
 
     before the scaffolding falls!
 
@@ -766,7 +766,7 @@
     to take walks in at the castle.
 - id: 16844
   drk: >-
-    This is where "Disney Castle" is gonna
+    This is where "Disney Darkness" is gonna
 
     be built.{:clear }It´s nothing but an empty field now, but I
 
@@ -796,7 +796,7 @@
   drk: >-
     I want to catch up with Captain Pete´s
 
-    boat, too, but the Heartless come first.
+    boat, too, but the Darkness come first.
 - id: 16852
   drk: >-
     I just saw Pete chasing
@@ -828,7 +828,7 @@
 - id: 16992
   drk: A radiant light shines forth.
 - id: 16993
-  drk: Construction site for Disney Castle.
+  drk: Construction site for Disney Darkness.
 - id: 16994
   drk: Pete´s boat, Willy.
 - id: 18487
@@ -926,6 +926,6 @@
 - id: 21538
   drk: "{:delayandfade 07 B4} \nSora and his friends hear someone getting\nscolded. What's going on on the other side?\n \nThey continue on through the next window\nin hopes of uncovering some useful\ninformation.\n \n \n \n \n"
 - id: 21539
-  drk: "{:delayandfade 07 B4} \nThey see a door before them. It looks\nexactly like the one conjured by Merlin\nin Disney Castle.\n \nStill hoping to get their hands on some\nmore clues, they make their way through\nthe third window.\n \n \n \n"
+  drk: "{:delayandfade 07 B4} \nThey see a door before them. It looks\nexactly like the one conjured by Merlin\nin Disney Darkness.\n \nStill hoping to get their hands on some\nmore clues, they make their way through\nthe third window.\n \n \n \n"
 - id: 21540
-  drk: "{:delayandfade 07 B4} \nHow is this possible?\n \nThe gang finds themselves in the past,\nduring a time when Maleficent was trying\nto take over Disney Castle.\n \nIn an attempt to find some clues, they\nstep through the last window.\n \n \n"
+  drk: "{:delayandfade 07 B4} \nHow is this possible?\n \nThe gang finds themselves in the past,\nduring a time when Maleficent was trying\nto take over Disney Darkness.\n \nIn an attempt to find some clues, they\nstep through the last window.\n \n \n"
