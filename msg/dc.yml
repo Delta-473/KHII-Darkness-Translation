@@ -120,11 +120,11 @@
   drk: So, do you know where he is?
 - id: 5394
   drk: >-
-    Your Majesty, what are Heartless
+    Your Majesty, what are Darkness
 
     doing in your castle?
 - id: 5395
-  drk: Oh my... So those are the Heartless.
+  drk: Oh my... So those are the Darkness.
 - id: 5396
   drk: Don´t worry, we´ll take care of ´em!
 - id: 5397
@@ -239,11 +239,7 @@
   drk: Ah, Queen Minnie. Radiant, as always.
 - id: 5439
   drk: >-
-    However, it´s a bit too "bright"
-
-    for what I have in mind.{:delay 0E 01}{:clear }I suppose I´ll just have to fill every room
-
-    with my personal touch of darkness.
+    Darkness
 - id: 5440
   drk: >-
     You´d better stop right now
@@ -257,18 +253,14 @@
   drk: What a hag.
 - id: 5444
   drk: >-
-    Nothing like this has ever happened before.{:delay A2 00}{:clear }I looked through all the records in the library,
-
-    but I couldn´t find a single clue.
+    Darkness
 - id: 5446
   drk: Ohhh!
 - id: 5447
   drk: ''
 - id: 5448
   drk: >-
-    We should go ask somebody who knows
-
-    lotsa stuff that ain´t in any book!
+    Darkness
 - id: 5449
   drk: Merlin the Wizard!
 - id: 5450
@@ -283,7 +275,7 @@
 - id: 5453
   drk: Yeah. Let´s go!
 - id: 5454
-  drk: There's Heartless in every part of the castle...
+  drk: There's Darkness in every part of the castle...
 - id: 5455
   drk: The Queen is in danger!
 - id: 5456
@@ -407,9 +399,7 @@
   drk: But Daisy...I...
 - id: 5496
   drk: >-
-    I know it´s an important mission, but you
-
-    could at least check in every once in a while.
+    Darkness
 - id: 5497
   drk: Sora!
 - id: 5498
@@ -458,11 +448,7 @@
   drk: They must be the work of someone very evil.
 - id: 7973
   drk: >-
-    The King is out there
-
-    somewhere, doing all he can.{:clear }I´ll do my best, too, but most of
-
-    all, we need your help!
+    Darkness
 - id: 8095
   drk: Protect Minnie while heading to the throne!
 - id: 8096
@@ -559,7 +545,7 @@
   drk: You see a letter to someone.
 - id: 16974
   drk: >-
-    "Disney Castle is protected by
+    "Disney Darkness is protected by
 
     magical power."
 - id: 16975
@@ -655,7 +641,7 @@
 
     Can you overcome his power?
 - id: 21409
-  drk: Aqua... Ven...
+  drk: Hello Darkness...my old Friend
 - id: 21410
   drk: A Keyblade?{:delay 73 00}{:clear }Who are you?
 - id: 21411

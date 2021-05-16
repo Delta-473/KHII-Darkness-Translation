@@ -10,11 +10,7 @@
     sure is easier to catch food now!
 - id: 4908
   drk: >-
-    He may be living in the {:theme 0A}king´s den{:reset},
-
-    but he isn´t doing a king´s job.{:clear }Oh... I wonder if Rafiki has anything
-
-    in mind...
+    Darkness
 - id: 4909
   drk: >-
     So Scar fled to the king´s den, hm?
@@ -31,11 +27,7 @@
     Simba needs.
 - id: 4911
   drk: >-
-    Simba´s in the {:theme 0A}king´s den{:reset},
-
-    but you´ve seen the ghost, too.{:clear }Please go to him. Seeing you may
-
-    cheer him up.
+    Darkness
 - id: 4912
   drk: >-
     The hyenas should be in
@@ -59,25 +51,13 @@
     no worries, no cares! Live for today!
 - id: 4915
   drk: >-
-    So, you´re returning
-
-    to the {:theme 0A}Pride Lands{:reset}...{:clear }You can prepare for your journey
-
-    here. Whatever you do, don´t get hurt.
+    Darkness
 - id: 4916
   drk: >-
-    Nala wants to be left alone.
-
-    Why don´t you go cheer up Simba?{:clear }hakuna matata...
-
-    You understand, don´t you, guys?
+    Darkness
 - id: 4917
   drk: >-
-    You can run fast like lions,
-
-    right?{:clear }I wish I could do that, too. It´d be
-
-    useful when running away...
+    Darkness
 - id: 4918
   drk: >-
     A bird and a turtle.
@@ -99,7 +79,7 @@
 - id: 4923
   drk: Are you thinking what I´m thinking?
 - id: 4924
-  drk: Definitely Heartless.
+  drk: Definitely Darkness.
 - id: 4925
   drk: That´s him.
 - id: 4926
@@ -178,10 +158,10 @@
 - id: 4954
   drk: Simba seems fine now.
 - id: 8089
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 8090
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Using reaction commands with {:icon button-triangle}
 
@@ -208,7 +188,7 @@
 - id: 8484
   drk: ''
 - id: 8485
-  drk: Heartless?
+  drk: Darkness?
 - id: 8486
   drk: >-
     I dunno, Sora.
@@ -260,7 +240,7 @@
 - id: 8501
   drk: I found a trick to it. Here, lemme show ya.
 - id: 8502
-  drk: Heartless!?
+  drk: Darkness!?
 - id: 8503
   drk: What do we do?
 - id: 8504
@@ -270,19 +250,19 @@
 - id: 8506
   drk: We´re just glad you´re okay.
 - id: 8507
-  drk: Did you see any other Heartless around here?
+  drk: Did you see any other Darkness around here?
 - id: 8508
   drk: >-
-    Heartless... Is that what they´re called?
+    Darkness... Is that what they´re called?
 
     I´m not sure if there are any others...
 - id: 8509
   drk: >-
     I don´t usually hunt
 
-    outside the Pride Lands.
+    outside the The Darkness Lands.
 - id: 8510
-  drk: Pride Lands?
+  drk: The Darkness Lands?
 - id: 8511
   drk: >-
     Hey, do you know if a guy
@@ -295,7 +275,7 @@
 - id: 8514
   drk: Oh well, we might as well go take a look, anyway.
 - id: 8515
-  drk: Wait--the Pride Lands are dangerous.
+  drk: Wait--the The Darkness Lands are dangerous.
 - id: 8516
   drk: >-
     Scar and the hyenas have made
@@ -310,7 +290,7 @@
   drk: >-
     We can handle a little danger. You just
 
-    saw us beat those Heartless, didn´t you?
+    saw us beat those Darkness, didn´t you?
 - id: 8519
   drk: >-
     I guess you´re right...{:delay 78 00}{:clear }You could be just what the kingdom
@@ -354,7 +334,7 @@
   drk: >-
     Still, I´d like to see the
 
-    Pride Lands,{:delay 78 00}{:clear }so you guys don´t mind
+    The Darkness Lands,{:delay 78 00}{:clear }so you guys don´t mind
 
     lending ´em a paw, do you?
 - id: 8531
@@ -377,10 +357,10 @@
   drk: >-
     I told Rafiki you might be able to help
 
-    us force Scar and the hyenas{:delay C8 00}{:clear }out of the Pride Lands.
+    us force Scar and the hyenas{:delay C8 00}{:clear }out of the The Darkness Lands.
 - id: 8537
   drk: >-
-    But he says it won´t work.{:delay 78 00}{:clear }You see, whoever saves the Pride Lands
+    But he says it won´t work.{:delay 78 00}{:clear }You see, whoever saves the The Darkness Lands
 
     will be our next king...{:delay 78 00}{:clear }and he has to have the right qualities.
 - id: 8538
@@ -531,7 +511,7 @@
   drk: Don´t worry. They´re all friends of mine.
 - id: 8596
   drk: >-
-    So that means...nobody´s planning
+    So that means...Shell of Darkness´s planning
 
     to eat anybody else for lunch, right?
 - id: 8597
@@ -698,11 +678,11 @@
   drk: >-
     Anger and jealousy turned the king of
 
-    Pride Rock into a Heartless!
+    Pride Rock into a Darkness!
 - id: 8653
   drk: Oh, your kingdom´s gonna rise again...
 - id: 8654
-  drk: But this time, as the Pride Lands of Darkness!
+  drk: But this time, as the The Darkness Lands of Darkness!
 - id: 8655
   drk: That´s what you think!
 - id: 8656
@@ -950,7 +930,7 @@
   drk: >-
     Hmm... We should start by talking to
 
-    Simba some more.{:delay FA 00}{:clear }Let´s head back to the Pride Lands.
+    Simba some more.{:delay FA 00}{:clear }Let´s head back to the The Darkness Lands.
 - id: 8741
   drk: >-
     Hmm. It seems even your daddy´s
@@ -1034,7 +1014,7 @@
   drk: I mean...
 - id: 8767
   drk: >-
-    Everyone here, and in the Pride Lands,
+    Everyone here, and in the The Darkness Lands,
 
     wants me to succeed.
 - id: 8768
@@ -1062,7 +1042,7 @@
   drk: >-
     Simba! Come quick!{:delay 64 00}{:clear }There´s a bazillion ghosts of Scar
 
-    haunting the Pride Lands!
+    haunting the The Darkness Lands!
 - id: 8775
   drk: >-
     Everybody but Nala high-tailed it outta there.
@@ -1093,7 +1073,7 @@
   drk: Ha! The king has returned!
 - id: 8786
   drk: >-
-    The Pride Lands will not forget
+    The The Darkness Lands will not forget
 
     King Simba´s courage.{:delay C8 00}{:clear }Or the courage of those
 
@@ -1267,7 +1247,7 @@
   drk: >-
     {:unk13 A8 00 55 01}{:unk08 01 01 02}Gawrsh, that ghost sounds
 
-    just like a Heartless.
+    just like a Darkness.
 - id: 12915
   drk: '{:unk13 7E 00 19 01}{:unk08 01 01 01}Hmm, I don´t know.'
 - id: 12916
@@ -1280,7 +1260,7 @@
 
     the hearts of everybody
 
-    in the Pride Lands.{:clear }You may not know
+    in the The Darkness Lands.{:clear }You may not know
 
     what it is,
 
@@ -1490,7 +1470,7 @@
   drk: You see a painting of a lion.
 - id: 15245
   drk: >-
-    You see, whoever saves the Pride Lands
+    You see, whoever saves the The Darkness Lands
 
     will be our next king...{:delay F6 00}{:clear }and he has to have the right qualities.
 - id: 17174
@@ -1701,7 +1681,7 @@
   drk: >-
     My, don´t you look delicious today!
 
-    Ah ha ha... I´m just kidding, of course.{:clear }You helped Simba save the Pride Lands.
+    Ah ha ha... I´m just kidding, of course.{:clear }You helped Simba save the The Darkness Lands.
 
     Thank you!
 - id: 18072
@@ -1727,7 +1707,7 @@
     attack when the time is right!
 - id: 18747
   drk: >-
-    Defeat the Giant Heartless!
+    Defeat the Giant Darkness!
 
     A jump attack from behind may take him down!
 - id: 18932
@@ -1739,11 +1719,11 @@
 
     Sora learned the "Running Tackle" ability.
 - id: 18956
-  drk: The core is in the head of the Giant Heartless! Attack his head!
+  drk: The core is in the head of the Giant Darkness! Attack his head!
 - id: 18957
-  drk: The core is in the head of the Heartless! Jump on his back to attack!
+  drk: The core is in the head of the Darkness! Jump on his back to attack!
 - id: 19210
-  drk: Use reaction commands to stop the Giant Heartless from escaping!
+  drk: Use reaction commands to stop the Giant Darkness from escaping!
 - id: 19254
   drk: >-
     The king´s den is in there, where a
@@ -1754,7 +1734,7 @@
 - id: 19404
   drk: Dodge attacks by jumping!
 - id: 19405
-  drk: Successfully use Fend to defeat the Giant Heartless!
+  drk: Successfully use Fend to defeat the Giant Darkness!
 - id: 19426
   drk: >-
     He may be living in the king´s den,
@@ -1774,7 +1754,7 @@
 - id: 19869
   drk: ' '
 - id: 21525
-  drk: "{:delayandfade 07 B4} \nWith Scar as king, the kingdom is doomed.\nIf only there were someone else to rule the\nPride Lands. Nala can't help but wonder how\ndifferent things would be if Simba were still\nalive.\n \nWhen Sora explains that he fought with\nSimba just a year ago, Nala can barely\ncontain her joy. Perhaps there's hope\nafter all.\n"
+  drk: "{:delayandfade 07 B4} \nWith Scar as king, the kingdom is doomed.\nIf only there were someone else to rule the\nThe Darkness Lands. Nala can't help but wonder how\ndifferent things would be if Simba were still\nalive.\n \nWhen Sora explains that he fought with\nSimba just a year ago, Nala can barely\ncontain her joy. Perhaps there's hope\nafter all.\n"
 - id: 21526
   drk: "{:delayandfade 07 B4} \n\"Scar's ghost signals the kingdom's demise.\"\n \nThe kingdom's subjects cower in fear,\nwaiting for the end to come.\n \nHowever, in a time when he's needed most,\nSimba stands by doing nothing. What is\nhe waiting for?\n \n \n"
 - id: 21527

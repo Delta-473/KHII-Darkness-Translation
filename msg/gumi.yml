@@ -65,11 +65,11 @@
 - id: 6251
   drk: Firaga/G
 - id: 6252
-  drk: Blizzard/G
+  drk: Dark Frost/G
 - id: 6253
-  drk: Blizzara/G
+  drk: Darker Frost/G
 - id: 6254
-  drk: Blizzaga/G
+  drk: Darkest Frost/G
 - id: 6255
   drk: Gravity/G
 - id: 6256
@@ -77,11 +77,11 @@
 - id: 6257
   drk: Graviga/G
 - id: 6258
-  drk: Thunder/G
+  drk: Dark Bolt/G
 - id: 6259
-  drk: Thundara/G
+  drk: Darker Bolt/G
 - id: 6260
-  drk: Thundaga/G
+  drk: Darkest Bolt/G
 - id: 6261
   drk: Comet/G
 - id: 6262
@@ -524,48 +524,30 @@
   drk: '{:width 95}Teeny Limit Upgrade'
 - id: 15181
   drk: >-
-    Increases the damage dealt by cannon
-
-    attacks.
+    Darkness
 - id: 15182
   drk: >-
-    Increases the damage dealt by laser
-
-    attacks.
+    Darkness
 - id: 15183
   drk: >-
-    Increases the damage dealt by Slash
-
-    Gummi attacks.
+    Darkness
 - id: 15184
   drk: >-
-    Causes Medal Orbs to appear more
-
-    often than HP Orbs.
+    Darkness
 - id: 15185
   drk: Restores HP automatically over time.
 - id: 15186
   drk: >-
-    Fires lasers automatically when hit by
-
-    enemy attacks.
+    Darkness
 - id: 15187
   drk: >-
-    Allows you to leave one Teeny Ship
-
-    behind and add its cost to
-
-    the Gummi Ship.
+    Darkness
 - id: 15188
   drk: >-
-    Allows you to change the formation of
-
-    Teeny Ships with {:icon button-l2} and {:icon button-r2}.
+    Darkness
 - id: 15189
   drk: >-
-    Allows you to power the Teeny Ship
-
-    into an active formation with {:icon button-square}.
+    Darkness
 - id: 15196
   drk: Material/G ₓ 5
 - id: 15197
@@ -591,34 +573,22 @@
     ahead. Rapid fire-enabled.
 - id: 15424
   drk: >-
-    Fires two, bi-directional rounds.
-
-    Rapid fire-enabled.
+    Darkness
 - id: 15425
   drk: >-
-    Fires two, tri-directional rounds.
-
-    Rapid fire-enabled.
+    Darkness
 - id: 15426
   drk: >-
-    Fires two, quad-directional rounds.
-
-    Rapid fire-enabled.
+    Darkness
 - id: 15427
   drk: >-
-    Fires a round that scatters when
-
-    it hits a target.
+    Darkness
 - id: 15428
   drk: >-
-    Fires a round that scatters wide
-
-    when it hits a target.
+    Darkness
 - id: 15429
   drk: >-
-    Fires a powerful round that
-
-    scatters wide when it hits a target.
+    Darkness
 - id: 15430
   drk: >-
     Fires laser rounds that seek out
@@ -671,13 +641,7 @@
     the gummi block.
 - id: 15438
   drk: >
-    Uses the Slash Gauge to unleash
-
-    a forward attack that cuts through
-
-    enemy defenses. You can add more
-
-    Slash Gummies to set up combos.
+    Darkness
 - id: 15439
   drk: >
     Uses the Slash Gauge to unleash
@@ -2804,7 +2768,7 @@
     Rapid-fire enabled.
 - id: 20516
   drk: >-
-    Spins and reflects shots in
+    Spins and Dark Returns shots in
 
     2 directions. Rapid-fire enabled.
 - id: 20517

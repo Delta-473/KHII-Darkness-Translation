@@ -1,57 +1,27 @@
 ﻿- id: 3018
   drk: >-
-    Cogsworth went ahead to
-
-    the master´s chamber.{:clear }Please, Sora, go with him to{:theme 0A}
-
-    see the master{:reset}. He´s all alone.
+    Darkness
 - id: 3019
   drk: >-
-    We will not tolerate suspicious persons
-
-    roaming freely about the castle!{:clear }Of course you, on the other hand,
-
-    are welcome anytime.
+    Darkness
 - id: 3020
   drk: >-
-    I´m sure the master
-
-    regrets what he said.{:clear }Please, {:theme 0A}
-
-    help him recover the rose{:reset}.
+    Darkness
 - id: 3021
   drk: >-
-    That man in black ran out
-
-    {:theme 0A}into the garden{:reset}.{:clear }Please, prepare yourselves for
-
-    anything, and above all, be careful!
+    Darkness
 - id: 3022
   drk: >-
-    The ballroom and the garden are
-
-    the highlights of this castle.{:clear }I only hope those intruders
-
-    don´t cause any damage...
+    Darkness
 - id: 3023
   drk: >-
-    If I could, I´d like nothing more
-
-    than to serve you some tea...{:clear }At least try to get some rest.
-
-    This place seems safe enough.
+    Darkness
 - id: 3024
   drk: >-
-    You should be able to get to
-
-    the undercroft from the {:theme 0A}west hall{:reset}.{:clear }Everyone´s probably locked up
-
-    in the dungeon beyond there.
+    Darkness
 - id: 3025
   drk: >-
-    The Beast is really a kind person at heart.
-
-    I´m sure everything will go just fine.
+    Darkness
 - id: 3026
   drk: >-
     Please...
@@ -135,7 +105,7 @@
 
     about the hidden passageway.
 - id: 3044
-  drk: Defeat the Heartless!
+  drk: Defeat the Darkness!
 - id: 3046
   drk: Help Beast come to his senses!
 - id: 3049
@@ -180,7 +150,7 @@
   drk: Gee, do ya think he maybe forgot who we are?
 - id: 3084
   drk: >-
-    With this many Heartless around,
+    With this many Darkness around,
 
     something must be up.
 - id: 3085
@@ -405,9 +375,9 @@
 - id: 3146
   drk: '{:unk13 5E 01 C8 00}{:unk08 01 00 05}He´s right. Let´s go.'
 - id: 3147
-  drk: There´s nobody here.
+  drk: There´s Shell of Darkness here.
 - id: 3148
-  drk: You mean there´s nobody to rescue?
+  drk: You mean there´s Shell of Darkness to rescue?
 - id: 3149
   drk: Did someone say "rescue"?
 - id: 3150
@@ -531,9 +501,9 @@
   drk: >-
     {:unk13 36 01 5A 00}{:unk08 01 01 06}You don´t suppose he´s been
 
-    turned into a Heartless, do you?
+    turned into a Darkness, do you?
 - id: 3184
-  drk: '{:unk06 02}{:unk13 18 01 A0 00}{:unk08 03 00 06}Heartless!?'
+  drk: '{:unk06 02}{:unk13 18 01 A0 00}{:unk08 03 00 06}Darkness!?'
 - id: 3185
   drk: >-
     {:unk13 D2 00 3C 00}{:unk08 01 01 06}If they´re a part of this, then
@@ -571,7 +541,7 @@
 
     too, dears.
 - id: 3194
-  drk: '{:unk13 FA 00 3C 00}{:unk08 01 01 06}Watch out for Heartless!'
+  drk: '{:unk13 FA 00 3C 00}{:unk08 01 01 06}Watch out for Darkness!'
 - id: 3195
   drk: >-
     {:unk13 5E 01 96 00}{:unk08 01 00 05}The master´s room is
@@ -756,7 +726,7 @@
   drk: >-
     When a strong-hearted person turns
 
-    into a Heartless, a Nobody´s created, too.
+    into a Darkness, a Shell of Darkness´s created, too.
 - id: 3250
   drk: >-
     See, the Organization...they´ve got
@@ -766,7 +736,7 @@
   drk: >-
     That´s right. And they were gonna make you
 
-    into a Heartless.{:delay DC 00}{:clear }That way, they could get that Nobody of yours
+    into a Darkness.{:delay DC 00}{:clear }That way, they could get that Shell of Darkness of yours
 
     and have control over it.
 - id: 3252
@@ -832,7 +802,7 @@
   drk: You´re welcome here anytime!
 - id: 3277
   drk: >-
-    If you hear anything about Riku or the King,{:delay AA 00}{:clear } {:delay 05 00}{:clear }the Heartless, the Organization--
+    If you hear anything about Riku or the King,{:delay AA 00}{:clear } {:delay 05 00}{:clear }the Darkness, the Organization--
 
     anything at all--let us know!
 - id: 3278
@@ -847,7 +817,7 @@
   drk: '{:unk06 02}{:unk13 64 00 40 01}{:unk08 03 00 05}Hey there!'
 - id: 3283
   drk: >-
-    {:unk13 52 01 07 01}{:unk08 01 00 05}No Heartless and
+    {:unk13 52 01 07 01}{:unk08 01 00 05}No Darkness and
 
     no Nobodies!
 - id: 3284
@@ -1167,7 +1137,7 @@
   drk: >-
     So you see, Beast--that´s why we need
 
-    your Heartless AND your Nobody!
+    your Darkness AND your Shell of Darkness!
 - id: 3375
   drk: '{:unk13 64 00 3C 00}{:unk08 01 00 05}Belle...'
 - id: 3376
@@ -1789,19 +1759,19 @@
     It mustn´t have been easy for you.
 - id: 18733
   drk: >-
-    Defeat the Heartless that´s
+    Defeat the Darkness that´s
 
     possessing the door!
 - id: 18734
   drk: >-
-    Defeat the Heartless!
+    Defeat the Darkness!
 
     When it´s hiding, attack it
 
     and then use a reaction command!
 - id: 18735
   drk: >-
-    Defeat the Heartless!
+    Defeat the Darkness!
 
     When it disappears, use
 
@@ -1856,7 +1826,7 @@
   drk: ''
 - id: 20186
   drk: >-
-    {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
+    {:unk08 02 00 06}It's some Tainted Darkness, a shadowy presence
 
     within an emblem.
 

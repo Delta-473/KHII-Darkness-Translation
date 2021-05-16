@@ -1046,7 +1046,7 @@
   drk: >-
     Ladies and gentlemen,
 
-    Struggle-fiends of Twilight Town!{:delay D7 00}{:clear }It´s time for summer´s most sizzling clash!
+    Struggle-fiends of Darkness Town!{:delay D7 00}{:clear }It´s time for summer´s most sizzling clash!
 - id: 13296
   drk: >-
     That´s right!
@@ -1364,7 +1364,7 @@
 
     memories of Sora and those aligned with him.
 - id: 13405
-  drk: But whose Nobody is she?
+  drk: But whose Shell of Darkness is she?
 - id: 13406
   drk: >-
     I could tell you... {:delay 8B 00}{:clear } {:delay 33 00}{:clear }But first, perhaps you could
@@ -1451,7 +1451,7 @@
 
     weird stories like that.{:clear }It´s like...{:clear }the seven wonders
 
-    of Twilight Town.
+    of Darkness Town.
 - id: 13432
   drk: >-
     {:unk13 40 01 50 00}{:unk08 01 00 05}We should investigate those
@@ -1894,11 +1894,11 @@
   drk: Even if it doesn´t, I wanna know.{:delay B0 00}{:clear }I have the right to know!
 - id: 13591
   drk: >-
-    A Nobody doesn´t have a right to know.{:delay D1 00}{:clear }Nor does it even
+    A Shell of Darkness doesn´t have a right to know.{:delay D1 00}{:clear }Nor does it even
 
     have the right to be.
 - id: 13592
-  drk: But what IS a Nobody!?
+  drk: But what IS a Shell of Darkness!?
 - id: 13593
   drk: >-
     DiZ, we´re out of time.
@@ -1938,7 +1938,7 @@
 - id: 13606
   drk: Poor thing.
 - id: 13607
-  drk: It´s the fate of a Nobody.
+  drk: It´s the fate of a Shell of Darkness.
 - id: 13608
   drk: Simply amazing, Roxas.
 - id: 13609
@@ -2049,7 +2049,7 @@
   drk: >-
     Don´t let your guard down.{:delay 96 00}{:clear }Axel will stop at nothing
 
-    to turn you into a Heartless.
+    to turn you into a Darkness.
 - id: 13654
   drk: >-
     Gee, thanks for looking out
@@ -2077,7 +2077,7 @@
   drk: >-
     Sora, you just keep on
 
-    fighting those Heartless.
+    fighting those Darkness.
 - id: 13661
   drk: Let´s jump in after him!
 - id: 13662
@@ -2115,7 +2115,7 @@
   drk: >-
     This goes to the strongest guy
 
-    in Twilight Town.
+    in Darkness Town.
 - id: 13674
   drk: Thanks, but...we don´t really need it.
 - id: 13675
@@ -2231,9 +2231,9 @@
   drk: >-
     We thought this place might be the gateway
 
-    to some kind of alternate Twilight Town.
+    to some kind of alternate Darkness Town.
 - id: 13742
-  drk: What do you mean, alternate Twilight Town?
+  drk: What do you mean, alternate Darkness Town?
 - id: 13743
   drk: >-
     Hey, Goofy, do you think we could
@@ -2358,7 +2358,7 @@
 
     connected to that
 
-    other Twilight Town?
+    other Darkness Town?
 - id: 13784
   drk: >-
     {:unk13 C1 00 B3 00}{:unk08 01 00 05}It might be.{:clear }And there should be a way into
@@ -2448,7 +2448,7 @@
 - id: 13815
   drk: Look!
 - id: 13816
-  drk: This is the other Twilight Town.{:delay A0 00}{:clear }Roxas´s Twilight Town.
+  drk: This is the other Darkness Town.{:delay A0 00}{:clear }Roxas´s Darkness Town.
 - id: 13817
   drk: >-
     There´s gotta be an entrance into
@@ -2565,11 +2565,11 @@
 - id: 14186
   drk: Defeat all of the strange enemies!
 - id: 14187
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 14188
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 14189
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 14190
   drk: Defeat all of the Nobodies!
 - id: 14191
@@ -2942,21 +2942,21 @@
   drk: >-
     See, it don´t matter how tough he is--
 
-    once he´s a Heartless, he´ll do as I say!
+    once he´s a Darkness, he´ll do as I say!
 - id: 14448
-  drk: A Heartless?
+  drk: A Darkness?
 - id: 14449
   drk: >-
     That´s right.{:delay 54 00}{:clear }They´re those things that come outta
 
-    the darkness in folks´ hearts.{:delay D2 00}{:clear } Why, with all those Heartless at her side,{:delay 96 00}{:clear }my dear friend Maleficent
+    the darkness in folks´ hearts.{:delay D2 00}{:clear } Why, with all those Darkness at her side,{:delay 96 00}{:clear }my dear friend Maleficent
 
     is gonna conquer everything!
 - id: 14450
   drk: >-
     And since I got me a debt to pay,{:delay 96 00}{:clear }I´m goin´ ´round to a bunch of
 
-    different worlds and{:delay 9C 00} {:clear }buildin´ an army of Heartless,
+    different worlds and{:delay 9C 00} {:clear }buildin´ an army of Darkness,
 
     special for her.
 - id: 14451
@@ -3017,18 +3017,18 @@
   drk: ''
 - id: 14471
   drk: >-
-    Heartless Squad!
+    Darkness Squad!
 
     Round up!
 - id: 14472
   drk: >-
-    You just wait!{:delay 60 00}{:clear }Nobody, and I do mean nobody,
+    You just wait!{:delay 60 00}{:clear }Shell of Darkness, and I do mean Shell of Darkness,
 
     messes with the mighty Pete!
 - id: 14473
   drk: So, "mighty" Pete,{:delay 5A 00}{:clear }{:delay 30 00}{:clear }who lives in this tower, anyway?
 - id: 14474
-  drk: Oh, ya don´t know, eh?{:delay 8A 00}{:clear }Well, it´s old Yen Sid.{:delay 8A 00}{:clear }´Course he´s probably a Heartless by now!
+  drk: Oh, ya don´t know, eh?{:delay 8A 00}{:clear }Well, it´s old Yen Sid.{:delay 8A 00}{:clear }´Course he´s probably a Darkness by now!
 - id: 14475
   drk: Master Yen Sid lives here!?
 - id: 14476
@@ -3036,7 +3036,7 @@
 - id: 14477
   drk: Wow. Sounds powerful!
 - id: 14478
-  drk: Heartless, Heartless, Heartless!{:delay B4 00}{:clear }{:delay 1E 00}{:clear }Things haven´t changed one bit!
+  drk: Darkness, Darkness, Darkness!{:delay B4 00}{:clear }{:delay 1E 00}{:clear }Things haven´t changed one bit!
 - id: 14479
   drk: Well, it´s a good thing we´re on the job, then.
 - id: 14480
@@ -3119,29 +3119,29 @@
     of the enemies you will surely confront.
 - id: 14501
   drk: >-
-    But wait a sec--how come the Heartless
+    But wait a sec--how come the Darkness
 
     are still running around?
 - id: 14502
   drk: >-
     Your past endeavors did prevent
 
-    an immense effusion of Heartless{:delay 3E 01}{:clear }from the great darkness;{:delay 72 00}{:clear }make no mistake about that.
+    an immense effusion of Darkness{:delay 3E 01}{:clear }from the great darkness;{:delay 72 00}{:clear }make no mistake about that.
 - id: 14503
   drk: >-
-    However, the Heartless are
+    However, the Darkness are
 
     darkness made real--{:delay F6 00}{:clear }{:delay 15 00}{:clear }and darkness yet lingers in every heart.
 - id: 14504
   drk: >-
-    The Heartless are fewer.{:delay 78 00}{:clear }But while darkness exists in a single heart,
+    The Darkness are fewer.{:delay 78 00}{:clear }But while darkness exists in a single heart,
 
     it will be difficult to eliminate them.
 - id: 14505
   drk: >-
     Gawrsh, that must mean...{:delay 7E 00}{:clear }if everybody´s heart was full of light,
 
-    them Heartless´d go away!
+    them Darkness´d go away!
 - id: 14506
   drk: >-
     Now it is time to speak of the
@@ -3151,14 +3151,14 @@
   drk: >-
     If one such as you, Donald, yields
 
-    to the darkness in their heart,{:delay 32 01}{:clear }{:delay 22 00}{:clear }they too will become a Heartless.
+    to the darkness in their heart,{:delay 32 01}{:clear }{:delay 22 00}{:clear }they too will become a Darkness.
 - id: 14509
   drk: But you know this.
 - id: 14510
   drk: ''
 - id: 14511
   drk: >-
-    The Heartless are always lurking and
+    The Darkness are always lurking and
 
     ever seeking to capture new hearts.{:delay 2C 01}{:clear }Never let your guard down!{:delay 72 00}{:clear }{:delay 3C 00}{:clear }Now then...
 - id: 14512
@@ -3167,7 +3167,7 @@
 
     a strong heart and will--{:delay F0 00}{:clear }be they evil or good--
 
-    becomes a Heartless,{:delay F6 00}{:clear }{:delay 24 00}{:clear }the empty shell they leave behind
+    becomes a Darkness,{:delay F6 00}{:clear }{:delay 24 00}{:clear }the empty shell they leave behind
 
     begins to act with a will of its own.
 - id: 14513
@@ -3190,7 +3190,7 @@
   drk: >-
     Now then...the being you see before
 
-    you is known as a Dusk.{:delay 80 01}{:clear }{:delay 36 00}{:clear }They are the most common form of Nobody.
+    you is known as a Dusk.{:delay 80 01}{:clear }{:delay 36 00}{:clear }They are the most common form of Shell of Darkness.
 - id: 14518
   drk: >-
     But there are others--some larger,
@@ -3220,7 +3220,7 @@
   drk: Organization {XIII}...
 - id: 14524
   drk: >-
-    While Heartless act on instinct,
+    While Darkness act on instinct,
 
     Nobodies function in a higher manner.{:delay 2C 01}{:clear }They can think and plan. And it seems
 
@@ -3241,7 +3241,7 @@
   drk: >-
     Now he´s traveling from world to world,
 
-    fighting the Heartless{:delay FC 00}{:clear }as he seeks the answer to the riddle
+    fighting the Darkness{:delay FC 00}{:clear }as he seeks the answer to the riddle
 
     of the Nobodies and Organization {XIII}.
 - id: 14529
@@ -3413,7 +3413,7 @@
   drk: But be warned.{:delay 8C 00}{:clear }{:delay 2D 00}{:clear } As you proceed...
 - id: 14583
   drk: >-
-    The Heartless and the Nobodies will
+    The Darkness and the Nobodies will
 
     be using their own paths:{:delay 0C 01}{:clear }Corridors of darkness, to travel
 
@@ -3821,7 +3821,7 @@
 
     were talking.
 - id: 17296
-  drk: Welcome to Twilight Town!
+  drk: Welcome to Darkness Town!
 - id: 17297
   drk: ⇽ Station Heights  ⇾ Sandlot
 - id: 17298
@@ -5070,7 +5070,7 @@
   drk: >-
     I bet you can get to the other
 
-    Twilight Town through this mansion.
+    Darkness Town through this mansion.
 - id: 17971
   drk: >-
     Don´t worry, we´ll stand guard here.
@@ -5185,7 +5185,7 @@
   drk: >-
     So there really was another
 
-    Twilight Town.{:clear }Come on, we have to find the
+    Darkness Town.{:clear }Come on, we have to find the
 
     entranceway to the darkness.
 - id: 18070
@@ -5211,7 +5211,7 @@
     you only had the right clue.
 - id: 18207
   drk: >-
-    Countless Twilight Town data is
+    Countless Darkness Town data is
 
     recorded here.
 - id: 18208
@@ -5486,17 +5486,17 @@
   drk: >-
     Fight alongside your friends
 
-    and defeat the Heartless!
+    and defeat the Darkness!
 - id: 18613
   drk: >-
     Fight alongside your friends
 
-    and defeat the Heartless!
+    and defeat the Darkness!
 - id: 18614
   drk: >-
     Fight alongside your friends
 
-    and defeat the Heartless!
+    and defeat the Darkness!
 - id: 18615
   drk: Defeat Seifer!
 - id: 18616
@@ -5972,7 +5972,7 @@
 
     sofa.
 - id: 19555
-  drk: Welcome to Twilight Town!
+  drk: Welcome to Darkness Town!
 - id: 19556
   drk: >-
     "Hayner" is written in small letters
@@ -5984,7 +5984,7 @@
 
     were talking.
 - id: 19558
-  drk: Welcome to Twilight Town!
+  drk: Welcome to Darkness Town!
 - id: 19560
   drk: Thanks.
 - id: 19569
@@ -6081,7 +6081,7 @@
 - id: 19683
   drk: I´ll go with you, guys.
 - id: 19684
-  drk: The Heartless have great fear of the Keyblade.
+  drk: The Darkness have great fear of the Keyblade.
 - id: 19685
   drk: That's right. The Keyblade.
 - id: 19686
@@ -6111,7 +6111,7 @@
   drk: >-
     I...I wish...
 
-    ...for your freedom, Genie.
+    ...for your freedom, Wishes of Darkness.
 - id: 19693
   drk: Al!
 - id: 19694
@@ -6180,61 +6180,41 @@
   drk: >-
     Forget it!
 
-    There´s no way you´re taking Kairi´s heart!
+    There´s no way you´re taking Kairi´s Darkness!
 - id: 19717
   drk: Kairi.
 - id: 19718
   drk: >-
-    We may never meet again,
-
-    but we´ll never forget each other.
+    Darkness
 - id: 19719
   drk: >-
-    No matter where we are,
-
-    our hearts will bring us together again.
+    Darkness
 - id: 19720
   drk: >-
-    Take this.{:delay 4B 00}{:clear }It´s my lucky charm.
-
-    Be sure to bring it back to me.
+    Darkness
 - id: 19721
   drk: Don´t worry. I will.
 - id: 19722
   drk: Promise?
 - id: 19723
   drk: >-
-    Gawrsh, is that all that´s left of
-
-    the worlds taken by the Heartless?
+    Darkness
 - id: 19724
   drk: >-
-    Those worlds will be restored
-
-    if we beat Ansem, right?{:delay A8 00}{:clear }But, if we do beat him and all these worlds
-
-    become restored and disconnected,{:delay 55 01}{:clear }what´s gonna happen to this place? And to us?
+    Darkness
 - id: 19725
   drk: >-
-    All worlds begin in darkness,{:delay AE 00}{:clear }and all so end.{:delay 84 00}{:clear }The heart is no different. {:delay 9F 00}{:clear }You see, darkness is
-
-    the heart´s true essence.
+    Darkness
 - id: 19726
   drk: >-
-    That´s not true!{:delay 34 00}{:clear }The heart may be weak.
-
-    And sometimes it may even give in.{:delay 2C 01}{:clear }But I´ve learned that deep down,
-
-    there´s a light that never goes out!
+    Darkness
 - id: 19727
   drk: Kingdom Hearts!{:delay 8C 00}{:clear }Fill me with the power of darkness!
 - id: 19728
   drk: You´re wrong.{:delay 5E 00}{:clear }I know now,{:delay 4C 00}{:clear }without a doubt.{:delay 6B 00}{:clear }Kingdom Hearts is light!
 - id: 19729
   drk: >-
-    Now, Sora!
-
-    Let´s close this door for good!
+    Darkness
 - id: 19730
   drk: Take care of her.
 - id: 19731
@@ -6251,9 +6231,7 @@
   drk: We´ve gotta find Riku and King Mickey.
 - id: 19737
   drk: >-
-    But, uh, where do we start lookin´
-
-    for that there door to the light?
+    Darkness
 - id: 19738
   drk: Pluto?
 - id: 19739
@@ -6319,41 +6297,25 @@
   drk: Axel...
 - id: 19913
   drk: >-
-    Or, maybe I have it wrong.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Might be time to sleep.{:delay 82 00}{:clear }Soon, we won't be able to
-
-    talk like this anymore.
+    Darkness
 - id: 19914
   drk: >-
-    Does that mean...{:delay 7D 00}{:clear }it's time for me to go back
-
-    to where I belong?
+    Darkness
 - id: 19915
   drk: >-
-    You know, I've been thinking about
-
-    something Naminé said.{:delay 0E 01}{:clear } {:delay 32 00}{:clear }Roxas, are you really sure that
-
-    you don't have a heart?{:delay 68 01}{:clear }Is it possible that we ALL have one?
-
-    You, me, her...{:delay 40 01}{:clear }Or is that just wishful thinking?
+    Darkness
 - id: 19916
   drk: I dunno.{:delay A9 00}{:clear }I can't...just look inside.
 - id: 19919
   drk: C'mon, don't leave me hanging.
 - id: 19920
   drk: >-
-    Sora will find the answer we're
-
-    looking for. I know he will.{:delay 1D 01}{:clear }Because he's me.
+    Darkness
 - id: 19921
   drk: True enough.
 - id: 19922
   drk: >-
-    Man, I miss the old times.
-
-    Still got it memorized?{:delay E3 00}{:clear }The day we met, when you got your
-
-    new name, you and I sat right here{:delay 2B 01}{:clear }and watched the sun set.
+    Darkness
 - id: 19923
   drk: Yeah. This place is home.{:delay C8 00}{:clear } {:delay 64 00}{:clear }Me, Hayner, Pence, Olette...{:delay 39 01}{:clear }We've shared a lot of adventures.
 - id: 19924
@@ -6370,36 +6332,18 @@
   drk: Yeah, I guess not.
 - id: 20172
   drk: >-
-    {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
-
-    within an emblem.
-
-    {:chardelay 33 00}Who cares?
-
-    {:chardelay A1 00}Let's check it out!
+    Darkness
 - id: 20188
   drk: >-
-    But I figure, if there is something
-
-    in there--inside us--{:delay 13 01}{:clear } {:delay 0F 00}{:clear }
-
-    then we'd feel it, wouldn't we?
+    Darkness
 - id: 20189
   drk: And if so...{:delay 82 00}{:clear } {:delay 19 00}{:clear }No, never mind.
 - id: 20539
   drk: >-
-    An image of you obtaining old powers
-
-    flows into your mind.
+    Darkness
 - id: 20540
   drk: >-
-    You have obtained a puzzle piece!
-
-    Puzzle pieces are scattered all over the world.{:clear }Some can only be accessed after learning
-
-    a certain ability. You can view collected
-
-    pieces in Jiminy's Journal.
+    Darkness
 - id: 20594
   drk: Press {:icon button-triangle} to begin the duel! Defeat the enemies that appear before you!
 - id: 20596
@@ -6475,7 +6419,7 @@
 - id: 21481
   drk: "{:delayandfade 07 B4} \nAnsem claims that at the core of every heart is darkness.\nHowever, beyond that exists light--that which can banish any\nand all darkness.\n \nAnd within Kingdom Hearts lies that very light.\n \n \n \n \n \n"
 - id: 21482
-  drk: "{:delayandfade 07 B4} \nAccording to the King, the computer in\nthe mansion is connected with the other\nTwilight Town. From there, one should\nbe able to enter the realm of darkness.\n \nHoping to find his friends, he searches\nevery inch of the mansion.\n \n \n \n"
+  drk: "{:delayandfade 07 B4} \nAccording to the King, the computer in\nthe mansion is connected with the other\nDarkness Town. From there, one should\nbe able to enter the realm of darkness.\n \nHoping to find his friends, he searches\nevery inch of the mansion.\n \n \n \n"
 - id: 21629
   drk: "{:delayandfade 07 B4} \nAfter rescuing Kairi's heart, Sora faces one last battle.\n \nHe finds strength in the promises they made to\neach other long ago.\n \n\"No matter where we are, our hearts will bring us\ntogether again.\"\n \n\"Don't forget. Wherever you go, I'm always with you.\"\n \n"
 - id: 21630

@@ -9,39 +9,23 @@
   drk: '{:unk13 A4 00 3C 00}{:unk08 01 01 05}Well, uh...'
 - id: 2938
   drk: >-
-    {:unk13 B9 00 3C 00}{:unk08 01 01 05}There´s a...world
-
-    inside this computer,{:clear }where these, um...
-
-    programs live, and...
+    Darkness
 - id: 2939
   drk: >-
-    {:unk13 91 00 50 00}{:unk08 01 01 07}So in other words...{:clear }Ansem´s research data
-
-    is off-limits unless we
-
-    know the password.
+    Darkness
 - id: 2940
   drk: '{:unk13 87 00 73 00}{:unk08 01 01 06}I think that´s right.'
 - id: 2941
   drk: >-
-    {:unk13 A6 00 43 00}{:unk08 01 01 06}But you´ve already
-
-    defeated Ansem...
+    Darkness
 - id: 2942
   drk: >-
-    {:unk13 6D 01 A1 00}{:unk08 01 00 05}Gawrsh, maybe
-
-    we´ll never
-
-    find the password.
+    Darkness
 - id: 2943
   drk: '{:unk13 C8 00 32 00}{:unk08 01 01 06}That means...'
 - id: 2944
   drk: >-
-    {:unk13 82 00 46 00}{:unk08 01 01 07}...this is all a
-
-    wild goose chase.
+    Darkness
 - id: 2947
   drk: '{:unk13 54 01 B4 00}{:unk08 01 00 05}She just won´t give up...'
 - id: 2948
@@ -135,7 +119,7 @@
   drk: Hey, isn´t Tron waiting for you guys?
 - id: 2980
   drk: >-
-    Don´t worry, I´m not goin´ anywhere.{:delay 78 00}{:clear }{:delay 28 00}{:clear }If those Heartless attack, I´ll stand
+    Don´t worry, I´m not goin´ anywhere.{:delay 78 00}{:clear }{:delay 28 00}{:clear }If those Darkness attack, I´ll stand
 
     and fight with everybody here.
 - id: 2981
@@ -214,18 +198,18 @@
 - id: 8074
   drk: Defeat all of the enemies!
 - id: 8075
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 8076
   drk: >-
     Fight alongside friends to defeat the
 
-    Heartless!
+    Darkness!
 - id: 8077
-  drk: Trapped! Defeat all of the Heartless to escape!
+  drk: Trapped! Defeat all of the Darkness to escape!
 - id: 8079
-  drk: Trapped! Defeat all of the Heartless to escape!
+  drk: Trapped! Defeat all of the Darkness to escape!
 - id: 8081
-  drk: Trapped! Defeat all of the Heartless to escape!
+  drk: Trapped! Defeat all of the Darkness to escape!
 - id: 8083
   drk: Defeat all of the enemies!
 - id: 8084
@@ -236,16 +220,16 @@
 
     will make the battle easier!
 - id: 8085
-  drk: Defeat the Heartless!
+  drk: Defeat the Darkness!
 - id: 8086
-  drk: Use the town´s defenses to defeat the Heartless!
+  drk: Use the town´s defenses to defeat the Darkness!
 - id: 8087
-  drk: Defeat the Heartless!
+  drk: Defeat the Darkness!
 - id: 8088
   drk: >-
     Fight alongside friends to defeat the
 
-    Heartless!
+    Darkness!
 - id: 8148
   drk: >-
     Wait a sec...I thought everything was
@@ -267,7 +251,7 @@
     to this place?
 - id: 8153
   drk: >-
-    {:unk13 79 01 E1 00}{:unk08 01 00 04}Didn´t that Heartless
+    {:unk13 79 01 E1 00}{:unk08 01 00 04}Didn´t that Darkness
 
     look like the ones
 
@@ -306,19 +290,13 @@
     Leon, anyway...
 - id: 8164
   drk: >-
-    He went on over to Ansem´s study to find
-
-    out what all the ruckus was about.
+    Darkness
 - id: 8165
   drk: >-
-    Turns out the MCP is using
-
-    the data in that computer{:delay B4 00}{:clear }to crank out Heartless.
+    Darkness
 - id: 8166
   drk: >-
-    The MCP´s been messin´ around with
-
-    the town´s control system, too.
+    Darkness
 - id: 8167
   drk: ''
 - id: 8168
@@ -328,52 +306,30 @@
     when to quit, does it?
 - id: 8169
   drk: >-
-    {:unk13 80 00 43 00}{:unk08 01 01 06}That´s a computer
-
-    program for ya.
+    Darkness
 - id: 8170
-  drk: '{:unk13 FA 00 91 00}{:unk08 01 00 05}How´s Tron doing?'
+  drk: Darkness
 - id: 8171
   drk: >-
-    {:unk13 2C 01 55 00}{:unk08 01 01 06}We can´t reach him.{:clear }We figure he must have been
-
-    forced onto the game grid.
+    Darkness
 - id: 8172
   drk: >-
-    {:unk13 09 01 41 00}{:unk08 01 00 05}And it don´t sound
-
-    like a particularly
-
-    fun game, either.
+    Darkness
 - id: 8175
   drk: >-
-    {:unk13 AF 00 37 00}{:unk08 01 01 06}Thanks, kid.{:clear }We´re puttin´ together an
-
-    MCP Eradication program.{:clear }I got a hunch it´s
-
-    almost finished, too.
+    Darkness
 - id: 8176
   drk: >-
-    {:unk13 F0 00 50 00}{:unk08 01 00 05}Well, I hope your hunch
-
-    is right for once!
+    Darkness
 - id: 8177
   drk: >-
-    {:unk13 04 01 41 00}{:unk08 01 01 06}Listen, we´re gonna need
-
-    Tron´s help when that
-
-    Eradicator´s completed...
+    Darkness
 - id: 8178
   drk: >-
-    {:unk13 FA 00 8C 00}{:unk08 01 00 05}Don´t sweat it.{:clear }We´ll make sure
-
-    to tell Tron!
+    Darkness
 - id: 8179
   drk: >-
-    {:unk13 50 01 3A 00}{:unk08 01 00 04}Remember, boys--we´re
-
-    counting on you.
+    Darkness
 - id: 8180
   drk: '{:unk13 F5 00 AF 00}{:unk08 01 00 05}Roger!'
 - id: 8181
@@ -496,7 +452,7 @@
   drk: What...what are you loading?
 - id: 8216
   drk: >-
-    Things are settling down in town!{:delay 62 00}{:clear }{:delay 27 00}{:clear }The only Heartless left anywhere
+    Things are settling down in town!{:delay 62 00}{:clear }{:delay 27 00}{:clear }The only Darkness left anywhere
 
     are the local variety.{:delay 8A 00}{:clear }{:delay 30 00}{:clear }And it looks like there are fewer than before.
 - id: 8217
@@ -625,7 +581,7 @@
 - id: 8261
   drk: Where? Inside the castle!?
 - id: 8262
-  drk: Yep! And Heartless, too.
+  drk: Yep! And Darkness, too.
 - id: 8263
   drk: Oh, dear...
 - id: 8264
@@ -642,7 +598,7 @@
   drk: >-
     Yes, yes...{:delay 64 00}{:clear }{:delay 1E 00}{:clear }But it seems I used too much power in
 
-    doing so, and those infernal Heartless...
+    doing so, and those infernal Darkness...
 - id: 8270
   drk: So what´s up?
 - id: 8271
@@ -661,7 +617,7 @@
   drk: >-
     And when I did, I was attacked
 
-    by the Heartless.{:delay B4 00}{:clear }Of course, I fought back with
+    by the Darkness.{:delay B4 00}{:clear }Of course, I fought back with
 
     some rather powerful magic,{:delay D8 00}{:clear }but then I began to fear the book
 
@@ -728,7 +684,7 @@
 
     to do with those pages the
 
-    Heartless stole.{:clear }You´ll have to collect the
+    Darkness stole.{:clear }You´ll have to collect the
 
     torn pages and repair the
 
@@ -863,7 +819,7 @@
   drk: >-
     If you go to the right from here and climb
 
-    the stairs, you´ll arrive at the bailey.{:clear }There are Heartless roaming about, so
+    the stairs, you´ll arrive at the bailey.{:clear }There are Darkness roaming about, so
 
     prepare yourselves at the marketplace.
 - id: 9016
@@ -875,12 +831,12 @@
     should make it easier for you.
 - id: 9017
   drk: >-
-    We're monitors of the Heartless!{:clear }As such, we place you in charge of
+    We're monitors of the Darkness!{:clear }As such, we place you in charge of
 
     attacking them! Good luck! ♪
 - id: 9018
   drk: >-
-    The MCP is using the Heartless
+    The MCP is using the Darkness
 
     manufacturing machine in the study.{:clear }It´s also taken over the town´s defense
 
@@ -927,7 +883,7 @@
   drk: >-
     {:unk13 3B 01 47 00}{:unk08 01 00 07}He´s Donald´s uncle--
 
-    a business typhoon!{:clear }Before the Heartless showed up,
+    a business typhoon!{:clear }Before the Darkness showed up,
 
     he traveled the worlds on a
 
@@ -1066,7 +1022,7 @@
   drk: >-
     You mean, like Nobodies?
 
-    And Heartless?
+    And Darkness?
 - id: 12369
   drk: That´s right!
 - id: 12370
@@ -1165,7 +1121,7 @@
   drk: >-
     There´s this guy, Pete, who´s been going
 
-    around plotting with the Heartless.
+    around plotting with the Darkness.
 - id: 12401
   drk: >-
     But he´s not smart enough to
@@ -1229,7 +1185,7 @@
 - id: 12445
   drk: Do you think...
 - id: 12446
-  drk: Looks like there´s more Heartless now.
+  drk: Looks like there´s more Darkness now.
 - id: 12447
   drk: ''
 - id: 12448
@@ -1300,7 +1256,7 @@
   drk: >-
     {:unk13 C4 00 E6 00}{:unk08 01 01 02}Yep. Should be able to get all
 
-    kinds of info on the Heartless
+    kinds of info on the Darkness
 
     and the Organization.
 - id: 12470
@@ -1629,7 +1585,7 @@
 
     to take over Kingdom Hearts--{:delay B4 00}{:clear }the one you fellas defeated.{:delay 6C 00}{:clear }But, what you actually
 
-    fought was his Heartless.{:delay E4 00}{:clear }Ya see, he wasn´t really Ansem.{:delay 8A 00}{:clear }He just went around telling
+    fought was his Darkness.{:delay E4 00}{:clear }Ya see, he wasn´t really Ansem.{:delay 8A 00}{:clear }He just went around telling
 
     everybody that he was.
 - id: 12585
@@ -1670,14 +1626,14 @@
   drk: >-
     Well, let´s see.{:delay 60 00}{:clear }Some feller named Ansem, who wasn´t
 
-    really Ansem, became a Heartless.{:delay 50 01}{:clear }Does that mean a Nobody got created
+    really Ansem, became a Darkness.{:delay 50 01}{:clear }Does that mean a Shell of Darkness got created
 
     when that happened, too?
 - id: 12598
   drk: Yup!
 - id: 12599
   drk: >-
-    And that Nobody is the leader
+    And that Shell of Darkness is the leader
 
     of the Organization.
 - id: 12600
@@ -1750,7 +1706,7 @@
 - id: 12621
   drk: Sounds like we gotta start by helpin´ out here!
 - id: 12622
-  drk: Hear me, my Heartless!{:delay 8A 00}{:clear }Attack the white husks! Sweep them away!
+  drk: Hear me, my Darkness!{:delay 8A 00}{:clear }Attack the white husks! Sweep them away!
 - id: 12623
   drk: >-
     What, are you nuts?
@@ -1764,7 +1720,7 @@
   drk: ''
 - id: 12626
   drk: >-
-    Heartless!{:delay 42 00}{:clear }Leave the white ones. Turn your
+    Darkness!{:delay 42 00}{:clear }Leave the white ones. Turn your
 
     attention to Sora and his friends!
 - id: 12627
@@ -2065,7 +2021,7 @@
 - id: 12743
   drk: It´s the guy who´s NOT Ansem!
 - id: 12744
-  drk: You mean it´s his Nobody!
+  drk: You mean it´s his Shell of Darkness!
 - id: 12745
   drk: The leader of Organization {XIII}...
 - id: 12746
@@ -2085,7 +2041,7 @@
   drk: Yep, that´s what worries me too.
 - id: 12750
   drk: >-
-    The doors that appeared.{:delay 78 00}{:clear }{:delay 28 00}{:clear }The place the Heartless seek.{:delay 78 00}{:clear }{:delay 55 00}{:clear }I fear my research may have
+    The doors that appeared.{:delay 78 00}{:clear }{:delay 28 00}{:clear }The place the Darkness seek.{:delay 78 00}{:clear }{:delay 55 00}{:clear }I fear my research may have
 
     brought this upon us...
 - id: 12751
@@ -2111,7 +2067,7 @@
   drk: >-
     The leader of Organization {XIII} is
 
-    Xehanort´s Nobody!
+    Xehanort´s Shell of Darkness!
 - id: 12757
   drk: Let´s go!
 - id: 12758
@@ -2137,7 +2093,7 @@
     abandoned that name...
 - id: 12767
   drk: >-
-    Out with it, Nobody! Where´s Kairi?
+    Out with it, Shell of Darkness! Where´s Kairi?
 
     Where´s Riku!?
 - id: 12768
@@ -2160,12 +2116,12 @@
   drk: >-
     Organization {XIII} wants
 
-    to get rid of the Heartless?
+    to get rid of the Darkness?
 - id: 12778
   drk: Man, you´re slow.
 - id: 12779
   drk: >-
-    Every Heartless slain with that Keyblade
+    Every Darkness slain with that Keyblade
 
     releases a captive heart.
 - id: 12780
@@ -2222,9 +2178,9 @@
   drk: >-
     Are you angry? Do you hate me?{:delay C3 00}{:clear }{:delay 3C 00}{:clear }Then take that rage, and direct
 
-    it at the Heartless.
+    it at the Darkness.
 - id: 12802
-  drk: Pitiful Heartless, mindlessly collecting hearts.
+  drk: Pitiful Darkness, mindlessly collecting hearts.
 - id: 12803
   drk: >-
     And yet they know not the true
@@ -2262,7 +2218,7 @@
 
     must be MY dominion!
 - id: 12812
-  drk: Maleficent, no! No more Heartless!
+  drk: Maleficent, no! No more Darkness!
 - id: 12813
   drk: I do not take orders from you!
 - id: 12814
@@ -2295,7 +2251,7 @@
 - id: 12826
   drk: Which side are you guys on anyway?
 - id: 12827
-  drk: The Heartless ally with whoever´s the strongest.
+  drk: The Darkness ally with whoever´s the strongest.
 - id: 12828
   drk: Yes, Sora!{:delay 3C 00}{:clear }{:delay 18 00}{:clear }Extract more hearts!
 - id: 12829
@@ -2620,7 +2576,7 @@
   drk: >-
     Ha!{:delay 22 00}{:clear }Tough talk for someone
 
-    who stood on the sidelines{:delay 7E 00}{:clear }while his Nobody flunkeys did the fighting!
+    who stood on the sidelines{:delay 7E 00}{:clear }while his Shell of Darkness flunkeys did the fighting!
 - id: 15153
   drk: Oh, dear.{:delay 46 00}{:clear }{:delay 19 00}{:clear }I think you got the wrong impression.
 - id: 15154
@@ -2755,7 +2711,7 @@
   drk: C´mon, it´s a set-up by Organization {XIII}.
 - id: 15775
   drk: >-
-    Xemnas is using you to destroy the Heartless--
+    Xemnas is using you to destroy the Darkness--
 
     that´s his big master plan.
 - id: 15963
@@ -2794,7 +2750,7 @@
   drk: that?
 - id: 16064
   drk: >-
-    Gawrsh, it´s the gang from Twilight Town.
+    Gawrsh, it´s the gang from Darkness Town.
 
     There´s Hayner, Pence, Olette...{:delay 4D 01}{:clear }and, uh, um...
 - id: 16065
@@ -3292,7 +3248,7 @@
     to you, too. Good luck finding them all!
 - id: 19323
   drk: >-
-    The town´s crawling with Heartless and
+    The town´s crawling with Darkness and
 
     Nobodies! What´s going on!?{:clear }Leon and the others headed toward the
 
@@ -3509,7 +3465,7 @@
 
     We have to go after the King!
 - id: 21483
-  drk: "{:delayandfade 07 B4} \nAccording to Merlin, Pooh lost his memory\nbecause the Heartless had stolen pages out\nof the book.\n \nDetermined to help his friend, Sora collects\nthe pages and dives into Pooh's world.\n \n \n \n \n"
+  drk: "{:delayandfade 07 B4} \nAccording to Merlin, Pooh lost his memory\nbecause the Darkness had stolen pages out\nof the book.\n \nDetermined to help his friend, Sora collects\nthe pages and dives into Pooh's world.\n \n \n \n \n"
 - id: 21484
   drk: "{:delayandfade 07 B4} \nSora returns to Merlin's house and is\ninformed by Cid that Ansem's computer has\nbeen found. With it, they may be able to get\ntheir hands on information regarding not\nonly Organization {XIII}, but Riku, Kairi, and\neven the King!\n \nUnable to contain their excitement, they\nrush off to the computer room.\n \n"
 - id: 21485
@@ -3517,13 +3473,13 @@
 - id: 21486
   drk: "{:delayandfade 07 B4} \nRetrieving the data containing Ansem's\nresearch won't be an easy feat. They can't\naccess anything without getting their\nhands on the password.\n \nAfter an extensive search of the lab...\n \n \n \n \n"
 - id: 21487
-  drk: "{:delayandfade 07 B4} \nOne year ago, Sora and his friends defeated\nthe Heartless that was trying to get his hands on\nKingdom Hearts--Ansem, the Seeker of Darkness.\n \nHowever, that wasn't the real Ansem. He was\nnothing but a fake, using Ansem's name to do\nhis bidding.\n \n \n \n"
+  drk: "{:delayandfade 07 B4} \nOne year ago, Sora and his friends defeated\nthe Darkness that was trying to get his hands on\nKingdom Hearts--Ansem, the Seeker of Darkness.\n \nHowever, that wasn't the real Ansem. He was\nnothing but a fake, using Ansem's name to do\nhis bidding.\n \n \n \n"
 - id: 21488
-  drk: "{:delayandfade 07 B4} \nThe notorious leader of Organization {XIII} is none other than\nthe Nobody of Ansem's protégé Xehanort.\n \n \n \n \n \n \n \n \n"
+  drk: "{:delayandfade 07 B4} \nThe notorious leader of Organization {XIII} is none other than\nthe Shell of Darkness of Ansem's protégé Xehanort.\n \n \n \n \n \n \n \n \n"
 - id: 21489
   drk: "{:delayandfade 07 B4} \nThe time has come for this to end, once and for all.\n \nXehanort can't get away with this any longer!\n \n \n \n \n \n \n \n"
 - id: 21490
-  drk: "{:delayandfade 07 B4} \nWhy on earth would the Heartless from\nTron's world be here? Sora and his friends\ncan hardly contain their surprise.\n \nAccording to Yuffie, it's all due to the\nlaunch of the MCP's evil operation.\n \n \n \n \n"
+  drk: "{:delayandfade 07 B4} \nWhy on earth would the Darkness from\nTron's world be here? Sora and his friends\ncan hardly contain their surprise.\n \nAccording to Yuffie, it's all due to the\nlaunch of the MCP's evil operation.\n \n \n \n \n"
 - id: 21491
   drk: "{:delayandfade 07 B4} \nOn top of everything, they've lost\ncommunication with Tron. Their only hope\nto restore the world's peace is through\nCid's MCP eradication program.\n \n \n \n \n \n \n"
 - id: 21492

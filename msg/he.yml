@@ -7,7 +7,7 @@
 - id: 834
   drk: Oh... Guess we were a little off.
 - id: 836
-  drk: Heartless!
+  drk: Darkness!
 - id: 3460
   drk: >-
     Well, we´ve trained, but I wonder
@@ -378,13 +378,13 @@
     We have to go--now!
 - id: 3579
   drk: >-
-    I got Heartless all over the
+    I got Darkness all over the
 
     Underworld now.{:delay B4 00}{:clear }So you can leave those
 
     pip-squeaks to me.{:delay A0 00}{:clear }{:delay 2A 00}{:clear }Look, pal, you just keep working on
 
-    turning Hercules into a Heartless.{:delay F0 00}{:clear }Then he´ll be all mine.
+    turning Hercules into a Darkness.{:delay F0 00}{:clear }Then he´ll be all mine.
 - id: 3582
   drk: This is my Underworld, you idiot!{:delay B4 00}{:clear }{:delay 2A 00}{:clear }I´ll handle this MYSELF!
 - id: 3584
@@ -492,7 +492,7 @@
   drk: >-
     Yeah, trackin´ down some friends,
 
-    wipin´ out some Heartless.
+    wipin´ out some Darkness.
 - id: 3615
   drk: Junior heroes, always busy!
 - id: 3616
@@ -566,7 +566,7 @@
   drk: >-
     Hey champ, how ya feeling?{:delay 96 00}{:clear }Better rest up for
 
-    tomorrow´s match.{:delay 96 00}{:clear }{:delay 1E 00}{:clear }Nobody´s gonna pay to see a
+    tomorrow´s match.{:delay 96 00}{:clear }{:delay 1E 00}{:clear }Shell of Darkness´s gonna pay to see a
 
     worn-out hero...capiche?{:delay F0 00}{:clear }{:delay 36 00}{:clear }Remember what I told you.{:delay 6E 00}{:clear }Victory in the games comes
 
@@ -972,7 +972,7 @@
   drk: >-
     Hey, it´s no big deal.{:delay 54 00}{:clear }{:delay 39 00}{:clear }Just let us know if Hades or
 
-    the Heartless start acting up.{:delay AE 00}{:clear }We´ll take care of it.
+    the Darkness start acting up.{:delay AE 00}{:clear }We´ll take care of it.
 - id: 3748
   drk: Yeah, that´s what heroes are for!
 - id: 3749
@@ -1020,7 +1020,7 @@
   drk: >-
     {:unk13 AA 00 7D 00}{:unk06 00}{:unk08 01 01 05}No sign of the Nobodies
 
-    or the Heartless...for now,
+    or the Darkness...for now,
 
     anyway.
 - id: 3764
@@ -1992,7 +1992,7 @@
     extremely happily.
 - id: 8036
   drk: >-
-    Defeat the Heartless and head for the exit!
+    Defeat the Darkness and head for the exit!
 
     Don´t bother attacking Hades now!
 - id: 8037
@@ -2087,19 +2087,19 @@
 
     If a big one appears, don´t let it get away.
 - id: 16148
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 16149
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Using reaction commands with {:icon button-triangle}
 
     will make the battle easier!
 - id: 16150
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 16151
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Using reaction commands with {:icon button-triangle}
 
@@ -2537,35 +2537,23 @@
   drk: >-
     It's an unfamiliar book.
 
-    The title is Absent Silhouettes.
+    The title is Tainted Darkness.
 - id: 20167
   drk: >-
-    {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
-
-    within an emblem.
-
-    {:chardelay 33 00}Who cares?
-
-    {:chardelay A1 00}Let's check it out!
+    Darkness
 - id: 20604
   drk: Press {:icon button-triangle} to begin the duel! Quickly defeat the enemies that appear!
 - id: 21392
   drk: "{:unk13 AA 00 D2 00}{:unk06 00}{:unk08 01 00 06}What's the deal with this book?"
 - id: 21393
   drk: >-
-    {:unk13 F0 00 5E 01}{:unk06 00}{:unk08 01 00 02}It looks like it's called
-
-    Absent Silhouettes.
+    Darkness
 - id: 21394
   drk: >-
-    {:unk13 68 01 68 01}{:unk06 00}{:unk08 01 00 02}Are you sure you want to touch that?{:clear }You can't be too careful
-
-    in the Underworld.
+    Darkness
 - id: 21395
   drk: >-
-    {:unk13 E6 00 5E 01}{:unk06 00}{:unk08 01 00 02}You're right.
-
-    It might be a trap of some sort.
+    Darkness
 - id: 21396
   drk: '{:unk13 A0 00 5A 00}{:unk06 00}{:unk08 01 00 06}Huh?'
 - id: 21397
@@ -2584,24 +2572,16 @@
     presences of those who were slain.
 - id: 21400
   drk: >-
-    {:unk13 68 01 78 00}{:unk06 00}{:unk08 01 01 06}Absent Silhouette?
-
-    Like the title of that book!
+    Darkness
 - id: 21401
   drk: >-
-    {:unk13 A0 00 78 00}{:unk06 00}{:unk08 01 00 05}Exactly, though they come in
-
-    all different shapes and sizes.
+    Darkness
 - id: 21402
   drk: >-
-    {:unk13 AA 00 73 00}{:unk06 00}{:unk08 01 00 05}The item belongs to its owner, who is now
-
-    nothing more than a shadowy presence.
+    Darkness
 - id: 21403
   drk: >-
-    {:unk13 8C 00 8C 00}{:unk06 00}{:unk08 01 01 05}But you can still fight them, of course.{:clear }And as you do, it'll slowly awaken
-
-    the real you.
+    Darkness
 - id: 21404
   drk: '{:unk13 A0 00 32 00}{:unk06 00}{:unk08 01 01 06}What are you talking about?'
 - id: 21405
@@ -2616,9 +2596,7 @@
     An Absent Silhouette.
 - id: 21407
   drk: >-
-    {:unk13 7C 01 C3 00}{:unk06 02}{:unk08 03 01 05}You'll have to save that for later!
-
-    First, we have to rescue Megara!
+    Darkness
 - id: 21408
   drk: "{:unk13 AA 00 41 00}{:unk06 02}{:unk08 03 01 06}Let's go!"
 - id: 21499

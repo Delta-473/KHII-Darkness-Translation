@@ -1,5 +1,5 @@
 ﻿- id: 20233
-  drk: 'Day 1: Twilight Town'
+  drk: 'Day 1: Darkness Town'
 - id: 20234
   drk: Dreams Connected
 - id: 20245
@@ -135,7 +135,7 @@
 - id: 20738
   drk: Independent Study
 - id: 20739
-  drk: Twilight Town's Seven Wonders
+  drk: Darkness Town's Seven Wonders
 - id: 20740
   drk: Seeking Out the Wonders
 - id: 20741
@@ -217,7 +217,7 @@
 - id: 20779
   drk: My Summer Vacation Is Over
 - id: 20780
-  drk: 'Twilight Town: Sora Awakens'
+  drk: 'Darkness Town: Sora Awakens'
 - id: 20781
   drk: A Familiar Face
 - id: 20782
@@ -283,45 +283,45 @@
 - id: 20812
   drk: The Keyblade's Hero
 - id: 20813
-  drk: Beast's Castle Pt. 1
+  drk: Darkness Castle Pt. 1
 - id: 20814
-  drk: The Voice That Echoes
+  drk: Darkness
 - id: 20815
-  drk: The Parlor Ambush
+  drk: Darkness
 - id: 20816
-  drk: Something's Wrong
+  drk: Darkness
 - id: 20817
-  drk: A Familiar Voice
+  drk: Darkness
 - id: 20818
-  drk: Belle's Worries
+  drk: Darkness
 - id: 20819
-  drk: Guardians of the Gate
+  drk: Darkness
 - id: 20820
-  drk: In the Undercroft
+  drk: Darkness
 - id: 20821
-  drk: The Castle's Residents
+  drk: Darkness
 - id: 20822
-  drk: The Hidden Truth
+  drk: Darkness
 - id: 20823
-  drk: Organization {XIII}'s Ploy
+  drk: Darkness
 - id: 20824
-  drk: Beast Comes To
+  drk: Darkness
 - id: 20825
   drk: Damsel in Distress
 - id: 20826
-  drk: Showdown in the Ballroom
+  drk: Darkness
 - id: 20827
   drk: Dark Thorn
 - id: 20828
-  drk: The Heartless's Demise
+  drk: Darkness
 - id: 20829
-  drk: Things Are Just Beginning
+  drk: Darkness
 - id: 20830
-  drk: The Land of Dragons Pt. 1
+  drk: Darkness
 - id: 20831
-  drk: Shan-Yu's Ambition
+  drk: Darkness
 - id: 20832
-  drk: Mushu, an Old Pal
+  drk: Darkness
 - id: 20833
   drk: Enlistment
 - id: 20834
@@ -341,7 +341,7 @@
 - id: 20841
   drk: The Hero Who Saved the Day
 - id: 20842
-  drk: Olympus Coliseum Pt. 1
+  drk: Darkness Coliseum Pt. 1
 - id: 20843
   drk: Hercules
 - id: 20844
@@ -353,13 +353,13 @@
 - id: 20847
   drk: A Strange Shadow
 - id: 20848
-  drk: A Fleeing Member of the Organization
+  drk: Darkness
 - id: 20849
   drk: Hades' Power
 - id: 20850
   drk: Path of the Dead
 - id: 20851
-  drk: Auron, Warrior of the Underworld
+  drk: Darkness
 - id: 20852
   drk: From Hero to Zero
 - id: 20853
@@ -369,7 +369,7 @@
 - id: 20855
   drk: This Is My Underworld
 - id: 20856
-  drk: Cerberus, Guard Dog of the Underworld
+  drk: Darkness
 - id: 20857
   drk: The Great Escape
 - id: 20858
@@ -395,7 +395,7 @@
 - id: 20868
   drk: Hercules vs. Hydra
 - id: 20869
-  drk: Sora and Friends vs. Demyx
+  drk: Darkness
 - id: 20870
   drk: Regained Power
 - id: 20871
@@ -417,7 +417,7 @@
 - id: 20879
   drk: The Aftermath
 - id: 20880
-  drk: 'Disney Castle: A Journey Beyond Time'
+  drk: Darkness
 - id: 20881
   drk: Maleficent's Return
 - id: 20882
@@ -425,19 +425,19 @@
 - id: 20883
   drk: The Queen's Wish
 - id: 20884
-  drk: There's Something Strange Going On
+  drk: Darkness
 - id: 20885
-  drk: Welcome to Disney Castle
+  drk: Darkness
 - id: 20886
-  drk: Queen Minnie
+  drk: Darkness
 - id: 20887
-  drk: The Audience Chamber
+  drk: Darkness
 - id: 20888
-  drk: Heartless? Here?
+  drk: Darkness? Here?
 - id: 20889
-  drk: The Hidden Entrance
+  drk: Darkness
 - id: 20890
-  drk: The Cornerstone of Light
+  drk: Darkness
 - id: 20891
   drk: Speaking with Merlin
 - id: 20892
@@ -491,21 +491,21 @@
 - id: 20916
   drk: Two Petes?
 - id: 20917
-  drk: Sealing the Door of Time
+  drk: Darkness
 - id: 20918
-  drk: Steamboat Willie
+  drk: Darkness
 - id: 20919
-  drk: Back to Their Own World
+  drk: Darkness
 - id: 20920
-  drk: The Castle Is Secure
+  drk: Darkness
 - id: 20921
-  drk: Port Royal Pt. 1
+  drk: Darkness
 - id: 20922
-  drk: View from the Overlook
+  drk: Darkness
 - id: 20923
-  drk: The Undead Pirates
+  drk: Darkness
 - id: 20924
-  drk: The Moonlight's Secret
+  drk: Darkness
 - id: 20925
   drk: Chasing Barbossa
 - id: 20926
@@ -513,13 +513,13 @@
 - id: 20927
   drk: Will's Favor
 - id: 20928
-  drk: Captain Jack Sparrow
+  drk: Darkness
 - id: 20929
-  drk: The Cursed Medallion
+  drk: Darkness
 - id: 20930
   drk: Isla de Muerta
 - id: 20931
-  drk: The Blood Will Be Repaid
+  drk: Darkness
 - id: 20932
   drk: Prepare to Set Sail
 - id: 20933
@@ -583,7 +583,7 @@
 - id: 20962
   drk: Get the Lamp!
 - id: 20963
-  drk: The Sweet Taste of Victory
+  drk: Darkness
 - id: 20964
   drk: The Lamp Entombed
 - id: 20965
@@ -601,19 +601,19 @@
 - id: 20971
   drk: The Professor's Experiment
 - id: 20972
-  drk: The Mayor's Orders
+  drk: Darkness
 - id: 20973
-  drk: Santa's Bodyguards
+  drk: Darkness
 - id: 20974
   drk: An Evil Shadow
 - id: 20975
   drk: Onward!
 - id: 20976
-  drk: The Door to Christmas Town
+  drk: Darkness
 - id: 20977
   drk: Christmas Town
 - id: 20978
-  drk: Heartless Here, There, Everywhere
+  drk: Darkness Here, There, Everywhere
 - id: 20979
   drk: What about Christmas?
 - id: 20980
@@ -623,9 +623,9 @@
 - id: 20982
   drk: Follow the Footprints
 - id: 20983
-  drk: The Mastermind
+  drk: Darkness
 - id: 20984
-  drk: Oogie's Back
+  drk: Darkness
 - id: 20985
   drk: The Trio Flees
 - id: 20986
@@ -643,7 +643,7 @@
 - id: 20992
   drk: Everyone Has a Job to Do
 - id: 20993
-  drk: The Pride Lands Pt. 1
+  drk: The The Darkness Lands Pt. 1
 - id: 20994
   drk: The Tragedy
 - id: 20995
@@ -691,7 +691,7 @@
 - id: 21016
   drk: A New King
 - id: 21017
-  drk: '100 Acre Wood: Together Forever'
+  drk: '100 Acres of Darkness: Together Forever'
 - id: 21018
   drk: To Merlin's Place
 - id: 21019
@@ -699,13 +699,13 @@
 - id: 21020
   drk: Into the Book
 - id: 21021
-  drk: 100 Acre Wood
+  drk: 100 Acres of Darkness
 - id: 21022
   drk: Pooh's House
 - id: 21023
   drk: A Happy Reunion, and Then...
 - id: 21024
-  drk: A Heartless Attack
+  drk: A Darkness Attack
 - id: 21025
   drk: The Stolen Book
 - id: 21026
@@ -767,7 +767,7 @@
 - id: 21054
   drk: I'll Always Be With You
 - id: 21055
-  drk: Atlantica
+  drk: Singing Darkness
 - id: 21056
   drk: Saving the Prince
 - id: 21057
@@ -833,7 +833,7 @@
 - id: 21087
   drk: Our Worlds Are All Connected
 - id: 21088
-  drk: 'Twilight Town: Friendship'
+  drk: 'Darkness Town: Friendship'
 - id: 21089
   drk: Through the Portal
 - id: 21090
@@ -925,7 +925,7 @@
 - id: 21133
   drk: Ansem's True Identity
 - id: 21134
-  drk: The Heartless Invasion
+  drk: The Darkness Invasion
 - id: 21135
   drk: Maleficent Joins the Fray
 - id: 21136
@@ -943,7 +943,7 @@
 - id: 21142
   drk: Yuffie and Aerith in Battle
 - id: 21143
-  drk: Stitch Lends a Hand
+  drk: Darkness 626 Lends a Hand
 - id: 21144
   drk: Gullwings, Go!
 - id: 21145
@@ -979,7 +979,7 @@
 - id: 21160
   drk: A Box of Memories
 - id: 21161
-  drk: Beast's Castle Pt. 2
+  drk: Darkness Castle Pt. 2
 - id: 21162
   drk: Dressing Up
 - id: 21163
@@ -1035,7 +1035,7 @@
 - id: 21188
   drk: The Ultimate Reward
 - id: 21189
-  drk: Olympus Coliseum Pt. 2
+  drk: Darkness Coliseum Pt. 2
 - id: 21190
   drk: Welcome to the Underdrome
 - id: 21191
@@ -1109,7 +1109,7 @@
 - id: 21225
   drk: The Desert Ruins
 - id: 21226
-  drk: Genie Works His Magic
+  drk: Wishes of Darkness Works His Magic
 - id: 21227
   drk: The Magic Carpet
 - id: 21228
@@ -1163,7 +1163,7 @@
 - id: 21252
   drk: Merry Christmas!
 - id: 21253
-  drk: The Pride Lands Pt. 2
+  drk: The The Darkness Lands Pt. 2
 - id: 21254
   drk: The Hyenas' Laughter
 - id: 21255
@@ -1187,15 +1187,15 @@
 - id: 21264
   drk: Leaving the Past Behind
 - id: 21265
-  drk: The Groundshaker Attacks
+  drk: Darkness
 - id: 21266
-  drk: The Giant's Fall
+  drk: Darkness
 - id: 21267
-  drk: The Circle of Life
+  drk: Darkness
 - id: 21268
-  drk: 'Hollow Bastion: The Glittering Garden'
+  drk: Darkness
 - id: 21269
-  drk: More Heartless?
+  drk: More Darkness?
 - id: 21270
   drk: Disappearing Boundaries
 - id: 21271
@@ -1203,7 +1203,7 @@
 - id: 21272
   drk: Meanwhile, in Ansem's Lab
 - id: 21273
-  drk: Creating Heartless
+  drk: Creating Darkness
 - id: 21274
   drk: The Rogue Security System
 - id: 21275
@@ -1215,7 +1215,7 @@
 - id: 21278
   drk: Cyberspace
 - id: 21279
-  drk: The Heartless's Rule
+  drk: The Darkness's Rule
 - id: 21280
   drk: To the Game Grid
 - id: 21281
@@ -1263,39 +1263,39 @@
 - id: 21302
   drk: The Battle
 - id: 21303
-  drk: 'Twilight Town: The Other Town'
+  drk: 'Darkness Town: The Other Town'
 - id: 21304
-  drk: The Photograph
+  drk: Darkness
 - id: 21305
-  drk: Another Twilight Town
+  drk: Another Darkness Town
 - id: 21306
-  drk: Reuniting with the King
+  drk: Darkness
 - id: 21307
-  drk: Entrance into Another World
+  drk: Darkness
 - id: 21308
   drk: The Password Is...
 - id: 21309
   drk: It Worked!
 - id: 21310
-  drk: The Other World
+  drk: Darkness
 - id: 21311
-  drk: Roxas's Twilight Town
+  drk: Roxas's Darkness Town
 - id: 21312
   drk: The Entrance to Darkness
 - id: 21313
   drk: Ambushed
 - id: 21314
-  drk: Axel's Atonement
+  drk: Axel's Darkness
 - id: 21315
-  drk: His Last Words
+  drk: Darkness
 - id: 21316
-  drk: The Final Destination
+  drk: The Final Darkness
 - id: 21317
   drk: Those Who Remain
 - id: 21318
   drk: Where Hearts Go
 - id: 21319
-  drk: The World That Never Was
+  drk: The World of Eternal Darkness
 - id: 21320
   drk: His Awakening
 - id: 21321
@@ -1327,7 +1327,7 @@
 - id: 21334
   drk: On Our Way
 - id: 21335
-  drk: Kingdom Hearts Will Soon Be Ready
+  drk: Darkness
 - id: 21336
   drk: It's You!
 - id: 21337
@@ -1351,7 +1351,7 @@
 - id: 21346
   drk: Farewell
 - id: 21347
-  drk: Waves of Heartless
+  drk: Waves of Darkness
 - id: 21348
   drk: Back to His Old Self
 - id: 21349

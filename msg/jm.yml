@@ -1,25 +1,25 @@
 ﻿- id: 9907
-  drk: Twilight Town
+  drk: Darkness Town
 - id: 9908
   drk: Hollow Bastion
 - id: 9909
   drk: Beast´s Castle
 - id: 9910
-  drk: Olympus Coliseum
+  drk: Darkness Coliseum
 - id: 9911
   drk: Agrabah
 - id: 9912
   drk: The Land Of Dragons
 - id: 9913
-  drk: 100 Acre Wood
+  drk: 100 Acres of Darkness
 - id: 9914
-  drk: Pride Lands
+  drk: The Darkness Lands
 - id: 9915
-  drk: Atlantica
+  drk: Singing Darkness
 - id: 9916
-  drk: Disney Castle
+  drk: Disney Darkness
 - id: 9917
-  drk: Timeless River
+  drk: Timeless Darkness
 - id: 9918
   drk: Halloween Town
 - id: 9919
@@ -27,15 +27,15 @@
 - id: 9920
   drk: Space Paranoids
 - id: 9921
-  drk: The World That Never Was
+  drk: The World of Eternal Darkness
 - id: 9922
   drk: Collection
 - id: 9923
   drk: Other
 - id: 9924
-  drk: Heartless
+  drk: Darkness
 - id: 9925
-  drk: Nobody
+  drk: Shell of Darkness
 - id: 9926
   drk: Radiant Garden
 - id: 10342
@@ -111,7 +111,7 @@
 - id: 10374
   drk: Donald´s Nephews (1938)
 - id: 10375
-  drk: Lilo and Stitch (2002)
+  drk: Lilo and Darkness 626 (2002)
 - id: 10448
   drk: The First Day
 - id: 10449
@@ -151,7 +151,7 @@
 
     We decide to investigate the seven
 
-    wonders of Twilight Town for our
+    wonders of Darkness Town for our
 
     school assignment.
 - id: 10457
@@ -283,7 +283,7 @@
   drk: Set sail for the next world!
 - id: 10488
   drk: >-
-    When we arrived in Twilight Town, we
+    When we arrived in Darkness Town, we
 
     came across Vivi, who was searching
 
@@ -307,7 +307,7 @@
 
     darkness contained a photo of the old
 
-    mansion in Twilight Town. There´s
+    mansion in Darkness Town. There´s
 
     something about that mansion...
 - id: 10493
@@ -318,7 +318,7 @@
 
     this world, that means there are two
 
-    Twilight Towns. Could Kairi be in the
+    Darkness Towns. Could Kairi be in the
 
     other one?
 - id: 10495
@@ -329,7 +329,7 @@
 
     the old mansion appears to be connected
 
-    to the other Twilight Town.
+    to the other Darkness Town.
 - id: 10497
   drk: Look for the computer!
 - id: 10498
@@ -349,12 +349,12 @@
 
     light. This must be the path to the
 
-    other Twilight Town.
+    other Darkness Town.
 - id: 10501
   drk: Touch the beam!
 - id: 10502
   drk: >-
-    We arrived in the other Twilight Town,
+    We arrived in the other Darkness Town,
 
     the one Roxas lived in. There ought to
 
@@ -369,7 +369,7 @@
 
     Bastion. Things are different, but the
 
-    Heartless are loose as usual...
+    Darkness are loose as usual...
 
 - id: 10505
   drk: >+
@@ -427,7 +427,7 @@
 
 - id: 10514
   drk: >+
-    The Heartless have torn the book´s
+    The Darkness have torn the book´s
 
     pages out, and Pooh´s lost his memory.
 
@@ -463,7 +463,7 @@
   drk: >+
     Sora and his friends managed to save
 
-    Disney Castle from impending danger.
+    Disney Darkness from impending danger.
 
 - id: 10521
   drk: >+
@@ -473,7 +473,7 @@
   drk: >+
     The party´s return to Hollow Bastion is
 
-    met by increasing numbers of Heartless
+    met by increasing numbers of Darkness
 
     and Nobodies. Time to find Leon.
 
@@ -601,7 +601,7 @@
 
 - id: 10550
   drk: >+
-    Outside, Heartless and Nobodies pour
+    Outside, Darkness and Nobodies pour
 
     into the town. Leon and the others in
 
@@ -615,7 +615,7 @@
   drk: >+
     Leon and the others stand against
 
-    the Heartless and Nobodies. Sora´s
+    the Darkness and Nobodies. Sora´s
 
     team hurried after the King.
 
@@ -639,7 +639,7 @@
   drk: >+
     Organization {XIII}´s goal is to defeat
 
-    Heartless with the Keyblade. Speculation
+    Darkness with the Keyblade. Speculation
 
     runs wild, but the battle is over for now.
 
@@ -671,7 +671,7 @@
   drk: >+
     The MCP hijacked the computer system
 
-    and sent Heartless after Heartless into
+    and sent Darkness after Darkness into
 
     the town. Sora´s team decides to go see
 
@@ -791,7 +791,7 @@
   drk: >+
     The Beast´s attitude seems to be due
 
-    to the Heartless. A secret passage
+    to the Darkness. A secret passage
 
     leads toward his chamber.
 
@@ -941,7 +941,7 @@
 
     outside the Coliseum and spot
 
-    Heartless closing in on a woman.
+    Darkness closing in on a woman.
 
 - id: 10613
   drk: >+
@@ -1400,7 +1400,7 @@
 
 - id: 10690
   drk: >+
-    Genie´s magic lets Sora and friends pass
+    Wishes of Darkness´s magic lets Sora and friends pass
 
     through a sandstorm on their way to the
 
@@ -1426,7 +1426,7 @@
   drk: >+
     They defeat the gigantic Jafar, and
 
-    Genie restores the battle-scarred town
+    Wishes of Darkness restores the battle-scarred town
 
     to its former, peaceful self.
 
@@ -1490,7 +1490,7 @@
 
 - id: 10706
   drk: >+
-    A swarm of Heartless waited inside
+    A swarm of Darkness waited inside
 
     the cave, but Ping and the party
 
@@ -1540,7 +1540,7 @@
   drk: >+
     Shan-Yu disappears into the palace. The
 
-    Heartless in the courtyard are defeated,
+    Darkness in the courtyard are defeated,
 
     but the Emperor´s in danger!
 
@@ -1608,13 +1608,13 @@
   drk: >+
     Halfway down the mountain, they spot a
 
-    giant Heartless--and it´s headed for
+    giant Darkness--and it´s headed for
 
     the Imperial City!
 
 - id: 10727
   drk: >+
-    Follow the Heartless to the Imperial City!
+    Follow the Darkness to the Imperial City!
 
 - id: 10728
   drk: >2+
@@ -1626,7 +1626,7 @@
 
 - id: 10730
   drk: >+
-    The party defeats the Heartless in their
+    The party defeats the Darkness in their
 
     path and hurries onward to the palace
 
@@ -1728,7 +1728,7 @@
 
 - id: 10748
   drk: >+
-    The pages the Heartless had torn out
+    The pages the Darkness had torn out
 
     had made Pooh lose his memory. Sora
 
@@ -1742,7 +1742,7 @@
   drk: >+
     All this trouble was due to the pages
 
-    the Heartless had torn out.
+    the Darkness had torn out.
 
 - id: 10751
   drk: >+
@@ -1961,7 +1961,7 @@
   drk: >-
     The party protects the lioness, Nala,
 
-    from the Heartless and agrees to
+    from the Darkness and agrees to
 
     help restore her homeland.
 - id: 10791
@@ -1970,7 +1970,7 @@
   drk: >-
     The shaman, Rafiki, said the one to save
 
-    the Pride Lands would be king--so it
+    the The Darkness Lands would be king--so it
 
     couldn't be Sora.
 - id: 10793
@@ -2049,13 +2049,13 @@
   drk: –––
 - id: 10810
   drk: >+
-    Simba is king of the Pride Lands. How is
+    Simba is king of the The Darkness Lands. How is
 
     the kingdom faring under its new ruler?
 
 - id: 10811
   drk: >+
-    Onward to the Pride Lands!
+    Onward to the The Darkness Lands!
 
 - id: 10812
   drk: >+
@@ -2153,7 +2153,7 @@
   drk: >+
     Simba drove out the ghosts and saved
 
-    Nala. Peace reigned over the Pride Lands
+    Nala. Peace reigned over the The Darkness Lands
 
     once again.
 
@@ -2161,7 +2161,7 @@
   drk: –––
 - id: 10830
   drk: >+
-    Sora´s come to Atlantica just in time to
+    Sora´s come to Singing Darkness just in time to
 
     take part in a musical. Better practice!
 
@@ -2189,7 +2189,7 @@
 
 - id: 10835
   drk: >+
-    See Flounder when you have Magnet!
+    See Flounder when you have Dark Pulse!
 
 - id: 10836
   drk: >+
@@ -2213,7 +2213,7 @@
 
 - id: 10839
   drk: >+
-    See Ariel when you have Magnera!
+    See Ariel when you have Darker Pulse!
 
 - id: 10840
   drk: >+
@@ -2237,7 +2237,7 @@
 
 - id: 10843
   drk: >+
-    See Sebastian when you have Thundaga!
+    See Sebastian when you have Darkest Bolt!
 
 - id: 10844
   drk: >+
@@ -2263,7 +2263,7 @@
   drk: >+
     The peaceful castle was overrun with
 
-    Heartless. Queen Minnie and Sora
+    Darkness. Queen Minnie and Sora
 
     head for the audience chamber.
 
@@ -2337,11 +2337,11 @@
 
     through a strange window to see
 
-    Heartless in four different places.
+    Darkness in four different places.
 
 - id: 10861
   drk: >+
-    Defeat the Heartless in the windows!
+    Defeat the Darkness in the windows!
 
 - id: 10862
   drk: >+
@@ -2351,7 +2351,7 @@
 
 - id: 10863
   drk: >+
-    Three more groups of Heartless to go!
+    Three more groups of Darkness to go!
 
 - id: 10864
   drk: >+
@@ -2363,7 +2363,7 @@
 
 - id: 10865
   drk: >+
-    Two more groups of Heartless to go!
+    Two more groups of Darkness to go!
 
 - id: 10866
   drk: >+
@@ -2375,7 +2375,7 @@
 
 - id: 10867
   drk: >+
-    One more group of Heartless to go!
+    One more group of Darkness to go!
 
 - id: 10868
   drk: >+
@@ -2441,11 +2441,11 @@
 
     Sally´s feeling of dread. Just then,
 
-    Heartless appear in the town square.
+    Darkness appear in the town square.
 
 - id: 10879
   drk: >+
-    Clear the Heartless from the square!
+    Clear the Darkness from the square!
 
 - id: 10880
   drk: >+
@@ -2473,7 +2473,7 @@
 
 - id: 10884
   drk: >+
-    There are Heartless in Christmas Town
+    There are Darkness in Christmas Town
 
     too! Sora and company fight as one to
 
@@ -2615,7 +2615,7 @@
 
     presents. Sally shows up to say that
 
-    Heartless were in the town square.
+    Darkness were in the town square.
 
 - id: 10911
   drk: >+
@@ -3253,15 +3253,15 @@
 
     who served her now. He was gathering an
 
-    army of Heartless and had his eye on
+    army of Darkness and had his eye on
 
-    making a Heartless out of the King´s
+    making a Darkness out of the King´s
 
     teacher, Master Yen Sid.
 
 - id: 11009
   drk: >+
-    The tower was overflowing with Heartless.
+    The tower was overflowing with Darkness.
 
     Master Yen Sid was waiting for Sora and
 
@@ -3283,7 +3283,7 @@
 
     empty shells left behind when someone
 
-    with a strong heart became a Heartless,
+    with a strong heart became a Darkness,
 
     yet they had purpose and will they
 
@@ -3333,7 +3333,7 @@
 
     appear one after the other, connecting
 
-    the worlds once more. Yes, everything
+    the worlds More Darkness. Yes, everything
 
     is connected, even hearts that are far
 
@@ -3343,7 +3343,7 @@
 
 - id: 11016
   drk: >+
-    They arrived in Twilight Town again to
+    They arrived in Darkness Town again to
 
     find Vivi desperately searching for help.
 
@@ -3361,7 +3361,7 @@
 
     Axel had gone AWOL and was aiming to
 
-    turn Sora into a Heartless. He then
+    turn Sora into a Darkness. He then
 
     made a fleeting remark about Riku before
 
@@ -3383,7 +3383,7 @@
 
     held some ice cream and photos of the
 
-    old mansion in Twilight Town.
+    old mansion in Darkness Town.
 
 - id: 11019
   drk: >+
@@ -3393,11 +3393,11 @@
 
     and his friends recovering after being
 
-    attacked by Heartless. Olette said they
+    attacked by Darkness. Olette said they
 
     thought the old mansion was some kind of
 
-    gateway to an alternate Twilight Town.
+    gateway to an alternate Darkness Town.
 
     "What do you mean, alternate?" For
 
@@ -3409,7 +3409,7 @@
 
     supposedly been one of a kind. This
 
-    proved that there was a Twilight Town
+    proved that there was a Darkness Town
 
     "out there" that closely resembled the
 
@@ -3419,7 +3419,7 @@
 
     went!" said Pence. If Kairi had
 
-    disappeared from this Twilight Town...
+    disappeared from this Darkness Town...
 
     could she be waiting in the other one?
 
@@ -3467,13 +3467,13 @@
 
     a beam of light. The road to the other
 
-    Twilight Town had been opened.
+    Darkness Town had been opened.
 
 - id: 11023
   drk: >+
     Sora and his friends arrived in the
 
-    other Twilight Town and joined the King
+    other Darkness Town and joined the King
 
     in his search for a way into the dark
 
@@ -3491,7 +3491,7 @@
   drk: >+
     While wandering through a town still
 
-    plagued by Heartless, we were reunited
+    plagued by Darkness, we were reunited
 
     with Yuffie.
 
@@ -3511,7 +3511,7 @@
 
 - id: 11027
   drk: >+
-    In Villain´s Vale the Heartless were
+    In Villain´s Vale the Darkness were
 
     swarming, as Nobodies darted about.
 
@@ -3521,7 +3521,7 @@
 
     mocking Sora with puzzling words. But
 
-    with no time to reflect on this, the
+    with no time to Dark Return on this, the
 
     Keyblade shone, opening the way to
 
@@ -3539,7 +3539,7 @@
 
 - id: 11029
   drk: >+
-    But the Heartless tore out the pages,
+    But the Darkness tore out the pages,
 
     and Pooh´s memories with them. To
 
@@ -3549,7 +3549,7 @@
 
 - id: 11030
   drk: >+
-    Thorns had appeared in Disney Castle.
+    Thorns had appeared in Disney Darkness.
 
     If we didn´t hurry, it would fall to
 
@@ -3559,7 +3559,7 @@
   drk: >+
     With Merlin´s assistance, we found
 
-    out a way to save Disney Castle.
+    out a way to save Disney Darkness.
 
 - id: 11032
   drk: >+
@@ -3571,7 +3571,7 @@
 
 - id: 11033
   drk: >+
-    The Heartless and Nobodies in Hollow
+    The Darkness and Nobodies in Hollow
 
     Bastion continued to grow in number.
 
@@ -3671,9 +3671,9 @@
 
     knew! The Ansem we knew was just the
 
-    Heartless of someone who was pretending
+    Darkness of someone who was pretending
 
-    to be Ansem, and the Nobody of that same
+    to be Ansem, and the Shell of Darkness of that same
 
     guy was the leader of Organization {XIII}.
 
@@ -3687,7 +3687,7 @@
 
 - id: 11047
   drk: >+
-    Outside, the Heartless and Nobodies
+    Outside, the Darkness and Nobodies
 
     were swarming into the town.
 
@@ -3725,7 +3725,7 @@
 
     was using him. Lost for answers,
 
-    Sora was surrounded by Heartless--
+    Sora was surrounded by Darkness--
 
     and then a ray of light appeared...
 
@@ -3747,7 +3747,7 @@
   drk: >+
     The MCP hijacked the computer system
 
-    and sent Heartless after Heartless
+    and sent Darkness after Darkness
 
     into the town.
 
@@ -3843,13 +3843,13 @@
   drk: >+
     Having served the Beast for many
 
-    years, they believed Heartless had
+    years, they believed Darkness had
 
     caused the change in his demeanor.
 
     We stepped up to the plate at the
 
-    first mention of Heartless.
+    first mention of Darkness.
 
 - id: 11066
   drk: >+
@@ -3897,7 +3897,7 @@
 
 - id: 11071
   drk: >+
-    We fought the Heartless that had
+    We fought the Darkness that had
 
     come after Belle. She was unharmed,
 
@@ -3989,7 +3989,7 @@
   drk: >+
     We arrived a short distance from the
 
-    Coliseum and spotted Heartless closing
+    Coliseum and spotted Darkness closing
 
     in on a woman.
 
@@ -4345,7 +4345,7 @@
 
 - id: 11114
   drk: >+
-    Pete conjured up some Heartless
+    Pete conjured up some Darkness
 
     to nab the lamp, but they were no
 
@@ -4375,7 +4375,7 @@
   drk: >+
     Iago led us to an oasis. A sandstorm
 
-    blocked our way, but Genie´s magic
+    blocked our way, but Wishes of Darkness´s magic
 
     helped us get through and continue
 
@@ -4399,9 +4399,9 @@
 
     an end to Jafar´s evil ambitions.
 
-    Genie restored the battle-scarred
+    Wishes of Darkness restored the battle-scarred
 
-    town, and peace returned once more.
+    town, and peace returned More Darkness.
 
 - id: 11120
   drk: >2+
@@ -4413,7 +4413,7 @@
 
     spotted what looked like a huge
 
-    Heartless nearby. It turned out to
+    Darkness nearby. It turned out to
 
     be Mushu, who had journeyed with
 
@@ -4469,7 +4469,7 @@
 
     Shan-Yu, but he was gone. We cleared
 
-    out a swarm of Heartless who had
+    out a swarm of Darkness who had
 
     appeared in the cave instead.
 
@@ -4493,7 +4493,7 @@
 
     an ace strategy for defeating both
 
-    Shan-Yu and his Heartless hordes,
+    Shan-Yu and his Darkness hordes,
 
     but she was revealed to be a woman
 
@@ -4559,7 +4559,7 @@
 
     be Riku? He ran away before Sora
 
-    could find out. A giant Heartless
+    could find out. A giant Darkness
 
     showed up instead, and it was
 
@@ -4613,7 +4613,7 @@
 
 - id: 11141
   drk: >+
-    The giant Heartless we saw on the
+    The giant Darkness we saw on the
 
     summit had arrived. We all worked
 
@@ -4651,7 +4651,7 @@
 
     which was about to be stolen by
 
-    Heartless. Sora got it back and went
+    Darkness. Sora got it back and went
 
     inside, only to find that Pooh´s
 
@@ -4667,7 +4667,7 @@
   drk: >+
     But something was wrong. The pages
 
-    the Heartless had torn out had
+    the Darkness had torn out had
 
     affected Pooh´s memory. He could
 
@@ -4861,7 +4861,7 @@
   drk: >+
     Then they met Nala, a lioness cornered
 
-    by Heartless. She told us about the sad
+    by Darkness. She told us about the sad
 
     state of her homeland, and Sora agreed
 
@@ -4871,7 +4871,7 @@
   drk: >+
     But according to the shaman, Rafiki,
 
-    whoever saved the Pride Lands would
+    whoever saved the The Darkness Lands would
 
     be king. Sora just wasn't qualified.
 
@@ -4917,7 +4917,7 @@
   drk: >+
     Nala asked him to come back to the
 
-    Pride Lands, but Simba declined,
+    The Darkness Lands, but Simba declined,
 
     saying it was better to forget the
 
@@ -4961,7 +4961,7 @@
 
 - id: 11177
   drk: >+
-    Simba is king of the Pride Lands.
+    Simba is king of the The Darkness Lands.
 
 - id: 11178
   drk: >2+
@@ -5047,9 +5047,9 @@
   drk: >+
     Simba rescued Nala from the hands
 
-    of a giant Heartless, and peace
+    of a giant Darkness, and peace
 
-    reigned over the Pride Lands once
+    reigned over the The Darkness Lands once
 
     again.
 
@@ -5057,7 +5057,7 @@
   drk: >+
     Sora and friends paid a visit to
 
-    Atlantica, the kingdom under the sea,
+    Singing Darkness, the kingdom under the sea,
 
     and got to see Ariel again.
 
@@ -5151,13 +5151,13 @@
 
 - id: 11195
   drk: >+
-    We stopped by Disney Castle, but
+    We stopped by Disney Darkness, but
 
     something wasn´t quite right.
 
 - id: 11196
   drk: >+
-    Heartless had appeared in the peaceful
+    Darkness had appeared in the peaceful
 
     castle. We got the specifics from
 
@@ -5171,7 +5171,7 @@
 
     the audience chamber, mowing down
 
-    Heartless along the way.
+    Darkness along the way.
 
 - id: 11198
   drk: >+
@@ -5327,7 +5327,7 @@
 
 - id: 11212
   drk: >+
-    Just then, Heartless appeared in
+    Just then, Darkness appeared in
 
     town. "How is Santa supposed to
 
@@ -5347,7 +5347,7 @@
 
 - id: 11214
   drk: >+
-    But there were Heartless here, too.
+    But there were Darkness here, too.
 
     We fought as one and made our way
 
@@ -5461,7 +5461,7 @@
 
     parts for the doctor´s experiment.
 
-    Sally arrived and said Heartless had
+    Sally arrived and said Darkness had
 
     appeared in the town square. Could
 
@@ -5473,7 +5473,7 @@
 
 - id: 11229
   drk: >+
-    The Heartless didn´t steal any presents.
+    The Darkness didn´t steal any presents.
 
     And now the doctor´s experiment had
 
@@ -5649,7 +5649,7 @@
 
     again, and Jack set sail on the Pearl
 
-    once more.
+    More Darkness.
 
 - id: 11244
   drk: >+
@@ -5947,7 +5947,7 @@
   drk: Kairi Arrives
 - id: 11277
   drk: >-
-    Kairi arrived in Twilight Town in her
+    Kairi arrived in Darkness Town in her
 
     search for Sora
 - id: 11278
@@ -5963,7 +5963,7 @@
   drk: >-
     Sora and friends had traveled to an
 
-    alternate Twilight Town
+    alternate Darkness Town
 - id: 11282
   drk: Into the Darkness
 - id: 11283
@@ -6007,7 +6007,7 @@
   drk: Battle Royale
 - id: 11295
   drk: >-
-    Swarms of Heartless and Nobodies
+    Swarms of Darkness and Nobodies
 
     descended on Hollow Bastion
 - id: 11296
@@ -6018,12 +6018,12 @@
 
     of a fierce battle
 - id: 11298
-  drk: Heartless Again
+  drk: Darkness Again
 - id: 11299
   drk: >-
     The once peaceful town was invaded
 
-    by Heartless yet again
+    by Darkness yet again
 - id: 11300
   drk: Its True Name
 - id: 11301
@@ -6053,7 +6053,7 @@
   drk: Ballroom Battle
 - id: 11309
   drk: >-
-    Sora and friends fought the Heartless
+    Sora and friends fought the Darkness
 
     attacking Belle in the ballroom
 - id: 11310
@@ -6190,7 +6190,7 @@
   drk: Working His Magic
 - id: 11349
   drk: >-
-    Genie restores Agrabah after the
+    Wishes of Darkness restores Agrabah after the
 
     destructive battle with Jafar
 - id: 11350
@@ -6232,7 +6232,7 @@
   drk: The Earth Shakes
 - id: 11361
   drk: >-
-    The Heartless that emerged from
+    The Darkness that emerged from
 
     Tung-Shao flew toward the city
 - id: 11362
@@ -6253,7 +6253,7 @@
   drk: Memories Lost
 - id: 11367
   drk: >-
-    The Heartless tore up the storybook
+    The Darkness tore up the storybook
 
     and now Pooh can´t remember a thing
 - id: 11368
@@ -6319,10 +6319,10 @@
 
     sea come together at last
 - id: 11390
-  drk: Disney Castle
+  drk: Disney Darkness
 - id: 11391
   drk: >-
-    Sora arrives at Disney Castle, guided
+    Sora arrives at Disney Darkness, guided
 
     by Queen Minnie´s fervent wish
 - id: 11392
@@ -6345,7 +6345,7 @@
   drk: >-
     By protecting the Cornerstone in the past,
 
-    the castle grew peaceful once more
+    the castle grew peaceful More Darkness
 - id: 11398
   drk: Pete?
 - id: 11399
@@ -6357,7 +6357,7 @@
   drk: The King?
 - id: 11401
   drk: >-
-    Sora and friends fought the Heartless
+    Sora and friends fought the Darkness
 
     and rescued the King of the past
 - id: 11402
@@ -6471,7 +6471,7 @@
   drk: >-
     Luxord of Organization {XIII} sees his
 
-    chance to call a Heartless
+    chance to call a Darkness
 - id: 11434
   drk: To Port Royal
 - id: 11435
@@ -6518,7 +6518,7 @@
   drk: MCP Runs Amok
 - id: 11447
   drk: >-
-    The MCP churned out Heartless to
+    The MCP churned out Darkness to
 
     invade the real-life town
 - id: 11448
@@ -6585,7 +6585,7 @@
 
     strengthened resolve, Sora has
 
-    set out once more on a search
+    set out More Darkness on a search
 
     for his friend Riku.
 - id: 11456
@@ -6786,7 +6786,7 @@
 
     whenever people strong of heart
 
-    and mind become Heartless. The
+    and mind become Darkness. The
 
     empty shell they leave behind
 
@@ -7031,7 +7031,7 @@
 
     return home.
 - id: 11500
-  drk: Stitch
+  drk: Darkness 626
 - id: 11501
   drk: >-
     A strange visitor from a distant
@@ -7039,7 +7039,7 @@
     planet.
 
 
-    Stitch is very strong for his
+    Darkness 626 is very strong for his
 
     small size and prone to mischief. 
 
@@ -7048,11 +7048,11 @@
 
     Sora whenever Sora needs him.
 - id: 11502
-  drk: Genie
+  drk: Wishes of Darkness
 - id: 11503
   drk: ''
 - id: 11504
-  drk: Peter Pan
+  drk: Pan of Darkness
 - id: 11505
   drk: >-
     The boy who can fly. He´s from
@@ -7064,7 +7064,7 @@
 
     Not long ago, Peter helped Sora and
 
-    the others defeat the Heartless.
+    the others defeat the Darkness.
 
 
     During this new adventure, Peter
@@ -7073,10 +7073,10 @@
 
     Sora out once again.
 - id: 11506
-  drk: Chicken Little
+  drk: Darkness Little
 - id: 11507
   drk: >-
-    Chicken Little has more pluck and
+    Darkness Little has more pluck and
 
     heart than most boys twice his
 
@@ -7119,7 +7119,7 @@
 
     assembling an army of
 
-    Heartless for Maleficent.
+    Darkness for Maleficent.
 
     It´s pretty certain that the
 
@@ -7136,7 +7136,7 @@
 
     In the last adventure, she
 
-    controlled the Heartless and led
+    controlled the Darkness and led
 
     a group that was trying to
 
@@ -7220,7 +7220,7 @@
   drk: King Mickey
 - id: 11521
   drk: >-
-    The king of Disney Castle. It´s
+    The king of Disney Darkness. It´s
 
     been a while since he set off
 
@@ -7233,7 +7233,7 @@
 
     behind in the realm of darkness
 
-    to keep the Heartless from
+    to keep the Darkness from
 
     escaping again.
 
@@ -7247,7 +7247,7 @@
   drk: King Mickey
 - id: 11523
   drk: >-
-    The king of Disney Castle. He was
+    The king of Disney Darkness. He was
 
     the first to realize what a threat
 
@@ -7255,7 +7255,7 @@
 
     to act. King Mickey travels across
 
-    the worlds, battling the Heartless
+    the worlds, battling the Darkness
 
     and searching for an answer to the
 
@@ -7296,7 +7296,7 @@
 
     With renewed resolve, Sora sets
 
-    out for adventure once more.
+    out for adventure More Darkness.
 - id: 11528
   drk: Donald Duck
 - id: 11529
@@ -7341,7 +7341,7 @@
   drk: Roxas
 - id: 11533
   drk: >-
-    A boy who lived in Twilight Town
+    A boy who lived in Darkness Town
 
     and saw Sora´s memories in
 
@@ -7369,7 +7369,7 @@
   drk: Hayner
 - id: 11539
   drk: >-
-    A boy who lives in Twilight Town
+    A boy who lives in Darkness Town
 
     who has a bit of an attitude
 
@@ -7391,7 +7391,7 @@
   drk: Pence
 - id: 11541
   drk: >-
-    A boy who lives in Twilight Town.
+    A boy who lives in Darkness Town.
 
     He hangs out with Hayner (their
 
@@ -7420,7 +7420,7 @@
   drk: Olette
 - id: 11543
   drk: >-
-    A girl who lives in Twilight Town.
+    A girl who lives in Darkness Town.
 
     She spends most of her time with
 
@@ -7522,7 +7522,7 @@
   drk: Vivi
 - id: 11553
   drk: >-
-    A boy who lives in Twilight Town.
+    A boy who lives in Darkness Town.
 
     It´s not so much that he follows
 
@@ -7640,7 +7640,7 @@
 
     battle here against Maleficent,
 
-    whose Heartless filled the castle
+    whose Darkness filled the castle
 
     corridors.
 - id: 11564
@@ -7662,7 +7662,7 @@
 
     great battle here against
 
-    Maleficent, whose Heartless
+    Maleficent, whose Darkness
 
     filled the castle corridors.
 - id: 11566
@@ -7684,7 +7684,7 @@
 
     a great battle here against
 
-    Maleficent, whose Heartless
+    Maleficent, whose Darkness
 
     filled the castle corridors.
 - id: 11568
@@ -7693,7 +7693,7 @@
   drk: >-
     Donald´s uncle. Before the
 
-    Heartless appeared, he was
+    Darkness appeared, he was
 
     using the Gummi Ship to travel
 
@@ -7835,7 +7835,7 @@
 
     past self--the man who stood
 
-    helpless as Heartless invaded
+    helpless as Darkness invaded
 
     his home.
 
@@ -7958,7 +7958,7 @@
 
     Thanks to his help last time,
 
-    the Heartless were ousted and
+    the Darkness were ousted and
 
     she got to come home--so she´s
 
@@ -8036,7 +8036,7 @@
   drk: >-
     The hero of the Keyblade who
 
-    fights against the Heartless and
+    fights against the Darkness and
 
     the Nobodies. His journey in
 
@@ -8059,7 +8059,7 @@
     The Royal Court Magician.
 
 
-    Donald left Disney Castle in the
+    Donald left Disney Darkness in the
 
     Gummi Ship to search for King
 
@@ -8080,7 +8080,7 @@
     Captain of the Royal Knights.
 
 
-    Goofy left Disney Castle in the
+    Goofy left Disney Darkness in the
 
     Gummi Ship to search for King
 
@@ -8190,7 +8190,7 @@
 
     and to Sora for saving her after
 
-    she was kidnapped by the Heartless.
+    she was kidnapped by the Darkness.
 - id: 11612
   drk: Belle
 - id: 11613
@@ -8558,7 +8558,7 @@
 
     tangled with Hades, he was using
 
-    the Heartless to try to take over
+    the Darkness to try to take over
 
     the world. Together with Hercules,
 
@@ -8629,7 +8629,7 @@
   drk: >-
     The hero of the Keyblade who
 
-    fights against the Heartless and
+    fights against the Darkness and
 
     the Nobodies. His journey in search
 
@@ -8687,7 +8687,7 @@
 
     Sora and his friends helped Aladdin
 
-    defeat Jafar and free Genie from
+    defeat Jafar and free Wishes of Darkness from
 
     the lamp.
 
@@ -8717,7 +8717,7 @@
 
     Carpet is an old friend of
 
-    Genie´s. Ever since Aladdin
+    Wishes of Darkness´s. Ever since Aladdin
 
     found him in the Cave of
 
@@ -8795,16 +8795,16 @@
 
     for saving her city from Jafar.
 - id: 11674
-  drk: Genie
+  drk: Wishes of Darkness
 - id: 11675
   drk: >-
-    Genie spent ten thousand
+    Wishes of Darkness spent ten thousand
 
     years stuck inside the
 
     magic lamp until Aladdin
 
-    found him. After Genie
+    found him. After Wishes of Darkness
 
     helped Aladdin defeat
 
@@ -8812,10 +8812,10 @@
 
     third and final wish to
 
-    set Genie free.
+    set Wishes of Darkness free.
 
 
-    For Genie, it´s a dream
+    For Wishes of Darkness, it´s a dream
 
     come true. Instead of being
 
@@ -8828,7 +8828,7 @@
   drk: Jafar
 - id: 11677
   drk: >-
-    Before he became an evil genie,
+    Before he became an evil Wishes of Darkness,
 
     Jafar was the Sultan´s royal
 
@@ -8839,13 +8839,13 @@
 
     Jafar was trying to use the
 
-    Heartless to take over the city.
+    Darkness to take over the city.
 
     He even got control of Aladdin´s
 
-    pal Genie and wished to become a
+    pal Wishes of Darkness and wished to become a
 
-    powerful genie himself. Aladdin,
+    powerful Wishes of Darkness himself. Aladdin,
 
     Sora, and his friends joined
 
@@ -8862,7 +8862,7 @@
 
     wish to become an all-
 
-    powerful genie. He was
+    powerful Wishes of Darkness. He was
 
     imprisoned in the lamp, but
 
@@ -8879,7 +8879,7 @@
 
     but Sora and his friends defeated
 
-    him once more.
+    him More Darkness.
 - id: 11680
   drk: The Peddler
 - id: 11681
@@ -8897,7 +8897,7 @@
   drk: >-
     The hero of the Keyblade who
 
-    fights against the Heartless and
+    fights against the Darkness and
 
     the Nobodies.
 
@@ -8913,7 +8913,7 @@
   drk: >-
     The Royal Court Magician. He left
 
-    Disney Castle on a journey to
+    Disney Darkness on a journey to
 
     find the King, who had disappeared.
 
@@ -8929,7 +8929,7 @@
   drk: >-
     Captain of the Royal Knights. He
 
-    left Disney Castle on a journey
+    left Disney Darkness on a journey
 
     to find the King, who had
 
@@ -9119,7 +9119,7 @@
 
     Now Shan-Yu plans to use
 
-    the Heartless to invade
+    the Darkness to invade
 
     the Empire.
 
@@ -9359,7 +9359,7 @@
   drk: Pete
 - id: 11739
   drk: >-
-    Pete´s using the Heartless to
+    Pete´s using the Darkness to
 
     get control over all the worlds.
 
@@ -9377,7 +9377,7 @@
 
     grew up to succeed his father
 
-    and rule the Pride Lands.
+    and rule the The Darkness Lands.
 
 
     As a young cub, Simba mistakenly
@@ -9386,7 +9386,7 @@
 
     his father´s death. He left
 
-    the Pride Lands and met two
+    the The Darkness Lands and met two
 
     new friends: Timon and Pumbaa.
 
@@ -9458,7 +9458,7 @@
 
     lioness. She´s searching for
 
-    help to save the Pride Lands,
+    help to save the The Darkness Lands,
 
     which have fallen into a terrible
 
@@ -9467,7 +9467,7 @@
   drk: Mufasa
 - id: 11753
   drk: >-
-    A great king of the Pride Lands
+    A great king of the The Darkness Lands
 
     who was loved by all the animals
 
@@ -9520,7 +9520,7 @@
 
     do his dirty work. Scar hasn´t
 
-    taken care of the Pride Lands,
+    taken care of the The Darkness Lands,
 
     and almost all the animals have
 
@@ -9575,7 +9575,7 @@
 
     In his previous travels, Sora
 
-    defended Atlantica when Ursula
+    defended Singing Darkness when Ursula
 
     tried to take the Trident.
 - id: 11770
@@ -9595,7 +9595,7 @@
 
     and his friends helped to defend
 
-    Atlantica from Ursula, the sea witch.
+    Singing Darkness from Ursula, the sea witch.
 - id: 11772
   drk: Goofy
 - id: 11773
@@ -9613,14 +9613,14 @@
 
     and his friends helped to defend
 
-    Atlantica from Ursula, the sea witch.
+    Singing Darkness from Ursula, the sea witch.
 - id: 11774
   drk: Ariel
 - id: 11775
   drk: >-
     The seventh daughter of Triton,
 
-    king of Atlantica. Ariel has the
+    king of Singing Darkness. Ariel has the
 
     most beautiful singing voice of
 
@@ -9639,14 +9639,14 @@
 
     helped her the last time Ursula
 
-    tried to take over Atlantica.
+    tried to take over Singing Darkness.
 - id: 11776
   drk: Ariel
 - id: 11777
   drk: >-
     The seventh daughter of Triton,
 
-    king of Atlantica. She made a
+    king of Singing Darkness. She made a
 
     deal with Ursula to become a
 
@@ -9668,7 +9668,7 @@
   drk: >-
     The Sea King who rules
 
-    Atlantica; the trident is the
+    Singing Darkness; the trident is the
 
     symbol of his power. Triton
 
@@ -9687,7 +9687,7 @@
   drk: King Triton
 - id: 11781
   drk: >-
-    The Sea King who rules Atlantica.
+    The Sea King who rules Singing Darkness.
 
     At least, he used to--until
 
@@ -9831,7 +9831,7 @@
 
     to get rid of King Triton
 
-    and take over Atlantica.
+    and take over Singing Darkness.
 
     Sora, Donald, and Goofy
 
@@ -9852,7 +9852,7 @@
   drk: >-
     The hero of the Keyblade, a boy
 
-    who fights against the Heartless
+    who fights against the Darkness
 
     and the Nobodies as he continues
 
@@ -9863,7 +9863,7 @@
     where Riku is.
 
 
-    Sora came to Disney Castle in
+    Sora came to Disney Darkness in
 
     response to Queen Minnie´s wish.
 - id: 11798
@@ -9879,7 +9879,7 @@
 
     he disappeared. That´s when Donald
 
-    left Disney Castle on this long
+    left Disney Darkness on this long
 
     journey.
 
@@ -9888,7 +9888,7 @@
 
     with the King and for them to
 
-    return to Disney Castle together.
+    return to Disney Darkness together.
 - id: 11800
   drk: Goofy
 - id: 11801
@@ -9900,7 +9900,7 @@
 
     he disappeared is the reason why
 
-    Goofy left Disney Castle on this
+    Goofy left Disney Darkness on this
 
     long journey.
 
@@ -9909,12 +9909,12 @@
 
     with the King and for them to
 
-    return to Disney Castle together.
+    return to Disney Darkness together.
 - id: 11802
   drk: Queen Minnie
 - id: 11803
   drk: >-
-    Queen of Disney Castle.
+    Queen of Disney Darkness.
 
 
     She is ruling in Mickey´s
@@ -9939,7 +9939,7 @@
   drk: >-
     A lady-in-waiting to Queen
 
-    Minnie at Disney Castle and
+    Minnie at Disney Darkness and
 
     Donald´s girlfriend.
 
@@ -10031,7 +10031,7 @@
     the road before him.
 
 
-    To save Disney Castle from a
+    To save Disney Darkness from a
 
     thorny fate, Sora passed through
 
@@ -10045,7 +10045,7 @@
     The Royal Court Magician.
 
 
-    To save Disney Castle, Donald
+    To save Disney Darkness, Donald
 
     went through a doorway Merlin
 
@@ -10061,7 +10061,7 @@
     Captain of the Royal Knights.
 
 
-    To save Disney Castle, Goofy
+    To save Disney Darkness, Goofy
 
     went through a doorway Merlin
 
@@ -10083,13 +10083,13 @@
 
     As part of Maleficent´s scheme
 
-    to take over Disney Castle,
+    to take over Disney Darkness,
 
     Pete plans to destroy the
 
     Cornerstone of Light. Without
 
-    the Cornerstone, Disney Castle
+    the Cornerstone, Disney Darkness
 
     will be defenseless.
 - id: 11820
@@ -10104,7 +10104,7 @@
 
     seem to have any connection
 
-    with the Heartless. Why, he
+    with the Darkness. Why, he
 
     doesn´t even recognize Sora,
 
@@ -10122,7 +10122,7 @@
 
     Queen Minnie, and the other
 
-    folks at Disney Castle. Horace
+    folks at Disney Darkness. Horace
 
     wouldn´t be Horace without
 
@@ -10137,7 +10137,7 @@
 
     Queen Minnie, and the other
 
-    folks at Disney Castle.
+    folks at Disney Darkness.
 
     Clarabelle is also close friends
 
@@ -10154,7 +10154,7 @@
 
     Mickey, Queen Minnie, and the
 
-    other folks at Disney Castle.
+    other folks at Disney Darkness.
 - id: 11828
   drk: King Mickey (?)
 - id: 11829
@@ -10181,7 +10181,7 @@
   drk: >-
     The hero of the Keyblade who
 
-    fights against the Heartless and
+    fights against the Darkness and
 
     the Nobodies.
 
@@ -10237,7 +10237,7 @@
 
     his friends first met Jack,
 
-    he wanted to use the Heartless
+    he wanted to use the Darkness
 
     to spice up his frightening
 
@@ -10505,7 +10505,7 @@
   drk: >-
     The hero of the Keyblade, a boy
 
-    destined to battle the Heartless
+    destined to battle the Darkness
 
     and the Nobodies. Sora searches
 
@@ -10698,7 +10698,7 @@
   drk: >-
     The Royal Court Magician. He
 
-    left Disney Castle on a quest to
+    left Disney Darkness on a quest to
 
     find King Mickey.
 
@@ -10720,7 +10720,7 @@
   drk: >-
     Captain of the Royal Knights. He
 
-    left Disney Castle on a quest to
+    left Disney Darkness on a quest to
 
     find King Mickey.
 
@@ -10819,7 +10819,7 @@
 
     he has passed through the
 
-    alternate Twilight Town and
+    alternate Darkness Town and
 
     darkness itself to reach the
 
@@ -10879,7 +10879,7 @@
 
     acts as leader of the group.
 
-    Xemnas is the Nobody of Ansem´s
+    Xemnas is the Shell of Darkness of Ansem´s
 
     apprentice Xehanort.
 
@@ -10888,7 +10888,7 @@
 
     to collect hearts from the
 
-    Heartless and see Kingdom
+    Darkness and see Kingdom
 
     Hearts to its completion.
 - id: 11908
@@ -10978,7 +10978,7 @@
 
     In Port Royal, Luxord used
 
-    Heartless and the cursed
+    Darkness and the cursed
 
     medallions to conduct
 
@@ -11237,7 +11237,7 @@
   drk: Bulky Vendor
 - id: 11959
   drk: >-
-    A rare Heartless that can be
+    A rare Darkness that can be
 
     found in certain worlds. It
 
@@ -11768,11 +11768,11 @@
   drk: Volcanic Lord
 - id: 12023
   drk: >-
-    A Heartless called forth by
+    A Darkness called forth by
 
     greedy Pete in Agrabah. It
 
-    appeared with Blizzard Lord.
+    appeared with Dark Frost Lord.
 
 
     It was weak against ice, but it
@@ -11781,10 +11781,10 @@
 
     with its use of fire.
 - id: 12024
-  drk: Blizzard Lord
+  drk: Dark Frost Lord
 - id: 12025
   drk: >-
-    A Heartless called forth by
+    A Darkness called forth by
 
     greedy Pete in Agrabah. It
 
@@ -11800,7 +11800,7 @@
   drk: Possessor
 - id: 12027
   drk: >-
-    A Heartless that appeared in
+    A Darkness that appeared in
 
     Beast´s Castle. It possessed
 
@@ -11854,7 +11854,7 @@
   drk: Shadow Stalker
 - id: 12033
   drk: >-
-    A Heartless that attacked Belle
+    A Darkness that attacked Belle
 
     in Beast´s Castle.
 
@@ -11868,7 +11868,7 @@
   drk: Illuminator
 - id: 12035
   drk: >-
-    A Heartless called forth in Port
+    A Darkness called forth in Port
 
     Royal by Pete.
 
@@ -11886,7 +11886,7 @@
   drk: Grim Reaper
 - id: 12037
   drk: >-
-    A Heartless that appeared in
+    A Darkness that appeared in
 
     Port Royal, it was said to be
 
@@ -11904,9 +11904,9 @@
   drk: Groundshaker
 - id: 12039
   drk: >-
-    A giant Heartless that appeared
+    A giant Darkness that appeared
 
-    in the Pride Lands. It was
+    in the The Darkness Lands. It was
 
     created by the many illusions
 
@@ -11924,7 +11924,7 @@
   drk: Prison Keeper
 - id: 12041
   drk: >-
-    A Heartless called forth in
+    A Darkness called forth in
 
     Halloween Town by
 
@@ -11942,7 +11942,7 @@
   drk: Storm Rider
 - id: 12043
   drk: >-
-    A giant Heartless that
+    A giant Darkness that
 
     appeared in the sky of
 
@@ -11959,7 +11959,7 @@
 
     and people, it was turned
 
-    into a Heartless.
+    into a Darkness.
 - id: 12044
   drk: Creeper
 - id: 12045
@@ -12000,7 +12000,7 @@
   drk: Dragoon
 - id: 12049
   drk: >-
-    A dragoon. A high-ranking Nobody.
+    A dragoon. A high-ranking Shell of Darkness.
 
     When a ball of light appears after
 
@@ -12020,7 +12020,7 @@
   drk: Assassin
 - id: 12051
   drk: >-
-    An assassin. A high-ranking Nobody.
+    An assassin. A high-ranking Shell of Darkness.
 
     It hides in the ground and attacks
 
@@ -12047,7 +12047,7 @@
   drk: Samurai
 - id: 12053
   drk: >-
-    A samurai. A high-ranking Nobody.
+    A samurai. A high-ranking Shell of Darkness.
 
     Using swords and their sheaths as
 
@@ -12076,7 +12076,7 @@
   drk: Sniper
 - id: 12055
   drk: >-
-    A sniper. A high-ranking Nobody.
+    A sniper. A high-ranking Shell of Darkness.
 
     It is very agile as it moves around
 
@@ -12094,7 +12094,7 @@
   drk: Dancer
 - id: 12057
   drk: >-
-    A dancer. A high-ranking Nobody.
+    A dancer. A high-ranking Shell of Darkness.
 
     It skates around the ground and
 
@@ -12118,7 +12118,7 @@
   drk: >-
     A berserker. A high-ranking
 
-    Nobody. Its attacks are hard
+    Shell of Darkness. Its attacks are hard
 
     to read as it is dragged around
 
@@ -12140,7 +12140,7 @@
   drk: Gambler
 - id: 12061
   drk: >-
-    A gambler. A high-ranking Nobody.
+    A gambler. A high-ranking Shell of Darkness.
 
     It doesn´t seem to like fighting,
 
@@ -12165,7 +12165,7 @@
   drk: Twilight Thorn
 - id: 12063
   drk: >-
-    A giant Nobody who Roxas fought
+    A giant Shell of Darkness who Roxas fought
 
     at the Station of Awakening.
 
@@ -12242,7 +12242,7 @@
   drk: >-
     Having defeated Scar, Simba becomes
 
-    the new king of the Pride Lands
+    the new king of the The Darkness Lands
 - id: 13011
   drk: Scar´s Phantom
 - id: 13012
@@ -12265,12 +12265,12 @@
 
     the kingdom in his own way
 - id: 13017
-  drk: Giant Heartless
+  drk: Giant Darkness
 - id: 13018
   drk: >-
-    Scar´s ghost became a giant Heartless
+    Scar´s ghost became a giant Darkness
 
-    and attacked the Pride Lands
+    and attacked the The Darkness Lands
 - id: 13021
   drk: There´s nothing yet!
 - id: 13140
@@ -12361,7 +12361,7 @@
 
     their devious plans, and the castle
 
-    was peaceful once more.
+    was peaceful More Darkness.
 
 - id: 13151
   drk: >+
@@ -12403,7 +12403,7 @@
 
     attacked, but Kairi was surrounded by
 
-    Heartless.
+    Darkness.
 
 - id: 13158
   drk: >+
@@ -12484,7 +12484,7 @@
 
     need you anymore," Saïx scoffed, and
 
-    summoned masses of Heartless to do
+    summoned masses of Darkness to do
 
     Sora in.
 
@@ -12515,13 +12515,13 @@
   drk: >+
     Sora finally pushed through the
 
-    throngs of Heartless and made his
+    throngs of Darkness and made his
 
     way to Kairi. Watching over the two
 
     as they embraced in joyous reunion
 
-    was Xehanort´s Heartless--Riku.
+    was Xehanort´s Darkness--Riku.
 
     DiZ, who had observed the battle,
 
@@ -12529,13 +12529,13 @@
 
     was the real Ansem the Wise, and his
 
-    apprentice Xehanort´s Nobody was
+    apprentice Xehanort´s Shell of Darkness was
 
     Xemnas, leader of Organization {XIII}.
 
     We had already defeated Xehanort´s
 
-    Heartless in battle once before,
+    Darkness in battle once before,
 
     when he went by the name "Ansem,
 
@@ -12571,7 +12571,7 @@
 
     we learned the truth about Roxas.
 
-    "Roxas...is your Nobody, Sora."
+    "Roxas...is your Shell of Darkness, Sora."
 
     Roxas had been taken in by Xemnas
 
@@ -12679,9 +12679,9 @@
   drk: >-
     Organization {XIII}´s Number {III}.
 
-    He wanted the Beast´s Heartless
+    He wanted the Beast´s Darkness
 
-    and Nobody in order to acquire
+    and Shell of Darkness in order to acquire
 
     Kingdom Hearts.
 
@@ -12695,7 +12695,7 @@
   drk: >-
     A sorceress of frightening power.
 
-    She´s using the Heartless as
+    She´s using the Darkness as
 
     part of her scheme to bring all
 
@@ -12738,31 +12738,31 @@
 - id: 13946
   drk: Character Files
 - id: 13947
-  drk: The Heartless
+  drk: The Darkness
 - id: 13948
   drk: The Nobodies
 - id: 13982
-  drk: Twilight Town
+  drk: Darkness Town
 - id: 13983
   drk: Hollow Bastion
 - id: 13984
   drk: Beast´s Castle
 - id: 13985
-  drk: Olympus Coliseum
+  drk: Darkness Coliseum
 - id: 13986
   drk: Agrabah
 - id: 13987
   drk: The Land Of Dragons
 - id: 13988
-  drk: 100 Acre Wood
+  drk: 100 Acres of Darkness
 - id: 13989
-  drk: Pride Lands
+  drk: The Darkness Lands
 - id: 13990
-  drk: Atlantica
+  drk: Singing Darkness
 - id: 13991
-  drk: Disney Castle
+  drk: Disney Darkness
 - id: 13992
-  drk: Timeless River
+  drk: Timeless Darkness
 - id: 13993
   drk: Halloween Town
 - id: 13994
@@ -12770,7 +12770,7 @@
 - id: 13995
   drk: Space Paranoids
 - id: 13996
-  drk: The World That Never Was
+  drk: The World of Eternal Darkness
 - id: 13997
   drk: Collection
 - id: 13998
@@ -12778,9 +12778,9 @@
 - id: 13999
   drk: Other
 - id: 14000
-  drk: Heartless
+  drk: Darkness
 - id: 14001
-  drk: Nobody
+  drk: Shell of Darkness
 - id: 14003
   drk: There´s nothing yet!
 - id: 14051
@@ -13141,7 +13141,7 @@
 
     Those beings who lack hearts--the
 
-    Heartless--must be the key.
+    Darkness--must be the key.
 
 
     The darkness of the heart, made flesh.
@@ -13221,7 +13221,7 @@
     are already underway.
 
 
-    The Heartless must be the key to
+    The Darkness must be the key to
 
     unraveling this mystery.
 
@@ -13235,21 +13235,21 @@
 
     Not only did they generate "pureblood"
 
-    Heartless from living hearts, but they
+    Darkness from living hearts, but they
 
-    then used those Heartless to synthesize
+    then used those Darkness to synthesize
 
     artificial versions of the creatures as
 
     well.
 
 
-    These synthetic Heartless bore insignias
+    These synthetic Darkness bore insignias
 
     and were called "Emblems."
 
 
-    Pureblood or Emblem, these Heartless act
+    Pureblood or Emblem, these Darkness act
 
     only to fulfill their instinctive needs.
 
@@ -13260,32 +13260,32 @@
 
     A human´s commands would be ineffective:
 
-    the Heartless would easily steal the
+    the Darkness would easily steal the
 
     human´s heart and use it to increase
 
     their own ranks.
 
 
-    But what if an even stronger Heartless
+    But what if an even stronger Darkness
 
     was giving the orders?
 
 
     If he cast aside his own soul and body and
 
-    became a Heartless, wouldn´t he be able
+    became a Darkness, wouldn´t he be able
 
     to control the otherwise intractable
 
-    Heartless?
+    Darkness?
 
 
     Furthermore, wouldn´t he be planning to
 
     make use of the creatures´ instincts?
 
-    If the heart-seeking Heartless have their
+    If the heart-seeking Darkness have their
 
     sights set on a larger, more powerful
 
@@ -13301,7 +13301,7 @@
 
     This is all conjecture, but it would seem
 
-    he is utilizing the Heartless in his search
+    he is utilizing the Darkness in his search
 
     for a path leading to the heart of the world.
 - id: 14061
@@ -13362,12 +13362,12 @@
 
     As I had suspected, Xehanort had become
 
-    a Heartless.
+    a Darkness.
 
 
     Under my name, he commanded other
 
-    Heartless in quests to snatch away the
+    Darkness in quests to snatch away the
 
     hearts of many different worlds.
 
@@ -13385,7 +13385,7 @@
 
     The other five have disappeared.
 
-    Have they become Heartless, like
+    Have they become Darkness, like
 
     Xehanort?
 
@@ -13405,7 +13405,7 @@
     when a being loses its heart.
 
 
-    When a Heartless is born, these entities
+    When a Darkness is born, these entities
 
     disappear from the realm of light, to be
 
@@ -13432,7 +13432,7 @@
 
     research and planning away from prying
 
-    eyes, I found myself in "Twilight Town."
+    eyes, I found myself in "Darkness Town."
 
     It is a quiet village, forgotten in the
 
@@ -13450,7 +13450,7 @@
     new discovery after another.
 
 
-    When a Heartless is born, the body and
+    When a Darkness is born, the body and
 
     soul left behind are reborn into this
 
@@ -13459,7 +13459,7 @@
 
     They possess different intentions than
 
-    their Heartless brethren, and while it is
+    their Darkness brethren, and while it is
 
     unclear what these sentient "things" are
 
@@ -13472,7 +13472,7 @@
 
     subjects, along with a hero wielding the
 
-    Keyblade, are battling the Heartless even
+    Keyblade, are battling the Darkness even
 
     as a new threat approaches.
 
@@ -13487,9 +13487,9 @@
 
     A great number of Nobodies have lost
 
-    human form, as have the Heartless.
+    human form, as have the Darkness.
 
-    Yet the Nobody born of someone with a
+    Yet the Shell of Darkness born of someone with a
 
     strong heart retains its shape, with but
 
@@ -13541,9 +13541,9 @@
 
     My friends´ struggle to protect the realm
 
-    of light from the threat of Heartless is
+    of light from the threat of Darkness is
 
-    now over, with Xehanort´s Heartless--
+    now over, with Xehanort´s Darkness--
 
     going by the name Ansem, Seeker of
 
@@ -13554,7 +13554,7 @@
 
     "hero," traveled from world to world
 
-    sealing up keyholes and laying Heartless
+    sealing up keyholes and laying Darkness
 
     low.
 
@@ -13574,7 +13574,7 @@
 
     But there are still a great number of
 
-    Heartless afoot, and Organization {XIII} and
+    Darkness afoot, and Organization {XIII} and
 
     the Nobodies continue to be active in the
 
@@ -13677,12 +13677,12 @@
     born.
 
 
-    Naminé is a Nobody, created when a young
+    Naminé is a Shell of Darkness, created when a young
 
     girl's heart left her body.
 
 
-    Yet she has no corresponding Heartless.
+    Yet she has no corresponding Darkness.
 
 
     This is because the "young girl" in this
@@ -13701,20 +13701,20 @@
 
     With no darkness in her heart, Kairi
 
-    produced no Heartless, and instead of
+    produced no Darkness, and instead of
 
     vanishing, her body remained in the realm
 
     of light.
 
 
-    In other words, both the Nobody called
+    In other words, both the Shell of Darkness called
 
-    Naminé and the Heartless--proof of a lost
+    Naminé and the Darkness--proof of a lost
 
     heart--are extremely unstable beings who
 
-    lack the bodies needed to produce a Nobody.
+    lack the bodies needed to produce a Shell of Darkness.
 
     Therefore, they also lack Kairi's memories.
 
@@ -13746,7 +13746,7 @@
 
     of the word; having not even become a
 
-    true Nobody and with nowhere left to go,
+    true Shell of Darkness and with nowhere left to go,
 
     she is but the most fleeting of shadows.
 - id: 14069
@@ -13777,7 +13777,7 @@
 
     I persuaded Naminé to move the slumbering
 
-    Sora to Twilight Town for safekeeping.
+    Sora to Darkness Town for safekeeping.
 
 
     Naminé.
@@ -13788,11 +13788,11 @@
     most unusual being.
 
 
-    Born of the same process as a Nobody,
+    Born of the same process as a Shell of Darkness,
 
     but lacking virtually all the elements of
 
-    a Nobody.
+    a Shell of Darkness.
 
 
     Perhaps she continues drawing in hopes of
@@ -13807,7 +13807,7 @@
 
     I believe that Naminé was born as a
 
-    special type of Nobody when Sora attacked
+    special type of Shell of Darkness when Sora attacked
 
     himself with the Keyblade, causing his and
 
@@ -13816,20 +13816,20 @@
     simultaneously.
 
 
-    Naminé emerged as Kairi´s Nobody...
+    Naminé emerged as Kairi´s Shell of Darkness...
 
     but the body and soul necessary to exist
 
-    as a Nobody belonged to Sora.
+    as a Shell of Darkness belonged to Sora.
 
 
     When a person´s heart is stolen, a
 
-    Heartless is born with no sense of self,
+    Darkness is born with no sense of self,
 
     and the body and soul left behind give
 
-    rise to a Nobody.
+    rise to a Shell of Darkness.
 
 
     But what if one willingly releases one´s
@@ -13839,7 +13839,7 @@
 
     Sora and Xehanort retained their selfhood
 
-    even after becoming Heartless.
+    even after becoming Darkness.
 
 
     Then there are Kairi and Naminé.
@@ -13935,7 +13935,7 @@
 
     whose hearts have been stolen by the
 
-    Heartless.
+    Darkness.
 
 
     It is where those who have barely escaped
@@ -13992,7 +13992,7 @@
 
     Thus I have asked Riku to bring me another
 
-    Sora--his Nobody.
+    Sora--his Shell of Darkness.
 
 
     Sora is indispensable if I am to achieve
@@ -14014,30 +14014,30 @@
 
     memories of their time as humans,
 
-    but Sora´s Nobody, Roxas, has lost
+    but Sora´s Shell of Darkness, Roxas, has lost
 
     Sora´s memories.
 
 
     This is likely because Sora´s time as a
 
-    Heartless was short, having recovered his
+    Darkness was short, having recovered his
 
     heart and returned to his human form soon
 
-    after leaving behind Roxas, his Nobody.
+    after leaving behind Roxas, his Shell of Darkness.
 
 
     It would seem Roxas is much like Naminé.
 
-    Naminé is Kairi´s Nobody, but came into
+    Naminé is Kairi´s Shell of Darkness, but came into
 
     being via Sora´s body and soul.
 
 
-    Likewise, Roxas is Sora´s Nobody, but was
+    Likewise, Roxas is Sora´s Shell of Darkness, but was
 
-    left behind because Sora´s Heartless
+    left behind because Sora´s Darkness
 
     regained human form using Kairi´s heart
 
@@ -14071,9 +14071,9 @@
 
     But Organization {XIII} grows ever nearer.
 
-    Here, Twilight Town, is where Roxas was
+    Here, Darkness Town, is where Roxas was
 
-    reborn as a Nobody.
+    reborn as a Shell of Darkness.
 
 
     This is where Roxas first encountered
@@ -14085,7 +14085,7 @@
     thoroughly.
 
 
-    First I shall convert all of Twilight Town
+    First I shall convert all of Darkness Town
 
     into data and construct a "world
 
@@ -14119,7 +14119,7 @@
 
     Xehanort, who took everything away from me.
 
-    Though as a Heartless he is no more, as
+    Though as a Darkness he is no more, as
 
     the leader of Organization {XIII} his ambition
 
@@ -14128,13 +14128,13 @@
     the most colossal heart of all.
 
 
-    His Heartless had attempted to draw out
+    His Darkness had attempted to draw out
 
     the great darkness of Kingdom Hearts,
 
     created from the hearts of all worlds. His
 
-    Nobody, however, is now almost finished
+    Shell of Darkness, however, is now almost finished
 
     gathering human hearts to be assimilated
 
@@ -14209,7 +14209,7 @@
 
     If I can, I should like to return to
 
-    Radiant Garden, to look once more upon
+    Radiant Garden, to look More Darkness upon
 
     the beautiful water, the lovely flowers,
 
@@ -14315,7 +14315,7 @@
   drk: >-
     King Mickey´s nemesis. Pete is
 
-    collecting an army of Heartless
+    collecting an army of Darkness
 
     and helping Maleficent in her
 
@@ -14325,14 +14325,14 @@
 
     Hades a hand with his collection
 
-    of Heartless.
+    of Darkness.
 - id: 14758
   drk: The Ghost of Scar
 - id: 14759
   drk: >-
     This phantom appeared in the
 
-    Pride Lands after Scar´s
+    The Darkness Lands after Scar´s
 
     death. It seems to have been
 
@@ -14389,7 +14389,7 @@
   drk: King Mickey
 - id: 14767
   drk: >-
-    The King of Disney Castle. He
+    The King of Disney Darkness. He
 
     faced incredible danger as he
 
@@ -14422,7 +14422,7 @@
 
     The true Ansem once studied
 
-    hearts and the Heartless, but
+    hearts and the Darkness, but
 
     soon ceased his research for
 
@@ -14486,7 +14486,7 @@
     leader.
 
 
-    In truth, he is the Nobody of
+    In truth, he is the Shell of Darkness of
 
     Xehanort, who was apprenticed
 
@@ -14500,7 +14500,7 @@
 
     name, Ansem. When Xehanort
 
-    became a Heartless, his Nobody
+    became a Darkness, his Shell of Darkness
 
     Xemnas came into being.
 
@@ -14509,7 +14509,7 @@
 
     the hearts released every time
 
-    a Heartless falls to his
+    a Darkness falls to his
 
     Keyblade.
 - id: 14777
@@ -14538,9 +14538,9 @@
   drk: >-
     Organization {XIII}´s Number {III}.
 
-    He sought the Beast´s Heartless
+    He sought the Beast´s Darkness
 
-    and Nobody in order to acquire
+    and Shell of Darkness in order to acquire
 
     Kingdom Hearts.
 
@@ -14596,7 +14596,7 @@
 
     In Port Royal, Luxord used
 
-    Heartless and the cursed
+    Darkness and the cursed
 
     medallions to conduct
 
@@ -14642,7 +14642,7 @@
 
     The true Ansem once studied
 
-    hearts and the Heartless, but
+    hearts and the Darkness, but
 
     soon ceased his research for
 
@@ -14696,7 +14696,7 @@
   drk: Sorcerer
 - id: 14833
   drk: >-
-    A sorcerer. A high-ranking Nobody.
+    A sorcerer. A high-ranking Shell of Darkness.
 
     Immune to magic, it attacks with
 
@@ -14738,12 +14738,12 @@
 
     who´s behind the strange goings-
 
-    on at Disney Castle.
+    on at Disney Darkness.
 
 
     Maleficent is determined to take
 
-    over Disney Castle, and she´s
+    over Disney Darkness, and she´s
 
     using the power of darkness in
 
@@ -14781,7 +14781,7 @@
     on behalf of the Organization.
 - id: 17285
   drk: >-
-    Kairi had appeared in Twilight Town, but
+    Kairi had appeared in Darkness Town, but
 
     Axel took off with her. We set off once
 
@@ -14810,7 +14810,7 @@
   drk: –––
 - id: 17291
   drk: >+
-    Kairi had come to Twilight Town in
+    Kairi had come to Darkness Town in
 
     search of Sora, but then Axel kidnapped
 
@@ -14886,7 +14886,7 @@
 
     in the darkness, she arrived in
 
-    Twilight Town and befriended Hayner,
+    Darkness Town and befriended Hayner,
 
     Pence, and Olette before being
 
@@ -14895,7 +14895,7 @@
 
     Kairi is fervently hoping to meet
 
-    up with Sora once more.
+    up with Sora More Darkness.
 - id: 17943
   drk: Saïx
 - id: 17944
@@ -14930,7 +14930,7 @@
     the Wise.
 
 
-    Even after becoming a Heartless,
+    Even after becoming a Darkness,
 
     Xehanort persisted in his
 
@@ -14943,7 +14943,7 @@
     course.
 
 
-    Meanwhile, his Nobody, Xemnas,
+    Meanwhile, his Shell of Darkness, Xemnas,
 
     had taken leadership of
 
@@ -15360,7 +15360,7 @@
 - id: 18658
   drk: See character information!
 - id: 18659
-  drk: Read about the Heartless!
+  drk: Read about the Darkness!
 - id: 18660
   drk: Read about the Nobodies!
 - id: 18661
@@ -15425,20 +15425,7 @@
 
     Notes:
 
-    Comet Rain is a finishing move that is
-
-    executed around Sora. Move in close
-
-    to the enemy to get in as many hits
-
-    as possible.
-
-
-    Sora can move freely during this limit,
-
-    so stay close to the enemy and attack
-
-    away!
+    Darkness
 - id: 19158
   drk: Donald/Flare Force
 - id: 19159
@@ -15450,31 +15437,7 @@
 
     Notes:
 
-    Duck Flare attacks enemies in front.
-
-    This magic attack cannot lock on to any
-
-    targets.
-
-
-    Rocket Flare unleashes rockets at the
-
-    enemy. Use this attack after collecting
-
-    plenty of rockets.
-
-
-    Unleash Megaduck Flare towards a group
-
-    of enemies, as it not only attacks the
-
-    main target, but surrounding enemies as
-
-    well. Sora can move freely during this
-
-    limit, so use him to get in many, many
-
-    hits!
+    Darkness
 - id: 19162
   drk: Goofy/Teamwork
 - id: 19163
@@ -15486,19 +15449,7 @@
 
     Notes:
 
-    Knocksmash has a short duration, so get
-
-    in as many attacks as possible.
-
-
-    Duo Raid deals successive damage
-
-    while bringing the enemy closer.
-
-
-    Execute the attacks quickly, or
-
-    the limit will be canceled!
+    Darkness
 - id: 19164
   drk: Beast/Howling Moon
 - id: 19165
@@ -15510,19 +15461,7 @@
 
     Notes:
 
-    Outcry hits successively, but has a
-
-    small range.
-
-
-    Stalwart Fang deals damage to nearby
-
-    enemies with a sonic wave.
-
-
-    Use both attacks appropriately,
-
-    depending on the situation.
+    Darkness
 - id: 19166
   drk: Auron/Overdrive
 - id: 19167
@@ -15534,16 +15473,7 @@
 
     Notes:
 
-    Alternate attacks between Auron and Sora.
-
-    After Auron attacks, Sora´s command will
-
-    change. Unleash it immediately!
-
-
-    Sora cannot move freely during this limit,
-
-    so concentrate on inputting commands.
+    Darkness
 - id: 19168
   drk: Mulan/Dragonblaze
 - id: 19169
@@ -15555,14 +15485,7 @@
 
     Notes:
 
-    Use Heat Lance, then follow it up with
-
-    Flametongue for a nice, clean combo.
-
-
-    Sora can fly freely during this limit.
-
-    Move up and down with the right stick.
+    Darkness
 - id: 19170
   drk: Aladdin/Trick Fantasy
 - id: 19171
@@ -15574,20 +15497,7 @@
 
     Notes:
 
-    Move close to as many enemies as
-
-    possible when dealing Speedster and
-
-    Trickster, as they hit all nearby
-
-    enemies.
-
-
-    Both Aladdin and Sora can use
-
-    Quickplay, so alternate this attack
-
-    for a quick end to the battle.
+    Darkness
 - id: 19172
   drk: Jack/Applause, Applause
 - id: 19173
@@ -15599,16 +15509,7 @@
 
     Notes:
 
-    Downbeat and Synchronization hit close
-
-    enemies in front, so move in when using
-
-    these attacks.
-
-
-    Sora can move freely during this limit,
-
-    making it easy to earn combo points!
+    Darkness
 - id: 19174
   drk: Jack Sparrow/Treasure Isle
 - id: 19175
@@ -15620,23 +15521,7 @@
 
     Notes:
 
-    Bluff lures enemies to one place, making
-
-    it useful against group battles.
-
-
-    After Jack executes Jackknife, Sora
-
-    can unleash Slasher for quick attacks.
-
-    The key to a winning battle is to
-
-    alternate Jack´s and Sora´s attacks.
-
-
-    Sora cannot move freely during this limit,
-
-    so concentrate on inputting commands.
+    Darkness
 - id: 19176
   drk: Simba/King´s Pride
 - id: 19177
@@ -15648,18 +15533,7 @@
 
     Notes:
 
-    High Fang and X-Claw are rapid attacks
-
-    that should be dealt in succession as soon
-
-    as the limit begins.
-
-
-    Keep unleashing these attacks until it´s
-
-    time to execute the finishing move--Proud
-
-    Roar.
+    Darkness
 - id: 19178
   drk: Tron/Complete Compilement
 - id: 19179
@@ -15671,24 +15545,7 @@
 
     Notes:
 
-    Use Burst Pulse on close enemies, and
-
-    Cluster Code on far enemies. Use
-
-    Cluster Code during Burst Pulse for
-
-    extra attack power.
-
-
-    Reprogram continues to search for
-
-    enemies after the limit is over.
-
-    Select Stop to cancel this attack.
-
-    Sora can move freely during this limit,
-
-    so use him to get in many, many hits!
+    Darkness
 - id: 19180
   drk: Riku/Eternal Session
 - id: 19181
@@ -15701,20 +15558,9 @@
 
     Notes:
 
-    Dark Cannon and Last Saber focus only
-
-    on one target. Defeat strong enemies
-
-    with this attack.
-
-
-    Master Hearts and {XIII} Blades can be dealt
-
-    while moving, so earn combo points by
-
-    grabbing nearby enemies!
+    Darkness
 - id: 19182
-  drk: Sora/Trinity Limit
+  drk: Sora/Trinity of Darkness
 - id: 19183
   drk: >-
     Attack flow
@@ -15724,28 +15570,9 @@
 
     Notes:
 
-    After selecting an attack, Begin Combo
-
-    will take the place of the chosen attack
-
-    on the command menu. Begin Combo
-
-    unleashes the total number of hits dealt
-
-    by the other three attacks. Save Begin
-
-    Combo until many hits have been dealt
-
-    by the other attacks!
-
-
-    This limit can be done when Sora is alone,
-
-    but his two friends will not come to help
-
-    him.
+    Darkness
 - id: 19184
-  drk: Peter Pan/Never Land
+  drk: Pan of Darkness/Never Land
 - id: 19185
   drk: >-
     Attack flow
@@ -15753,32 +15580,11 @@
 
     Notes:
 
-    Grab nearby enemies and fly around!
-
-
-    Tiny Fairy deals great damage and blows
-
-    the enemy away.
-
-
-    The Flying Boy deals less damage, but
-
-    continues to drag the enemy around,
-
-    dealing constant damage. Use the
-
-    appropriate attack in each situation.
-
-
-    Sora can fly freely during this limit.
-
-    Move up and down with the right
-
-    stick. Select Stop to cancel
+    Darkness
 
     the limit.
 - id: 19186
-  drk: Chicken Little/FPS Mode
+  drk: Darkness Little/FPS Mode
 - id: 19187
   drk: >-
     Attack flow
@@ -15788,7 +15594,7 @@
 
     A first person shooter mode with Sora
 
-    and Chicken Little as a team. The camera
+    and Darkness Little as a team. The camera
 
     movement is the key to this attack.
 
@@ -15804,7 +15610,7 @@
 
     Select Stop to cancel the limit.
 - id: 19188
-  drk: Stitch/Ohana!
+  drk: Darkness 626/Ohana!
 - id: 19189
   drk: >-
     Attack flow
@@ -15826,7 +15632,7 @@
 
     camera!
 - id: 19190
-  drk: '"Valor" Genie/Sonic Rave'
+  drk: '"Valor" Wishes of Darkness/Sonic Rave'
 - id: 19191
   drk: >-
     Attack flow
@@ -15850,31 +15656,13 @@
 - id: 19195
   drk: >-
     Attack flow
-     Whirli-Goof
-       ⤷Whirli-Goofra
-          ⤷Whirli-Goofga
+     Whirling Darkness
+       ⤷Whirlinger Darkness
+          ⤷Whirlingest Darkness
 
     Notes:
 
-    Whirli-Goof and Whirli-Goofra unleash
-
-    many hits but have a small attack range.
-
-    Move in close to the enemy before
-
-    attacking.
-
-
-    Whirli-Goofga can be executed
-
-    while moving, so make sure to grab
-
-    surrounding enemies as well.
-
-
-    Execute the attacks quickly, or the
-
-    limit will be canceled!
+    Darkness
 - id: 19196
   drk: There´s nothing yet!
 - id: 19197
@@ -16066,7 +15854,7 @@
 - id: 19302
   drk: Complete with a score of 1,000 or more
 - id: 19304
-  drk: '"Wisdom" Genie/Strike Raid'
+  drk: '"Wisdom" Wishes of Darkness/Strike Raid'
 - id: 19305
   drk: >-
     Attack flow
@@ -16089,7 +15877,7 @@
 
     will be canceled!
 - id: 19306
-  drk: '"Master" Genie/Final Arcana'
+  drk: '"Master" Wishes of Darkness/Final Arcana'
 - id: 19307
   drk: >-
     Attack flow
@@ -16103,7 +15891,7 @@
     nearby enemies.
 
 
-    If Genie´s and Sora´s Bash is successful,
+    If Wishes of Darkness´s and Sora´s Bash is successful,
 
     far enemies will be attacked as well.
 
@@ -16112,7 +15900,7 @@
 
     will be canceled!
 - id: 19308
-  drk: '"Final" Genie/Infinity'
+  drk: '"Final" Wishes of Darkness/Infinity'
 - id: 19309
   drk: >-
     Attack flow
@@ -16213,9 +16001,9 @@
 - id: 19599
   drk: '{:unk 72}Swings'
 - id: 19616
-  drk: Peter Pan (1953)
+  drk: Pan of Darkness (1953)
 - id: 19617
-  drk: Chicken Little (2005)
+  drk: Darkness Little (2005)
 - id: 19625
   drk: >-
     Peace had returned to the Beast´s castle.
@@ -16232,63 +16020,63 @@
 - id: 20056
   drk: No. 1
 - id: 20057
-  drk: "The strongest Heartless of the bunch.\nIt moves quickly and deals precise\nattacks.\n \nAttack it to earn points!\nAs soon as it performs Reversal,\nperform your own Reversal to\ncatch it off guard."
+  drk: "The strongest Darkness of the bunch.\nIt moves quickly and deals precise\nattacks.\n \nAttack it to earn points!\nAs soon as it performs Reversal,\nperform your own Reversal to\ncatch it off guard."
 - id: 20058
   drk: No. 2
 - id: 20059
-  drk: "A Heartless that attacks with\na barrage of magic projectiles.\n \nAvoid its attacks to earn points.\nLaunch them back to earn even\nmore points!"
+  drk: "A Darkness that attacks with\na barrage of magic projectiles.\n \nAvoid its attacks to earn points.\nLaunch them back to earn even\nmore points!"
 - id: 20060
   drk: No. 3
 - id: 20061
-  drk: "A clumsy Heartless that drops\nvaluable items.\n \nChase it to collect what it's lost!\nAt times it's known to drop a whole\ntrove of goodies."
+  drk: "A clumsy Darkness that drops\nvaluable items.\n \nChase it to collect what it's lost!\nAt times it's known to drop a whole\ntrove of goodies."
 - id: 20062
   drk: No. 4
 - id: 20063
-  drk: "A Heartless that loves a good game\nof tag--and loves being \"it.\"\n \nIt summons allies while chasing\nits enemies; don't let their\nsheer number overwhelm you.\nDefeat them one at a time for victory."
+  drk: "A Darkness that loves a good game\nof tag--and loves being \"it.\"\n \nIt summons allies while chasing\nits enemies; don't let their\nsheer number overwhelm you.\nDefeat them one at a time for victory."
 - id: 20064
   drk: No. 5
 - id: 20065
-  drk: "A tough Heartless that\nregenerates HP as it sleeps.\n \nDefeat it by hitting it fast\nand hard to drain its HP."
+  drk: "A tough Darkness that\nregenerates HP as it sleeps.\n \nDefeat it by hitting it fast\nand hard to drain its HP."
 - id: 20066
   drk: No. 6
 - id: 20067
-  drk: "A Heartless that creates copies\nof itself, and attacks using\nvarious formations.\n \nFigure out which formation\nit's using and quickly work out\na plan of action!"
+  drk: "A Darkness that creates copies\nof itself, and attacks using\nvarious formations.\n \nFigure out which formation\nit's using and quickly work out\na plan of action!"
 - id: 20068
   drk: No. 7
 - id: 20069
-  drk: "A dangerous Heartless with\na violent streak.\n \nIf you get too close, it'll\nblast you away. Defeat it\nwith long-range attacks like\nmagic."
+  drk: "A dangerous Darkness with\na violent streak.\n \nIf you get too close, it'll\nblast you away. Defeat it\nwith long-range attacks like\nmagic."
 - id: 20070
   drk: No. 8
 - id: 20071
-  drk: "A Heartless buried in the ground,\nwaiting to be pulled out.\n \nOnce you pull it out, keep attacking\nuntil it's dead. Make sure you don't\ndrop it!"
+  drk: "A Darkness buried in the ground,\nwaiting to be pulled out.\n \nOnce you pull it out, keep attacking\nuntil it's dead. Make sure you don't\ndrop it!"
 - id: 20072
   drk: No. 9
 - id: 20073
-  drk: "A Heartless that loves to dance.\nHit it, and it won't stop spinning.\n \nAttack quickly and repeatedly\nto keep it spinning out of control."
+  drk: "A Darkness that loves to dance.\nHit it, and it won't stop spinning.\n \nAttack quickly and repeatedly\nto keep it spinning out of control."
 - id: 20074
   drk: No. 10
 - id: 20075
-  drk: "A Heartless that confuses its enemy\nby creating copies of itself.\n \nDefeat it by finding and attacking\nits real form."
+  drk: "A Darkness that confuses its enemy\nby creating copies of itself.\n \nDefeat it by finding and attacking\nits real form."
 - id: 20076
   drk: No. 11
 - id: 20077
-  drk: "A poor Heartless that's always being\nchased by a mysterious number.\n \nAttacking it will reduce the number.\nTransform the number to 0 as quickly\nas possible!"
+  drk: "A poor Darkness that's always being\nchased by a mysterious number.\n \nAttacking it will reduce the number.\nTransform the number to 0 as quickly\nas possible!"
 - id: 20078
   drk: No. 12
 - id: 20079
-  drk: "A Heartless that warps to\nvarious areas on the map\nonly to mock Sora.\n \nDefeat it by locking on to it\nor using long-ranged attacks! "
+  drk: "A Darkness that warps to\nvarious areas on the map\nonly to mock Sora.\n \nDefeat it by locking on to it\nor using long-ranged attacks! "
 - id: 20080
   drk: No. 13
 - id: 20081
-  drk: "A Heartless that appeared alongside\nan ethereal flash of light.\n \nIt bestowed upon Sora a treasure,\nas proof of defeating the rest\nof its kind."
+  drk: "A Darkness that appeared alongside\nan ethereal flash of light.\n \nIt bestowed upon Sora a treasure,\nas proof of defeating the rest\nof its kind."
 - id: 20092
-  drk: Lingering Will
+  drk: Leftover Darkness
 - id: 20093
-  drk: "A mysterious man who appeared in\nthe portal within Disney Castle.\n \nClad in armor, he controls\nthe Keyblade and its\npower with more ease\nthan Sora."
+  drk: "A mysterious man who appeared in\nthe portal within Disney Darkness.\n \nClad in armor, he controls\nthe Keyblade and its\npower with more ease\nthan Sora."
 - id: 20130
   drk: Spring Metal
 - id: 20131
-  drk: "Although this Heartless stays put,\nit uses various tactics to lure\nenemies close.\n \nDon't leave it alone, or you'll find\nyourself in trouble! If you see one,\ndefeat it as quickly as possible.\nMagic does little damage, so hit it\nwith your Keyblade!"
+  drk: "Although this Darkness stays put,\nit uses various tactics to lure\nenemies close.\n \nDon't leave it alone, or you'll find\nyourself in trouble! If you see one,\ndefeat it as quickly as possible.\nMagic does little damage, so hit it\nwith your Keyblade!"
 - id: 20132
   drk: Aerial Viking
 - id: 20133
@@ -16296,47 +16084,47 @@
 - id: 20134
   drk: Magic Phantom
 - id: 20135
-  drk: "A Heartless with two faces.\nWhen it's in the air,\nthe Keyblade will have no effect.\n \nReflect its magic to lure it\nout of the sky. Once it's on\nthe ground, it's time to strike."
+  drk: "A Darkness with two faces.\nWhen it's in the air,\nthe Keyblade will have no effect.\n \nDark Return its magic to lure it\nout of the sky. Once it's on\nthe ground, it's time to strike."
 - id: 20136
   drk: Beffudler
 - id: 20137
-  drk: "A Heartless that confuses\nits enemy with quick\nmovements. When it swoops,\nuse Bat Cry to capture it\nand attack surrounding enemies.\n \nBe warned, it is not affected by\nice magic."
+  drk: "A Darkness that confuses\nits enemy with quick\nmovements. When it swoops,\nuse Bat Cry to capture it\nand attack surrounding enemies.\n \nBe warned, it is not affected by\nice magic."
 - id: 20138
   drk: Runemaster
 - id: 20139
-  drk: "A Heartless that utilizes three\npowerful magic elements.\n \nWhen attacking this\nenemy, keep in mind that\nits book acts as a shield."
+  drk: "A Darkness that utilizes three\npowerful magic elements.\n \nWhen attacking this\nenemy, keep in mind that\nits book acts as a shield."
 - id: 20140
   drk: Iron Hammer
 - id: 20141
-  drk: "A Heartless that attacks while\njumping and spinning.\nDon't get caught in its powerful\nshockwave attack!\n \nIt lets its guard down right\nbefore it attacks. That's your\nchance!"
+  drk: "A Darkness that attacks while\njumping and spinning.\nDon't get caught in its powerful\nshockwave attack!\n \nIt lets its guard down right\nbefore it attacks. That's your\nchance!"
 - id: 20142
   drk: Mad Ride
 - id: 20143
-  drk: "A large Heartless whose stout\nbody makes it hard to\ntopple. Be careful when you\ninterrupt or block its attacks,\nas it'll become very angry!\n \nIt is immune to fire magic, so\ndefeat it with ice magic!"
+  drk: "A large Darkness whose stout\nbody makes it hard to\ntopple. Be careful when you\ninterrupt or block its attacks,\nas it'll become very angry!\n \nIt is immune to fire magic, so\ndefeat it with ice magic!"
 - id: 20144
   drk: Camo Cannon
 - id: 20145
-  drk: "A Heartless that studies its enemies\nbefore launching bombs at them.\nIt generally targets the weakest\nof the bunch.\n \nIt is immune to fire and lightning."
+  drk: "A Darkness that studies its enemies\nbefore launching bombs at them.\nIt generally targets the weakest\nof the bunch.\n \nIt is immune to fire and lightning."
 - id: 20146
   drk: Reckless
 - id: 20147
-  drk: "A Heartless that doesn't stop moving.\nIt unleashes spinning attacks and\npowerful lightning attacks on\nits enemy.\n \nIt is immune to lightning."
+  drk: "A Darkness that doesn't stop moving.\nIt unleashes spinning attacks and\npowerful lightning attacks on\nits enemy.\n \nIt is immune to lightning."
 - id: 20148
   drk: Lance Warrior
 - id: 20149
-  drk: "A Heartless whose movement isn't\nquite synchronized. Be careful to\navoid its powerful thrusting move\nthat can make any enemy go flying!\n \nUse the reaction command Lance Tug\nto grab its lance and hit\nthe enemies around you!"
+  drk: "A Darkness whose movement isn't\nquite synchronized. Be careful to\navoid its powerful thrusting move\nthat can make any enemy go flying!\n \nUse the reaction command Lance Tug\nto grab its lance and hit\nthe enemies around you!"
 - id: 20150
   drk: Necromancer
 - id: 20151
-  drk: "A Heartless that can make itself\ndisappear. It can't be locked\nonto while invisible, but when you\nland a hit, it'll show itself again.\n \nWhile it's disguised as a mask,\nyou won't be able to do any damage.\nAttack it right after it unleashes\nan attack to catch it off guard!"
+  drk: "A Darkness that can make itself\ndisappear. It can't be locked\nonto while invisible, but when you\nland a hit, it'll show itself again.\n \nWhile it's disguised as a mask,\nyou won't be able to do any damage.\nAttack it right after it unleashes\nan attack to catch it off guard!"
 - id: 20152
   drk: Aerial Champ
 - id: 20153
-  drk: "A Heartless that locks in on its prey. \nOnce it finds a target, it follows it\nwhile unleashing consecutive punches.\n \nIt is armed with three types of\nattacks, each with a different build up.\nFigure out which attack it is going\nto unleash and prepare accordingly."
+  drk: "A Darkness that locks in on its prey. \nOnce it finds a target, it follows it\nwhile unleashing consecutive punches.\n \nIt is armed with three types of\nattacks, each with a different build up.\nFigure out which attack it is going\nto unleash and prepare accordingly."
 - id: 20160
   drk: Sora
 - id: 20161
-  drk: "A young Keyblade wielder who fights\nHeartless and Nobodies.\n \nHis first visit to Christmas Town\nwas nothing short of exciting. That\nfeeling combined with the Keyblade's\npower is the essence of this outfit."
+  drk: "A young Keyblade wielder who fights\nDarkness and Nobodies.\n \nHis first visit to Christmas Town\nwas nothing short of exciting. That\nfeeling combined with the Keyblade's\npower is the essence of this outfit."
 - id: 20162
   drk: Donald Duck
 - id: 20163
@@ -16346,15 +16134,15 @@
 - id: 20165
   drk: "The Captain of the Royal Guard.\nHe and Sora join together to\nsearch for the missing King.\n \nHe always seems to get caught\nin the middle of Sora and Donald's\nantics."
 - id: 20272
-  drk: Inspect the Absent Silhouette
+  drk: Inspect the Tainted Darkness
 - id: 20273
-  drk: Inspect the Absent Silhouette
+  drk: Inspect the Tainted Darkness
 - id: 20274
-  drk: Inspect the Absent Silhouette
+  drk: Inspect the Tainted Darkness
 - id: 20275
-  drk: Inspect the Absent Silhouette
+  drk: Inspect the Tainted Darkness
 - id: 20276
-  drk: Inspect the Absent Silhouette
+  drk: Inspect the Tainted Darkness
 - id: 20277
   drk: Enter the Cavern of Remembrance
 - id: 20278

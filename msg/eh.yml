@@ -51,7 +51,7 @@
 - id: 16235
   drk: That guy. In the black coat.
 - id: 16236
-  drk: But nobody could defeat Riku.
+  drk: But Shell of Darkness could defeat Riku.
 - id: 16237
   drk: Y...Yeah, you´re right.
 - id: 16238
@@ -84,7 +84,7 @@
   drk: This is real...
 - id: 16249
   drk: >-
-    Wait, Ansem!{:delay 5A 00}{:clear }{:delay 2A 00}{:clear }I mean, Xehanort´s Heartless...{:delay 88 00}{:clear } {:delay 72 00}{:clear }I never thought for a second that
+    Wait, Ansem!{:delay 5A 00}{:clear }{:delay 2A 00}{:clear }I mean, Xehanort´s Darkness...{:delay 88 00}{:clear } {:delay 72 00}{:clear }I never thought for a second that
 
     I´d ever see YOU again.
 - id: 16250
@@ -153,7 +153,7 @@
   drk: >-
     I told you.{:delay 6C 00}{:clear }I didn´t want to be found.{:delay 48 00}{:clear } {:delay 48 00}{:clear }Not like this... I couldn´t.{:delay C0 00}{:clear } {:delay 26 00}{:clear }I fought with Ansem.
 
-    With...Xehanort´s Heartless--{:delay B4 00}{:clear }{:delay 54 00}when it invaded my heart, and I won.{:delay AE 00}{:clear }But to use the power of darkness,
+    With...Xehanort´s Darkness--{:delay B4 00}{:clear }{:delay 54 00}when it invaded my heart, and I won.{:delay AE 00}{:clear }But to use the power of darkness,
 
     I had to become Ansem myself.
 - id: 16273
@@ -525,7 +525,7 @@
   drk: >-
     Well, the setup is...kinda nice, I guess, but...
 
-    what about all the Heartless?{:delay 3E 01}{:clear }This in-between world--it´s way
+    what about all the Darkness?{:delay 3E 01}{:clear }This in-between world--it´s way
 
     too close to the darkness! {:delay F6 00}{:clear }They ain´t gonna listen to us here!
 - id: 16412
@@ -740,7 +740,7 @@
     before things got so bad?
 - id: 16518
   drk: >-
-    Xemnas, the Organization's Superior,{:delay A8 00}{:clear }is the Nobody of Xehanort,
+    Xemnas, the Organization's Superior,{:delay A8 00}{:clear }is the Shell of Darkness of Xehanort,
 
     my foremost apprentice.{:delay DE 00}{:clear }{:delay 39 00}{:clear }The burden was mine to bear.
 - id: 16519
@@ -767,7 +767,7 @@
   drk: >-
     Gosh, we didn't lose each other exactly.
 
-    Riku left...{:delay F0 00}{:clear }well, 'cause Xehanort's Heartless was
+    Riku left...{:delay F0 00}{:clear }well, 'cause Xehanort's Darkness was
 
     still inside his heart, troubling him.{:delay 08 01}{:clear }{:delay 1B 00}{:clear }And he sure must've been suffering.{:delay 90 00}{:clear }But what I don't understand is why he looks
 
@@ -835,10 +835,10 @@
 
     Why's everybody been calling me Roxas?
 - id: 16542
-  drk: Because, Sora.{:delay 3C 00}{:clear }{:delay 60 00}Roxas is your Nobody.
+  drk: Because, Sora.{:delay 3C 00}{:clear }{:delay 60 00}Roxas is your Shell of Darkness.
 - id: 16543
   drk: >-
-    My...Nobody?{:delay 96 00}{:clear }{:delay 24 00}But that's crazy,
+    My...Shell of Darkness?{:delay 96 00}{:clear }{:delay 24 00}But that's crazy,
 
     I never turned into a Heart...{:delay 93 00}{:clear }{:delay 30 00}Oh, right.
 - id: 16544
@@ -850,7 +850,7 @@
   drk: >-
     Xemnas was the one who found Roxas.{:delay 84 00}{:clear }{:delay 3C 00}He could use the Keyblade
 
-    because he was your Nobody.
+    because he was your Shell of Darkness.
 - id: 16546
   drk: >-
     That's why Xemnas brought him
@@ -879,7 +879,7 @@
   drk: The process of encoding hearts is incalculable.
 - id: 16554
   drk: >-
-    The inhabitants of my Twilight Town were
+    The inhabitants of my Darkness Town were
 
     data created from real hearts.
 - id: 16555
@@ -891,27 +891,19 @@
   drk: Ansem! The machine!
 - id: 16557
   drk: >-
-    All the more proof that hearts
-
-    cannot be contained by data. {:delay EA 00}{:clear }Run, my friend! It's going to self-destruct,
-
-    and anything could happen!
+    Darkness
 - id: 16558
   drk: But...
 - id: 16559
   drk: Your Majesty!
 - id: 16560
   drk: >-
-    Sora, the rest is up to you...{:delay 96 00}{:clear }{:delay 3C 00}{:clear }And Roxas--
-
-    I doubt you can hear me--but...{:delay E6 00}{:clear }{:delay 18 00}{:clear }I am sorry.
+    Darkness
 - id: 16561
   drk: Ansem!
 - id: 16562
   drk: >-
-    My heart is telling me what I must do.
-
-    Please allow me to do what it says!
+    Darkness
 - id: 16563
   drk: No!
 - id: 16564
@@ -940,9 +932,7 @@
     happened without you.
 - id: 16570
   drk: >-
-    YOU are the source of all Heartless.{:delay C0 00}{:clear }{:delay 30 00}It was your research that inspired me
-
-    to go further than you ever dared.
+    Darkness
 - id: 16573
   drk: We've said enough!{:delay 5A 00}{:clear }{:delay 23 00}{:clear }Riku, you know what to do!{:delay AA 00}{:clear }{:delay 28 00}{:clear }King Mickey, my friend, forgive me!{:delay E6 00}{:clear }{:delay 28 00}{:clear }Farewell!
 - id: 16671
@@ -967,9 +957,7 @@
   drk: Kairi! Where are you?
 - id: 16681
   drk: >-
-    Shhh! Remember where we are!
-
-    This is their stronghold!
+    Darkness
 - id: 16682
   drk: Wait! Your Majesty!
 - id: 16683
@@ -988,9 +976,7 @@
   drk: I do. More than anything.{:delay 84 00}{:clear }{:delay 1C 00}But not with you around.
 - id: 16690
   drk: >-
-    If I had a heart, this would
-
-    be where I die of laughter.
+    Darkness
 - id: 16691
   drk: You...{:delay 41 00}{:clear } {:delay 32 00}{:clear }Didn´t Roxas take care of you?
 - id: 16692
@@ -1052,46 +1038,22 @@
   drk: It is magically locked.
 - id: 18437
   drk: >-
-    The King went on ahead again!
-
-    Can´t he ever wait up!?{:clear }Not that I´m nervous, but I´m glad
-
-    we can go back to Twilight Town anytime.
+    Darkness
 - id: 18438
   drk: >-
-    This town sure is dark. This is where
-
-    the Nobodies live, right?{:clear }C´mon. Let´s try to find a path to
-
-    the {:theme 0A}castle{:reset} Kairi´s being held at.
+    Darkness
 - id: 18439
   drk: >-
-    You can bet Organization {XIII} will be
-
-    waiting for you in that castle.{:clear }I don´t need to tell you how powerful
-
-    they are. Don´t let your guard down.
+    Darkness
 - id: 18440
   drk: >-
-    This sure is a strange world.
-
-    The moon even looks like a heart.{:clear }C´mon, now that we´ve opened the path
-
-    to the {:theme 0A}castle{:reset}, let´s go rescue Kairi!
+    Darkness
 - id: 18441
   drk: >-
-    That castle´s the enemy´s headquarters.
-
-    It´s probably swarming with Nobodies.{:clear }They´re tough opponents, but they all
-
-    have weaknesses. Try to find them out.
+    Darkness
 - id: 18442
   drk: >-
-    Wow! This place looked big from outside,
-
-    but the inside looks even bigger!{:clear }If this is going to be our last battle,
-
-    let´s show them what we´re made of!
+    Darkness
 - id: 18443
   drk: >-
     Golly, I feel darkness around
@@ -1436,7 +1398,7 @@
 - id: 19571
   drk: Hurry! Without your help, Sora is doomed!
 - id: 19572
-  drk: Use Reflect to deflect laser attacks!
+  drk: Use Dark Return to deflect laser attacks!
 - id: 19586
   drk: They´re about to attack! Try using Stunt Dodge to avoid it!
 - id: 19587
@@ -1605,7 +1567,7 @@
 
     as you so desired.{:delay A5 00}{:clear }I told the young Sora to keep
 
-    defeating the Heartless.
+    defeating the Darkness.
 - id: 19951
   drk: >-
     Good.{:delay 4D 00}{:clear } {:delay 37 00}{:clear }Not only have you the power
@@ -1642,14 +1604,14 @@
     than our pity.
 - id: 19957
   drk: >-
-    Sora knows the truth now.{:delay 93 00}{:clear } {:delay 62 00}{:clear }The more Heartless that he defeats,{:delay 78 00}{:clear }the closer he is to becoming
+    Sora knows the truth now.{:delay 93 00}{:clear } {:delay 62 00}{:clear }The more Darkness that he defeats,{:delay 78 00}{:clear }the closer he is to becoming
 
     our perfect puppet.
 - id: 19958
   drk: >-
     What does it matter really?{:delay 92 00}{:clear }Whatever his circumstances,{:delay 8B 00}{:clear }Sora has never been able to help himself
 
-    from saving people from the Heartless.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }It's what his pure little heart wants.
+    from saving people from the Darkness.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }It's what his pure little heart wants.
 - id: 19959
   drk: >-
     There--the dice have been cast.{:delay C8 00}{:clear } {:delay 14 00}{:clear }Things are in motion.
@@ -1710,11 +1672,11 @@
 - id: 19975
   drk: Get real. Look which one of us is winning.
 - id: 19976
-  drk: So it's true. You really are his Nobody.{:delay EE 00}{:clear }Guess DiZ was right after all.
+  drk: So it's true. You really are his Shell of Darkness.{:delay EE 00}{:clear }Guess DiZ was right after all.
 - id: 19977
   drk: What are you talking about?
 - id: 19978
-  drk: I am me.{:delay 6E 00}{:clear }Nobody else!!!
+  drk: I am me.{:delay 6E 00}{:clear }Shell of Darkness else!!!
 - id: 19979
   drk: How many times do I hafta beat you!?
 - id: 19980
@@ -1764,7 +1726,7 @@
 
     You can't seriously get rid of him.
 - id: 21438
-  drk: A Nobody cannot feel anything.
+  drk: A Shell of Darkness cannot feel anything.
 - id: 21439
   drk: If he had met Sora,{:delay 74 00}{:clear }things might have been different.
 - id: 21440

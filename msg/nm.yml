@@ -12,65 +12,33 @@
     helping me in their place?
 - id: 5773
   drk: >-
-    We´ll never be able to go through with
-
-    Halloween with those guys around!{:clear }You´ve got to hurry {:theme 0A}to Sandy {:reset}and put an
-
-    end to this!
+    Darkness
 - id: 5774
   drk: >-
-    Oh no! Everyone, look! There´s smoke
-
-    coming out of the house!{:clear }You´ve got to rescue Santa,
-
-    quick!
+    Darkness
 - id: 5778
   drk: >-
-    Hmm... I don´t see anything here that we
-
-    could use for Halloween.
+    Darkness
 - id: 5779
   drk: >-
-    Whoever snuck into the factory must have
-
-    run off somewhere.{:clear }I doubt they could have gotten far.
-
-    Maybe we´ll find a clue outside.
+    Darkness
 - id: 5780
   drk: >-
-    The entrance to the toy factory
-
-    is over there.{:clear }We´ve been so busy lately, the {:theme 0A}toy factory{:reset}
-
-    is running 24-7! So much for sleep!
+    Darkness
 - id: 5781
   drk: >-
-    Now then, I can´t let Jack
-
-    upstage me.{:clear }I hope all of you enjoy Halloween and
-
-    Christmas this year.
+    Darkness
 - id: 5784
   drk: >-
-    The Heartless are causing trouble in
-
-    the{:theme 0A} Halloween Town Square{:reset}.{:clear }It looked like they were playing with
-
-    presents. Be careful.
+    Darkness
 - id: 5785
   drk: >-
-    A special device is located
-
-    upstairs.{:clear }It caused a lot of problems, though, so now
-
-    only authorized personnel can enter.
+    Darkness
 - id: 5790
   drk: Hey, this is Halloween Town, right?
 - id: 5791
   drk: >-
-    Well, it sure does look like
-
-    Hallowee...{:delay DC 00}{:clear }Wha?
+    Darkness
 - id: 5792
   drk: Hey, it´s Zero!{:delay 3C 00}{:clear }How´ve you been, boy?
 - id: 5793
@@ -183,7 +151,7 @@
   drk: >-
     You know, the ones who wanted
 
-    to spoil Halloween AND Christmas?{:delay 9B 00}{:clear }What are they called again...{:delay 78 00}{:clear }  {:delay 28 00}{:clear }Heartless?
+    to spoil Halloween AND Christmas?{:delay 9B 00}{:clear }What are they called again...{:delay 78 00}{:clear }  {:delay 28 00}{:clear }Darkness?
 - id: 5830
   drk: >-
     They're definitely not with us.{:delay 5A 00}{:clear }  {:delay 14 00}{:clear }But Donald, Goofy, and I
@@ -192,7 +160,7 @@
 - id: 5831
   drk: And then we can go see Santa!
 - id: 5832
-  drk: But first, the Heartless!
+  drk: But first, the Darkness!
 - id: 5833
   drk: Now hear this, you...you things!{:delay AD 00}{:clear }Leave Halloween Town at once...{:delay 84 00}{:clear }by order of the mayor!
 - id: 5834
@@ -443,7 +411,7 @@
     Sora and the others occupied.
 - id: 5914
   drk: >-
-    My Heartless will help you.
+    My Darkness will help you.
 
     But do not fail me!
 - id: 5915
@@ -525,7 +493,7 @@
   drk: >-
     Yes.{:delay 50 00}{:clear }  {:delay 14 00}{:clear }And in the meantime,{:delay 3C 00}{:clear }I´ll turn Santa Claus
 
-    into Santa Heartless!{:delay F0 00}{:clear }
+    into Santa Darkness!{:delay F0 00}{:clear }
 - id: 5938
   drk: Are we done?
 - id: 5939
@@ -564,7 +532,7 @@
   drk: >-
     I do hope our jolly old friend{:delay 8A 00}{:clear }is looking forward to
 
-    becoming a Heartless.
+    becoming a Darkness.
 - id: 5949
   drk: Clumsy oaf!
 - id: 5950
@@ -659,7 +627,7 @@
 
     little help this year, Mr. Claws.{:delay A0 00}{:clear }  {:delay 14 00}{:clear }You must be exhausted from
 
-    all the preparations.{:delay B9 00}{:clear }And--I wouldn´t mind a second chance
+    all the preparations.{:delay B9 00}{:clear }And--I wouldn´t mind a Second Darkness
 
     to get this Christmas thing right.
 - id: 5982
@@ -904,7 +872,7 @@
   drk: '{:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 00 05}Is something wrong?'
 - id: 6055
   drk: >-
-    {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 06}The Heartless are back in
+    {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 06}The Darkness are back in
 
     the town square.{:clear }I thought you should know.
 - id: 6056
@@ -915,7 +883,7 @@
   drk: '{:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}But wait!'
 - id: 6059
   drk: >-
-    {:unk13 39 01 31 00}{:unk06 00}{:unk08 01 00 06}Actually...{:clear }The Heartless were playing with
+    {:unk13 39 01 31 00}{:unk06 00}{:unk08 01 00 06}Actually...{:clear }The Darkness were playing with
 
     some presents when I saw them...
 - id: 6060
@@ -973,15 +941,15 @@
 - id: 6072
   drk: '{:unk13 FA 00 D2 00}{:unk06 02}{:unk08 03 01 06}Who!?'
 - id: 6073
-  drk: '{:unk13 DC 00 50 00}{:unk06 00}{:unk08 01 01 06}The Heartless.'
+  drk: '{:unk13 DC 00 50 00}{:unk06 00}{:unk08 01 01 06}The Darkness.'
 - id: 6074
   drk: >-
     {:unk13 AD 00 64 00}{:unk06 00}{:unk08 01 01 06}What, those wretched things?{:clear }Preposterous! This was
 
-    nothing like a Heartless.
+    nothing like a Darkness.
 - id: 6075
   drk: >-
-    {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 06}Not the Heartless,
+    {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 06}Not the Darkness,
 
     huh...
 - id: 6076
@@ -1333,24 +1301,24 @@
 
     used your factory{:clear }to create a few presents?
 - id: 8105
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 8106
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Use objects in town to your advantage!
 - id: 8107
   drk: '{:theme 07}Challenge{:reset}: Defeat all of the enemies!'
 - id: 8108
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Use objects in town to your advantage!
 - id: 8109
-  drk: Defeat all of the Heartless!
+  drk: Defeat all of the Darkness!
 - id: 8110
   drk: >-
-    Defeat the Heartless!
+    Defeat the Darkness!
 
     Try using a combination of physical
 
@@ -1370,7 +1338,7 @@
   drk: Retrieve the presents!
 - id: 8114
   drk: >-
-    Defeat all of the Heartless and
+    Defeat all of the Darkness and
 
     retrieve the presents!
 - id: 8115
@@ -1423,7 +1391,7 @@
   drk: Trap Lock, Shock, or Barrel while they´re tired, so they won´t escape!
 - id: 16707
   drk: >-
-    Heartless are appearing, Jack wants to
+    Darkness are appearing, Jack wants to
 
     become Sandy Claws...{:clear }I have a bad feeling about all this. I just
 
@@ -1610,7 +1578,7 @@
     Now go speak with {:theme 0A}Santa Claus{:reset}.
 - id: 16739
   drk: >-
-    The Heartless are playing with presents?
+    The Darkness are playing with presents?
 
     That´s a sight I´d like to see!{:clear }Halloween Town´s a bit too scary for my
 
@@ -1642,7 +1610,7 @@
   drk: >-
     Let´s hurry up and get rid of those
 
-    Heartless so we can get those presents back.{:clear }Come on, let´s go!
+    Darkness so we can get those presents back.{:clear }Come on, let´s go!
 - id: 16745
   drk: >-
     What is this "experiment" the doc´s
@@ -1652,7 +1620,7 @@
     anything good will come out of this, either.
 - id: 16746
   drk: >-
-    If Heartless are on the loose, we can´t just
+    If Darkness are on the loose, we can´t just
 
     ignore them.{:clear }We have to go back to {:theme 0A}Halloween Town{:reset}
 
@@ -1817,14 +1785,14 @@
   drk: >-
     Oogie´s the one who wreaked havoc
 
-    with the Heartless last time, right?{:clear }If he´s kidnapped Santa, how am I supposed
+    with the Darkness last time, right?{:clear }If he´s kidnapped Santa, how am I supposed
 
     to get any presents for Christmas!?
 - id: 18528
   drk: >-
     Where´d Oogie come from? He tried
 
-    to control the Heartless last time.{:clear }What´s he up to now?
+    to control the Darkness last time.{:clear }What´s he up to now?
 - id: 18531
   drk: ' {:delay 38 00}{:clear }Huh?{:delay 37 00}{:clear }'
 - id: 18532
@@ -1835,7 +1803,7 @@
   drk: Reload
 - id: 18750
   drk: >-
-    Destroy Dr. Finklestein´s experimental Heartless!
+    Destroy Dr. Finklestein´s experimental Darkness!
 
     Try using its body parts to your advantage!
 - id: 18914
@@ -1963,7 +1931,7 @@
 - id: 20612
   drk: Press {:icon button-triangle} to begin the duel! Avoid the enemy's magic spells!
 - id: 21541
-  drk: "{:delayandfade 07 B4} \nWith the Heartless on the loose, Santa\ncan't help but worry. Jack recruits Sora\nand his friends as Santa's bodyguards.\n \nMeanwhile, a sinister shadow makes its way\nto Halloween Town...\n \n \n \n \n"
+  drk: "{:delayandfade 07 B4} \nWith the Darkness on the loose, Santa\ncan't help but worry. Jack recruits Sora\nand his friends as Santa's bodyguards.\n \nMeanwhile, a sinister shadow makes its way\nto Halloween Town...\n \n \n \n \n"
 - id: 21542
   drk: "{:delayandfade 07 B4} \nSora and his friends teach the misfits\na lesson. Just before they run off, they\nlet it slip that Oogie is back.\n \nA year ago, Oogie tried to take over\nthe town. What could he be up to now?\n \n \n \n \n"
 - id: 21543
@@ -1971,8 +1939,8 @@
 - id: 21544
   drk: "{:delayandfade 07 B4} \nThe three misfits are finally captured, but\nit turns out they're not the present thieves.\nThey were just searching for parts to help\nwith the doctor's experiment.\n \n \n \n \n \n \n"
 - id: 21545
-  drk: "{:delayandfade 07 B4} \nThen who could the real culprit be?\n \nAs Sora and his friends ponder the\nsituation, they get a lead that may be\nthe key to solving the case.\n \nIt seems the Heartless are in town with\nthe presents, and are causing quite a\nruckus.\n \n"
+  drk: "{:delayandfade 07 B4} \nThen who could the real culprit be?\n \nAs Sora and his friends ponder the\nsituation, they get a lead that may be\nthe key to solving the case.\n \nIt seems the Darkness are in town with\nthe presents, and are causing quite a\nruckus.\n \n"
 - id: 21546
-  drk: "{:delayandfade 07 B4} \nSora and his friends discover the Heartless\naren't behind the debacle.\n \nThey come up with a cunning plan to use\ndecoy presents as bait to lure out the real\nculprit.\n \n \n \n \n"
+  drk: "{:delayandfade 07 B4} \nSora and his friends discover the Darkness\naren't behind the debacle.\n \nThey come up with a cunning plan to use\ndecoy presents as bait to lure out the real\nculprit.\n \n \n \n \n"
 - id: 21547
   drk: "{:delayandfade 07 B4} \nThere's only one place to make the perfect\ndecoy presents--Santa's factory.\n \nWith a little help, they manage to produce\nenough to execute their plan.\n \nThe presents look just like any other, full\nof love and warmth.\n \n \n"

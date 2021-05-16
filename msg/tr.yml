@@ -1,17 +1,9 @@
 ﻿- id: 849
   drk: >-
-    We can get out by gathering the
-
-    door´s lock data and freezing it.{:clear }The problem is, we don´t have any
-
-    way to extract the data.
+    Darkness
 - id: 850
   drk: >-
-    Users are amazing!
-
-    I´ve never seen a program like this!{:clear }Now that I can use the solar sailer,
-
-    I can access the MCP!
+    Darkness
 - id: 855
   drk: Sora!
 - id: 856
@@ -21,7 +13,7 @@
 - id: 858
   drk: I am Commander Sark.
 - id: 859
-  drk: A Heartless commander?
+  drk: A Darkness commander?
 - id: 860
   drk: Observe.
 - id: 861
@@ -34,28 +26,18 @@
   drk: A what system?
 - id: 865
   drk: >-
-    A computer system--for processing data.{:delay A2 00}{:clear }{:delay 3C 00}{:clear }This system is a copy of one created
-
-    by a corporation called ENCOM.{:delay E6 00}{:clear }{:delay 2A 00}{:clear }The original program
-
-    was destroyed.
+    Darkness
 - id: 866
   drk: But this copy was acquired by another User.
 - id: 867
   drk: >-
-    The new User updated and
-
-    customized the programs,{:delay 96 00}{:clear }renaming the system "Hollow Bastion OS."
+    Darkness
 - id: 868
   drk: >-
-    He used the system for
-
-    town maintenance,{:delay 78 00}{:clear }{:delay 1E 00}{:clear }and to advance his private research.
+    Darkness
 - id: 869
   drk: >-
-    My name is Tron.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }I´m a security program.{:delay 48 00}{:clear }{:delay 36 00}{:clear }But now I´m under arrest,
-
-    same as you.
+    Darkness
 - id: 870
   drk: Did you guys get any of that?
 - id: 871
@@ -222,7 +204,7 @@
     sensitive or restricted.
 - id: 914
   drk: >-
-    Is there stuff about the Heartless,
+    Is there stuff about the Darkness,
 
     or Organization {XIII}?
 - id: 915
@@ -545,7 +527,7 @@
   drk: >-
     {:unk13 B4 00 46 00}{:unk08 01 01 06}Well, there´s this machine for
 
-    making Heartless--it´s gone
+    making Darkness--it´s gone
 
     totally berserk...{:clear }The town´s control system
 
@@ -792,16 +774,16 @@
   drk: 'Challenge: Defeat all of the enemies!'
 - id: 8138
   drk: >-
-    Defeat all of the Heartless!
+    Defeat all of the Darkness!
 
     Using reaction commands with {:icon button-triangle}
 
     will make the battle easier!
 - id: 8139
-  drk: Defeat all of the Heartless and head for the I/O Tower!
+  drk: Defeat all of the Darkness and head for the I/O Tower!
 - id: 8140
   drk: >-
-    Defeat all of the Heartless and
+    Defeat all of the Darkness and
 
     head for the I/O Tower!
 
@@ -929,7 +911,7 @@
   drk: >-
     The outside´s already bad enough
 
-    with Heartless and Nobodies!{:clear }Any more problems, and the town will
+    with Darkness and Nobodies!{:clear }Any more problems, and the town will
 
     fall apart!
 - id: 17885
@@ -1071,14 +1053,14 @@
 - id: 19112
   drk: You can´t ride it without the solar sailer.
 - id: 19544
-  drk: Defeat 5 of the Heartless!
+  drk: Defeat 5 of the Darkness!
 - id: 19545
   drk: Clear the enemies and head for the goal!
 - id: 19567
   drk: >-
     Use Attack, Charge, and Guard to
 
-    defeat 5 of the Heartless!
+    defeat 5 of the Darkness!
 - id: 19568
   drk: >-
     Use Attack, Charge, and Guard to
